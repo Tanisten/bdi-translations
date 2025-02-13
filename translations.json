@@ -9,4 +9,28 @@
   "Click on the x to delete the sprite. If you delete a sprite by accident, click \"Edit\" -> \"Restore Sprite.\"": "Klicken Sie auf das x, um das Sprite zu löschen. Wenn Sie ein Sprite versehentlich löschen, klicken Sie auf \"Bearbeiten\" -> \"Sprite wiederherstellen.\"",
   "Save the project": "Speichern Sie das Projekt",
   "Click the \"Save\" button to save all the latest changes to the project!": "Klicken Sie auf die \"Speichern\"-Schaltfläche, um alle letzten Änderungen am Projekt zu speichern!"
+   "Choose and add a suitable background for these characters! Click on the animation and see how to add a background.": "Wählen Sie einen passenden Hintergrund für diese Figuren aus und fügen Sie ihn hinzu! Klicken Sie auf die Animation und sehen Sie, wie Sie einen Hintergrund hinzufügen.",
+  "Add a suitable background": "Fügen Sie einen passenden Hintergrund hinzu",
+  "Save the project and go to the next level": "Speichern Sie das Projekt und gehen Sie zum nächsten Level",
+  "Add suitable sprites": "Fügen Sie passende Sprites hinzu",
+  "What sprites would look good against this background?": "Welche Sprites würden vor diesem Hintergrund gut aussehen?",
+  "Move the sprites to suitable places using the mouse": "Verschieben Sie die Sprites mit der Maus an die passenden Stellen",
+  "To delete a sprite, click on the x next to it.": "Um ein Sprite zu löschen, klicken Sie auf das x daneben.",
+  "Choose a suitable background": "Wählen Sie einen passenden Hintergrund",
+  "Please note: there are already a few ready-made backgrounds in the project. You just need to choose the right one.": "Bitte beachten Sie: Es gibt bereits einige vorgefertigte Hintergründe im Projekt. Sie müssen nur den richtigen auswählen.",
+  "Choose a background from those that are available in the project": "Wählen Sie einen Hintergrund aus denen aus, die im Projekt verfügbar sind",
+  "Choose the costume you want": "Wählen Sie das gewünschte Kostüm aus",
+  "Let the dog look at you. Can you find the right costume?": "Lassen Sie sich vom Hund ansehen. Können Sie das richtige Kostüm finden?",
+  "Ask a question": "Stellen Sie eine Frage",
+  "If you can't solve a task, write to the teacher in the special chat — Marsgram!": "Wenn Sie eine Aufgabe nicht lösen können, schreiben Sie dem Lehrer im speziellen Chat – Marsgram!",
+  "Add a phrase": "Fügen Sie einen Satz hinzu",
+  "What will your snowman say?": "Was wird Ihr Schneemann sagen?",
+  "The start of the script": "Der Beginn des Skripts",
+  "The script starts with the command \"When the green flag is clicked.\"": "Das Skript beginnt mit dem Befehl \"Wenn auf die grüne Flagge geklickt wird.\"",
+  "Finish the Mars project": "Das Mars-Projekt beenden",
+  "Look, the programmer hasn't completed this project! Finish it.": "Schauen Sie, der Programmierer hat dieses Projekt nicht abgeschlossen! Beenden Sie es.",
+  "Change the background from Earth to Mars": "Ändern Sie den Hintergrund von der Erde zum Mars",
+  "Use the command \"speak...\"": "Verwenden Sie den Befehl \"sprechen...\"",
+  "Finish the project at your own discretion": "Beenden Sie das Projekt nach eigenem Ermessen"
 }
+
