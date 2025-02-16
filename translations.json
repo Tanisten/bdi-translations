@@ -92,7 +92,7 @@
   "Resize - increase": "Größe ändern - vergrößern",
   "Use this command to increase the size.": "Verwenden Sie diesen Befehl, um die Größe zu vergrößern.",
   "Resize - decrease": "Größe ändern - verkleinern",
-  "You already know the command for how to resize a sprite. To reduce the size, just enter a number with a minus sign. For example, -5.": "Sie kennen bereits den Befehl zum Ändern der Größe einer Figur.\nUm die Größe zu reduzieren, geben Sie einfach eine Zahl mit einem Minuszeichen ein, z. B. -5.",
+  "You already know the command for how to resize a sprite. To reduce the size, just enter a number with a minus sign. For example, -5.": "Sie kennen bereits den Befehl zum Ändern der Größe einer Figur. Um die Größe zu reduzieren, geben Sie einfach eine Zahl mit einem Minuszeichen ein, z. B. -5.",
   "The star is steadily increasing and decreasing": "Der Stern vergrößert und verkleinert sich gleichmäßig",
   "Use two loops in a row.": "Verwenden Sie zwei Schleifen hintereinander.",
   "Before takeoff": "Vor dem Abheben",
