@@ -150,7 +150,7 @@
   "The skeleton walks": "Das Skelett läuft",
   "When you click on the green flag, the skeleton is constantly walking. Please note that only three costumes are used for walking. Use the \"wait_sec\" command, so that the animation is visible.": "Wenn du auf die grüne Flagge klickst, läuft das Skelett ständig. Beachte, dass nur drei Kostüme zum Laufen verwendet werden. Verwende den Befehl „wait_sec“, damit die Animation sichtbar wird.",
   "The ghost": "Der Geist",
-  "When you click on the green flag, the ghost changes costumes.": "Wenn du auf die grüne Flagge klickst, wechselt der Geist das Kostüm.",
+  "When you click on the green flag, the ghost changes costumes. Use the \"wait_sec\" command, so that the animation is visible.": "Wenn du auf die grüne Flagge klickst, wechselt der Geist das Kostüm. Verwende den Befehl „wait_sec“, damit die Animation sichtbar wird.",
   "Stop the whole project": "Das ganze Projekt stoppen",
   "All the scripts stop when you press the space bar.": "Alle Skripte werden gestoppt, wenn du die Leertaste drückst.",
   "The Stop All command immediately stops all scripts for both the skeleton and the ghost.": "Der Befehl „Alle stoppen“ stoppt sofort alle Skripte sowohl für das Skelett als auch für den Geist.",
