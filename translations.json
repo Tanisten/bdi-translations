@@ -49,7 +49,7 @@
   "The snake sees the dinosaur in a second instead of immediately. To prevent it from changing its costume ahead of time, we use the \"wait __ sec\" command": "Die Schlange sieht den Dinosaurier erst nach einer Sekunde statt sofort. Um zu verhindern, dass sie ihr Kostüm zu früh wechselt, verwenden wir den Befehl \"warte __ Sek\".",
 
   "The \"Heart\" project": "Das \"Herz\"-Projekt",
-  "Take a look at the example. The heart changes costume 4 times. Each costume is visible for 1 second.\n\nCan you do the same?": "Schauen Sie sich das Beispiel an. Das Herz wechselt viermal das Kostüm. Jedes Kostüm ist für 1 Sekunde sichtbar.\n\nKönnen Sie das auch?",
+  "Take a look at the example. The heart changes costume 4 times. Each costume is visible for 1 second.\nCan you do the same?": "Schauen Sie sich das Beispiel an. Das Herz wechselt viermal das Kostüm. Jedes Kostüm ist für 1 Sekunde sichtbar.\n\nKönnen Sie das auch?",
   "Costume change": "Kostümwechsel",
   "The \"Next Costume\" command changes the costume that is set next in the list of costumes.": "Der Befehl \"Nächstes Kostüm\" ändert das nächste Kostüm in der Liste.",
   "Repeating actions": "Wiederholende Aktionen",
