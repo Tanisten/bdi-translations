@@ -184,7 +184,7 @@
   "Event 1": "Ereignis 1",
   "When you press the up arrow key, the rocket changes position.": "Wenn Sie die Pfeiltaste nach oben drücken, ändert die Rakete ihre Position.",
   "Motion 1": "Bewegung 1",
-  "This command sets the position of the sprite on the stage using coordinates.": "Dieser Befehl legt die Position des Sprites auf der Bühne mithilfe von Koordinaten fest.",
+  "This command sets the position of the sprite on the stage using coordinates.1.Place the sprite in a certain place, and the command \"Go to x: __ y: __\" will contain the coordinate values corresponding to that position.2.Drag the \"Go to x: __ y: __\" block from the command palette.": "Dieser Befehl legt die Position des Sprites auf der Bühne mithilfe von Koordinaten fest.",
   "1. Place the sprite in a certain place, and the command \"Go to x: __ y: __\" will contain the coordinate values corresponding to that position.": "1. Platzieren Sie das Sprite an einer bestimmten Stelle, und der Befehl „Gehe zu x:__y:__“ enthält die Koordinatenwerte, die dieser Position entsprechen.",
   "2. Drag the \"Go to x: __ y: __\" block from the command palette.": "2. Ziehen Sie den Block „Gehe zu x:__y:__“ aus der Befehlspalette.",
   "Event 2": "Ereignis 2",
