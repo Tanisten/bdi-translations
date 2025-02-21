@@ -665,6 +665,7 @@
   "Aufwärtsbewegung": "Aufwärtsbewegung",
   "Program the following rule: if the up arrow key is pressed, the goalkeeper moves up.": "Programmiere die folgende Regel: Wenn die obere Pfeiltaste gedrückt wird, bewegt sich der Torwart nach oben.",
   "Downward movement": "Abwärtsbewegung",
+  "In order for the program to always check if a key is pressed, use the \"repeat forever\" command.": "Damit das Programm immer prüft, ob eine Taste gedrückt wurde, verwenden Sie den Befehl \"immer wiederholen\".",
   "Program the following rule: if the down arrow key is pressed, the goalkeeper moves down.": "Programmiere die folgende Regel: Wenn die untere Pfeiltaste gedrückt wird, bewegt sich der Torwart nach unten."}
  
 
