@@ -767,7 +767,9 @@
   "Victory": "Sieg",
   "Remember to program how the player will find out when they have won.": "Denke daran, zu programmieren, wie der Spieler erfährt, dass er gewonnen hat.",
   "Erstellen!": "Erstellen!",
-  "Program your level!": "Programmiere dein Level!"
+  "Program your level!": "Programmiere dein Level!",
+  "Use the pages in your workbook to display your game plan.":"Verwenden Sie die Seiten in Ihrem Arbeitsbuch, um Ihren Spielplan darzustellen.",
+  "Do the initial placement and movement of obstacles and enemies for the first level!":"Platzieren und bewegen Sie Hindernisse und Gegner zunächst für das erste Level!"
 }
 
 
