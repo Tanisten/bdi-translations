@@ -319,7 +319,7 @@
   "This clock will be just like a real one after you program it.": "Diese Uhr wird wie eine echte sein, wenn du sie programmierst.",
   "At startup, the time is exactly 12:00!": "Beim Start ist die Zeit genau 12:00!",
   "Movement of the second hand": "Bewegung des Sekundenzeigers",
-  "Does the arrow move clockwise or counterclockwise?\nThe whole circle is 360 degrees. 60 seconds in one circle. 360 divided by 60 = 6.\nThe second hand rotates 6 degrees every second.": "Bewegt sich der Zeiger im oder gegen den Uhrzeigersinn?\nEin ganzer Kreis hat 360 Grad. 60 Sekunden für einen Kreis. 360 geteilt durch 60 = 6.\nDer Sekundenzeiger dreht sich jede Sekunde um 6 Grad.",
+  "Does the arrow move clockwise or counterclockwise? The whole circle is 360 degrees. 60 seconds in one circle. 360 divided by 60 = 6. The second hand rotates 6 degrees every second.": "Bewegt sich der Zeiger im oder gegen den Uhrzeigersinn?\nEin ganzer Kreis hat 360 Grad. 60 Sekunden für einen Kreis. 360 geteilt durch 60 = 6.\nDer Sekundenzeiger dreht sich jede Sekunde um 6 Grad.",
   "Movement of the minute hand": "Bewegung des Minutenzeigers",
   "Have you noticed that the minute hand moves less often and a shorter distance than the second hand? Let's move it one degree at a time. The minute hand moves 6 degrees in 60 seconds. 60 seconds divided by 6 degrees is 10 seconds — after that, the minute hand will move 1 degree.": "Hast du bemerkt, dass sich der Minutenzeiger seltener und weniger weit bewegt als der Sekundenzeiger? Lassen wir ihn jeweils um 1 Grad bewegen. Der Minutenzeiger bewegt sich in 60 Sekunden um 6 Grad. 60 Sekunden geteilt durch 6 Grad ergibt 10 Sekunden – danach bewegt sich der Minutenzeiger um 1 Grad.",
   "Sprite center": "Sprite-Zentrum",
