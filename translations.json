@@ -1105,7 +1105,6 @@
   "It's time to pick apples. They are already falling from the tree themselves. There's a basket under the apple tree and you can find out how many apples have fallen into the basket, and how many missed it. Let's program it.": "Es ist Zeit, Äpfel zu pflücken. Sie fallen bereits selbst vom Baum. Unter dem Apfelbaum steht ein Korb, und du kannst herausfinden, wie viele Äpfel in den Korb gefallen sind und wie viele daneben. Lass es uns programmieren.",
   "Variables": "Variablen",
   "In order to keep score of the apples, you need \"Collected\" and \"Missed\" variables. These variables should be set to 0 when starting the project to avoid confusion.": "Um den Punktestand der Äpfel zu erfassen, benötigen Sie die Variablen \"Gesammelt\" und \"Verpasst\". Diese Variablen sollten beim Start des Projekts auf 0 gesetzt werden, um Verwirrung zu vermeiden.",
-  "Anfangspositionierung": "Anfangsplatzierung",
   "Set the initial placement so that the apples fall from the apple tree and are of the correct size.": "Legen Sie die Anfangsposition fest, damit die Äpfel vom Apfelbaum fallen und die richtige Größe haben.",
   "Falling apples": "Fallende Äpfel",
   "We program the apples to fall down, and to make it more realistic, we make the apples rotate.": "Wir programmieren die Äpfel so, dass sie fallen, und um es realistischer zu machen, lassen wir die Äpfel rotieren.",
