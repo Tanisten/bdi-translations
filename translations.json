@@ -814,7 +814,6 @@
   "The button is triggered if at least one sprite Girl touches it. Which logical operator should you use? The button then sends the door a message.": "Der Knopf wird ausgelöst, wenn mindestens ein Mädchen-Sprite ihn berührt. Welchen logischen Operator solltest du verwenden? Der Knopf sendet dann der Tür eine Nachricht.",
   "Opening the elevator door": "Öffnen der Aufzugstür",
   "The door opens when it receives a message from the button.": "Die Tür öffnet sich, wenn sie eine Nachricht vom Knopf erhält.",
-  "Anfangsplatzierung": "Anfangspositionierung",
   "Think about what initial placement you need and program it.": "Überlege, welche Anfangsposition du benötigst, und programmiere sie.",
   "Start the Algorithmics bus": "Starte den Algorithmics-Bus",
   "The sprites Giga and Pico need to run the Algorithmics bus from the portal. To do this, they need to touch a button together. Study the example and let's create the code!": "Die Sprites Giga und Pico müssen den Algorithmics-Bus vom Portal aus starten. Dazu müssen sie gemeinsam einen Knopf berühren. Studiere das Beispiel, und lass uns den Code erstellen!",
