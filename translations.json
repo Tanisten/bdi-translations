@@ -214,9 +214,26 @@
   "The wizard becomes invisible. So you need to make it visible at startup.": "Der Zauberer wird unsichtbar. Du musst ihn also beim Start sichtbar machen.",
   "What changes about the dog?": "Was ändert sich beim Hund?",
   "The dog changes its size. But at startup it becomes normal again.": "Der Hund ändert seine Größe. Aber beim Start wird er wieder normal groß.",
+  
+  
+  "-------------------LEKTION 3_Scratch. Where to start-----------------------?":"-------------------LEKTION 3_Scratch. Where to start-----------------------DEUTSCH?",
+  "Graphic editor — Fill": "Füllfunktion im Grafikeditor",
+  "Change the color of the apple from red to green.": "Ändere die Farbe des Apfels von Rot zu Grün.",
+  "Graphic editor — Reshape": "Umformen im Grafikeditor",
+  "Change the shape of the flag according to the example.": "Verändere die Form der Flagge entsprechend dem Beispiel.",
+  "Graphic editor — Character creation": "Charaktererstellung im Grafikeditor",
+  "Using the Circle tool, draw 3 circles of different sizes as shown in the example.": "Zeichne mit dem Kreis-Werkzeug 3 Kreise unterschiedlicher Größe, wie im Beispiel gezeigt.",
+  "Use the Rectangle and Reshape tools, draw the snowman's hat.": "Zeichne mit dem Rechteck- und Umformwerkzeug den Hut des Schneemanns.",
+  "Use the Brush tool to add details.": "Nutze das Pinsel-Werkzeug, um Details hinzuzufügen.",
+  "Graphic editor — Working with tools": "Arbeiten mit Werkzeugen im Grafikeditor",
+  "Use the Circle tool to draw the middle of the flower.": "Verwende das Kreis-Werkzeug, um die Mitte der Blume zu zeichnen.",
+  "Use the Circle and Reshape tools to draw a petal.": "Verwende das Kreis- und Umformwerkzeug, um ein Blütenblatt zu zeichnen.",
+  "Use the Copy and Rotate functions to draw the right number of petals.": "Nutze die Kopieren- und Drehen-Funktion, um die richtige Anzahl an Blütenblättern zu erstellen.",
+  "Graphic editor — Costume change": "Kostümwechsel im Grafikeditor",
+  "Use the graphic tools to change the sprite's costume according to the example.": "Verwende die Grafikwerkzeuge, um das Kostüm der Figur entsprechend dem Beispiel zu ändern.",
+  
 
-
- "-------------------LEKTION 3_Scratch. EVENTS-----------------------?":"-------------------LEKTION 3_Scratch. EVENTS-----------------------DEUTSCH?",
+ "-------------------LEKTION 4_Scratch. EVENTS-----------------------?":"-------------------LEKTION 4_Scratch. EVENTS-----------------------DEUTSCH?",
   "Choosing an outfit": "Ein Outfit auswählen",
   "We can run commands from the keyboard too! Let's program a costume change by pressing the space bar.": "Wir können auch Befehle über die Tastatur ausführen! Programmieren wir einen Kostümwechsel durch Drücken der Leertaste.",
   "Startup script": "Startskript",
