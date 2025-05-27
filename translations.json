@@ -519,4 +519,101 @@
   "Program the \"On the base\" scene": "Programmiere die Szene \"Auf der Basis\"",
   "Program the second scene using the prepared plan in your workbook.": "Programmiere die zweite Szene anhand des vorbereiteten Plans in deinem Arbeitsheft.",
   "Create your own scene": "Erstelle deine eigene Szene",
-  "Come up with a continuation and program it! It can be inserted before the \"On Mars\" scene, or after it!": "Denke dir eine Fortsetzung aus und programmiere sie! Sie kann vor oder nach der Szene \"Auf dem Mars\" eingefügt werden!"}
+  "Come up with a continuation and program it! It can be inserted before the \"On Mars\" scene, or after it!": "Denke dir eine Fortsetzung aus und programmiere sie! Sie kann vor oder nach der Szene \"Auf dem Mars\" eingefügt werden!",
+  
+  
+  
+  
+  
+  
+  
+  "-------------------Game. LEKTION 1_Scratch. Conditions-----------------------?":"-------------------Game. LEKTION 1_Scratch. Conditions-----------------------DEUTSCH?",
+  "Colored ball": "Farbiger Ball",
+  "The ball moves freely around the stage. Each time it touches the edge, it changes color and direction!": "Der Ball bewegt sich frei über die Bühne. Jedes Mal, wenn er den Rand berührt, ändert er seine Farbe und Richtung!",
+  "Program the ball sprite to move constantly": "Programmiere die Ball-Figur so, dass sie sich ständig bewegt",
+  "Complete this task using the familiar \"move _ steps\" and \"repeat forever\" commands.": "Erfülle diese Aufgabe mit den bekannten Befehlen \"_ Schritte bewegen\" und \"für immer wiederholen\".",
+  "Program the ball so that it does not fly out of bounds": "Programmiere den Ball so, dass er nicht aus dem Spielfeld fliegt",
+  "To complete this task, you need the command \"if on edge, bounce,\" which also checks the condition! And it contains a mathematical formula for calculating the angle at which the ball turns. But where do we put this command so that it always works?": "Um diese Aufgabe zu erfüllen, braucht man den Befehl „if on edge, bounce“, der ebenfalls die Bedingung überprüft! Und der eine mathematische Formel zur Berechnung des Winkels enthält, um den sich der Ball dreht. \n\nAber wo platzieren wir diesen Befehl, damit er immer funktioniert?",
+  "Program the condition \"if the ball touches the edge, it changes color\"": "Programmiere die Bedingung \"Wenn der Ball den Rand berührt, ändert er die Farbe\"",
+  "But we do not have this ready-made command. We need to program a check for the condition \"if it touches the edge, it changes color.\" You can change the color by changing the costume!": "Aber wir haben diesen Befehl nicht fertig. Wir müssen eine Bedingungsprüfung programmieren: \"Wenn er den Rand berührt, ändert er die Farbe.\" Du kannst die Farbe ändern, indem du das Kostüm wechselst!",
+  "Set the initial size, costume, and position of the sprite Ball!": "Setze die Anfangsgröße, das Kostüm und die Position der Ball-Figur!",
+  "Move your mouse cursor over the stars to collect them! When you collect all the stars, press the space bar and they will reappear.": "Bewege deinen Mauszeiger über die Sterne, um sie zu sammeln! Wenn du alle Sterne gesammelt hast, drücke die Leertaste, und sie erscheinen wieder.",
+  "A star is hiding": "Ein Stern versteckt sich",
+  "Program the condition \"if the mouse pointer touches the star, it hides.\" To check the condition, always use the \"repeat forever\" command.": "Programmiere die Bedingung \"Wenn der Mauszeiger den Stern berührt, versteckt er sich.\" Um die Bedingung zu überprüfen, verwende immer den Befehl \"wiederhole fortlaufend\".",
+  "A star appears": "Ein Stern erscheint",
+  "When we press the space bar a star appears.": "Wenn wir die Leertaste drücken, erscheint ein Stern.",
+  "At the start, the sprite Star is always visible.": "Zu Beginn ist der Stern-Sprite immer sichtbar.",
+  "Let's program the remaining stars": "Lass uns die restlichen Sterne programmieren",
+  "Program the remaining stars": "Programmiere die restlichen Sterne",
+  "Jellyfish": "Qualle",
+  "Click anywhere on the stage! When you press the mouse button, the background and costume change.": "Klicke irgendwo auf der Bühne! Wenn du die Maustaste drückst, ändern sich der Hintergrund und das Kostüm.",
+  "When you click on the mouse, the sprite changes its costume": "Wenn du auf die Maus klickst, ändert der Sprite sein Kostüm",
+  "Program the condition so that when you click on the mouse pointer, the sprite changes its costume. The script for changing backgrounds is already in the project.": "Programmiere die Bedingung, dass der Sprite sein Kostüm ändert, wenn du auf den Mauszeiger klickst. Das Skript zum Ändern der Hintergründe ist bereits im Projekt enthalten.",
+  "Always check if the mouse is clicked": "Überprüfe immer, ob die Maus geklickt wurde",
+  "This condition must always be checked. We need this command to do so.": "Diese Bedingung muss immer überprüft werden. Wir benötigen diesen Befehl, um dies zu tun.",
+  "The costume must always be the same when starting up.": "Das Kostüm muss beim Start immer gleich sein.",
+  "Bat": "Fledermaus",
+  "Click anywhere on the stage, the Bat sprite will fly to the mouse pointer for 1 second! Let's program it!": "Klicke irgendwo auf der Bühne, der Fledermaus-Sprite fliegt für 1 Sekunde zum Mauszeiger! Lass es uns programmieren!",
+  "Program the condition \"if the mouse is clicked, glide...\"": "Programmiere die Bedingung \"Wenn die Maus geklickt wird, gleite...\"",
+  "Program the rule \"if the mouse is clicked, glide for 1 second to the mouse pointer.\" You already know how to check rules using the \"if ...\" operator. Use this condition!": "Programmiere die Regel \"Wenn die Maus geklickt wird, gleite für 1 Sekunde zum Mauszeiger.\" Du weißt bereits, wie man Regeln mit dem \"Wenn ...\"-Operator überprüft. Verwende diese Bedingung!",
+  "This condition must always be checked. What command do we need?": "Diese Bedingung muss immer überprüft werden. Welchen Befehl benötigen wir?",
+  "Three balls": "Drei Bälle",
+  "After clicking on the green flag, the balls begin to move chaotically.": "Nach dem Klicken auf die grüne Flagge beginnen die Bälle, sich chaotisch zu bewegen.",
+  "Set the position of the sprite Ball at the start and its direction. Any direction can be used!": "Lege die Position des Ball-Sprites am Start und seine Richtung fest. Jede Richtung kann verwendet werden!",
+  "Chaotic ball movement": "Chaotische Ballbewegung",
+  "Program the movement of the ball using the \"move_steps\" and \"repeat forever\" commands.": "Programmiere die Bewegung des Balls mit den Befehlen \"move_steps\" und \"wiederhole fortlaufend\".",
+  "Change of direction": "Richtungsänderung",
+  "Program a change in the direction of the Ball sprite if it reaches the edge. For the command to always work, where should it be placed — in the loop or after?": "Programmiere eine Richtungsänderung des Ball-Sprites, wenn er den Rand erreicht. Damit der Befehl immer funktioniert, wo sollte er platziert werden — in der Schleife oder danach?",
+  "Program 2 more balls": "Programmiere 2 weitere Bälle",
+  "Program the remaining balls by moving the resulting script to the sprite icon. Set for each ball its own starting position.": "Programmiere die restlichen Bälle, indem du das resultierende Skript zum Sprite-Symbol verschiebst. Lege für jeden Ball seine eigene Startposition fest.",
+  "Watch how the balls move: when they touch, they bounce off each other! Modify the program to make the yellow ball fly away from others when it collides.": "Beobachte, wie sich die Bälle bewegen: Wenn sie sich berühren, prallen sie voneinander ab! Ändere das Programm, damit der gelbe Ball bei einer Kollision von den anderen wegfliegt.",
+  "Checking if touching": "Überprüfen, ob sie sich berühren",
+  "Use this condition to program the balls touching.": "Verwende diese Bedingung, um das Berühren der Bälle zu programmieren.",
+  "Bouncing": "Abprallen",
+  "To make them bounce, they need to turn in the opposite direction and move!": "Damit sie abprallen, müssen sie sich in die entgegengesetzte Richtung drehen und sich bewegen!",
+  "Watch how the balls move: when they touch, they bounce off each other! Let's do the same!": "Beobachte, wie sich die Bälle bewegen: Wenn sie sich berühren, prallen sie voneinander ab! Lass uns dasselbe tun!",
+  "Checking if touching and bouncing": "Überprüfen, ob sie sich berühren und abprallen",
+  "Checking if both balls are touching": "Überprüfen, ob sich beide Bälle berühren",
+  "Move the script": "Verschiebe das Skript",
+  "The ball scripts are very similar: they differ only in specifying the sprites they are colliding with. If you assemble a script for one ball, it can then be used as a template for other balls. To do that, transfer the script to the sprite image, as shown in the animation.": "Die Ball-Skripte sind sehr ähnlich: Sie unterscheiden sich nur darin, welche Sprites sie kollidieren. Wenn du ein Skript für einen Ball erstellst, kann es als Vorlage für andere Bälle verwendet werden. Übertrage dazu das Skript auf das Sprite-Bild, wie in der Animation gezeigt.",
+  "The balloons are coming out of the box!": "Die Ballons kommen aus der Kiste!",
+  "Use the mouse cursor to keep the balloons away from the edge!": "Verwende den Mauszeiger, um die Ballons vom Rand fernzuhalten!",
+  "Program touching the edge": "Programmiere das Berühren des Randes",
+  "When the balloons touch the edge, they start coming out of the box again. Use a condition and the \"move\" command!": "Wenn die Ballons den Rand berühren, kommen sie wieder aus der Kiste heraus. Verwende eine Bedingung und den \"move\"-Befehl!",
+  "The balloons touch the mouse cursor": "Die Ballons berühren den Mauszeiger",
+  "When the balloons touch the mouse cursor, they should turn. Use a condition and command with rotation!": "Wenn die Ballons den Mauszeiger berühren, sollten sie sich drehen. Verwende eine Bedingung und einen Befehl mit Rotation!",
+  "The hedgehog is flying to the crab!": "Der Igel fliegt zum Krebs!",
+  "Study the game: you will need to create a similar one. Use the mouse cursor to aim and shoot the crabs by clicking on the mouse. The game consists of 2 stages: aiming and launching. Program the sprite to send messages to itself and split up the execution of the conditions using those messages!": "Studiere das Spiel: Du wirst ein ähnliches erstellen müssen. Verwende den Mauszeiger, um zu zielen und die Krebse zu schießen, indem du auf die Maus klickst. Das Spiel besteht aus 2 Phasen: Zielen und Abschießen. Programmiere den Sprite, um Nachrichten an sich selbst zu senden und die Ausführung der Bedingungen mithilfe dieser Nachrichten aufzuteilen!",
+  "Use the \"if... then...\" command at least 2 times.": "Verwende den Befehl \"Wenn ... dann ...\" mindestens 2 Mal.",
+  "Use the \"if... then...\" command to check the conditions \"mouse clicked?\" and \"touching the edge?\"": "Verwende den Befehl \"Wenn ... dann ...\", um die Bedingungen \"Maus geklickt?\" und \"Rand berührt?\" zu überprüfen.",
+  "Use the \"repeat forever\" command at least 2 times.": "Verwende den Befehl \"wiederhole fortlaufend\" mindestens 2 Mal.",
+  "Use the \"repeat forever\" command to program constant checking of the conditions.": "Verwende den Befehl \"wiederhole fortlaufend\", um die ständige Überprüfung der Bedingungen zu programmieren.",
+  "Use the \"stop other sprite scripts\" command at least 2 times.": "Verwende den Befehl \"stoppe andere Sprite-Skripte\" mindestens 2 Mal.",
+  "Use the \"stop other sprite scripts\" command to prevent the simultaneous execution of scripts.": "Verwende den Befehl \"stoppe andere Sprite-Skripte\", um die gleichzeitige Ausführung von Skripten zu verhindern."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
