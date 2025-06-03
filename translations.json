@@ -589,9 +589,102 @@
   "Use the \"repeat forever\" command at least 2 times.": "Verwende den Befehl \"wiederhole fortlaufend\" mindestens 2 Mal.",
   "Use the \"repeat forever\" command to program constant checking of the conditions.": "Verwende den Befehl \"wiederhole fortlaufend\", um die ständige Überprüfung der Bedingungen zu programmieren.",
   "Use the \"stop other sprite scripts\" command at least 2 times.": "Verwende den Befehl \"stoppe andere Sprite-Skripte\" mindestens 2 Mal.",
-  "Use the \"stop other sprite scripts\" command to prevent the simultaneous execution of scripts.": "Verwende den Befehl \"stoppe andere Sprite-Skripte\", um die gleichzeitige Ausführung von Skripten zu verhindern."
+  "Use the \"stop other sprite scripts\" command to prevent the simultaneous execution of scripts.": "Verwende den Befehl \"stoppe andere Sprite-Skripte\", um die gleichzeitige Ausführung von Skripten zu verhindern.",
+  
+
+  "-------------------Game. LEKTION 2_Scratch. Changing coordinates-----------------------?":"-------------------Game. LEKTION 2_Scratch. Changing coordinates-----------------------DEUTSCH?",
+  "Take the apple": "Nimm den Apfel",
+  "Control Kepler so that he finds the apple!": "Steuere Kepler, damit er den Apfel findet!",
+  "The apple moves on its own": "Der Apfel bewegt sich von selbst",
+  "How does the Apple sprite move? Use the example from the demo project or come up with your own method!": "Wie bewegt sich der Apfel-Sprite? Verwende das Beispiel aus dem Demo-Projekt oder denke dir eine eigene Methode aus!",
+  "Controlling Kepler": "Steuerung von Kepler",
+  "Program Kepler control": "Programmiere die Steuerung von Kepler",
+  "Kepler and the apple touching": "Kepler und der Apfel berühren sich",
+  "If Kepler touches the apple, we send a message about it. The apple hides, and Kepler speaks!": "Wenn Kepler den Apfel berührt, senden wir eine Nachricht darüber. Der Apfel versteckt sich, und Kepler spricht!",
+  "Do not forget that in the beginning, you need to return the apple and Kepler to their original places!": "Vergiss nicht, dass du am Anfang den Apfel und Kepler an ihre ursprünglichen Plätze zurückbringen musst!",
+  
+  "Beetle on a tree": "Käfer auf einem Baum",
+  "Let's program it: the sprite Beetle moves up the tree!": "Programmieren wir es: Die Käfer-Figur bewegt sich den Baum hinauf!",
+  "Upward movement": "Aufwärtsbewegung",
+  "To move the Beetle sprite up, use the \"change y by __\" command.": "Um die Käfer-Figur nach oben zu bewegen, benutze den Befehl \"y um __ ändern\".",
+  "Having reached the top of the trunk, the Beetle sprite starts moving from the beginning.": "Sobald er die Spitze des Stammes erreicht hat, beginnt die Käfer-Figur von vorne.",
+  "Use the command \"go to x: __ y: __\" to return the Beetle sprite to the beginning of its journey.": "Benutze den Befehl \"gehe zu x: __ y: __\", um die Käfer-Figur zum Anfang ihrer Reise zurückzubringen.",
+  "Set the direction and size of the Beetle sprite at the very beginning.": "Setze die Richtung und Größe der Käfer-Figur ganz am Anfang.",
+  
+  
+  "Snowflakes": "Schneeflocken",
+  "The Snowflake sprite appears at the top of the stage and falls down.": "Der Schneeflocken-Sprite erscheint oben auf der Bühne und fällt nach unten.",
+  "Set the initial position of the Snowflake sprite.": "Lege die Anfangsposition des Schneeflocken-Sprites fest.",
+  "Falling": "Fallen",
+  "Repeat the coordinate change a few times to simulate falling!": "Wiederhole die Koordinatenänderung einige Male, um das Fallen zu simulieren!",
+  "The snowflake falls constantly": "Die Schneeflocke fällt ständig",
+  "The Snowflake sprite always returns to the top and falls again!": "Der Schneeflocken-Sprite kehrt immer wieder nach oben zurück und fällt erneut!",
+  
 
 
+  "The dragon guards the castle": "Der Drache bewacht das Schloss",
+  "The sprite Dragon flies left and right!": "Der Drache-Sprite fliegt nach links und rechts!",
+  "The dragon moves to the right": "Der Drache bewegt sich nach rechts",
+  "To move to the right, you need to change the X coordinate to a positive number (without the minus sign).": "Um nach rechts zu bewegen, musst du die X-Koordinate in eine positive Zahl ändern (ohne das Minuszeichen).",
+  "The dragon moves to the left": "Der Drache bewegt sich nach links",
+  "To move to the left, you need to change the X coordinate to a negative number that has a minus sign.": "Um nach links zu bewegen, musst du die X-Koordinate in eine negative Zahl ändern, die ein Minuszeichen hat.",
+  "The dragon turns": "Der Drache dreht sich",
+  "The sprite Dragon looks in the direction it is flying in. Use the \"point in direction __\" command.": "Der Drache-Sprite schaut in die Richtung, in die er fliegt. Verwende den Befehl \"zeige in Richtung __\".",
+  "The dragon moves constantly": "Der Drache bewegt sich ständig",
+  "Use the commands \"repeat forever\" and \"go to x: _ y: _\" to make the Dragon sprite move on the same level.": "Verwende die Befehle \"wiederhole fortlaufend\" und \"gehe zu x: _ y: _\", um den Drache-Sprite auf derselben Ebene zu bewegen.",
+  "Set the size and rotation of the Dragon sprite.": "Lege die Größe und Drehung des Drache-Sprites fest.",
+  
+
+
+  "Goalkeeper control right and left": "Torwartsteuerung rechts und links",
+  "Use the right arrow key to move the goalkeeper to the right and the left arrow key to move the goalkeeper to the left.": "Verwende die rechte Pfeiltaste, um den Torwart nach rechts zu bewegen, und die linke Pfeiltaste, um den Torwart nach links zu bewegen.",
+  "Movement to the right": "Bewegung nach rechts",
+  "Program the following rule: if the right arrow key is pressed, the goalkeeper moves to the right.": "Programmiere die folgende Regel: Wenn die rechte Pfeiltaste gedrückt wird, bewegt sich der Torwart nach rechts.",
+  "Movement to the left": "Bewegung nach links",
+  "Program the following rule: if the left arrow key is pressed, the goalkeeper moves to the left.": "Programmiere die folgende Regel: Wenn die linke Pfeiltaste gedrückt wird, bewegt sich der Torwart nach links.",
+  "Constantly checking keystrokes": "Ständige Überprüfung der Tastendrücke",
+  "Use one \"repeat forever\" command to constantly check to see if any keys are pressed.": "Verwende einen \"wiederhole fortlaufend\"-Befehl, um ständig zu überprüfen, ob Tasten gedrückt werden.",
+  "Set the size of the goalkeeper at the very beginning.": "Lege die Größe des Torwarts ganz am Anfang fest.",
+  
+
+  "Goalkeeper control up and down": "Torwartsteuerung oben und unten",
+  "Use the up arrow key to move the goalkeeper up and the down arrow key to move the goalkeeper down.": "Verwende die obere Pfeiltaste, um den Torwart nach oben zu bewegen, und die untere Pfeiltaste, um den Torwart nach unten zu bewegen.",
+  "Program the following rule: if the up arrow key is pressed, the goalkeeper moves up.": "Programmiere die folgende Regel: Wenn die obere Pfeiltaste gedrückt wird, bewegt sich der Torwart nach oben.",
+  "Downward movement": "Abwärtsbewegung",
+  "In order for the program to always check if a key is pressed, use the \"repeat forever\" command.": "Damit das Programm immer prüft, ob eine Taste gedrückt wurde, verwenden Sie den Befehl \"immer wiederholen\".",
+  "Program the following rule: if the down arrow key is pressed, the goalkeeper moves down.": "Programmiere die folgende Regel: Wenn die untere Pfeiltaste gedrückt wird, bewegt sich der Torwart nach unten.",
+  "In order for the program to always check if a key is pressed, use the \"repeat forever\" command.": "Damit das Programm ständig überprüft, ob eine Taste gedrückt wird, verwende den Befehl \"wiederhole fortlaufend\".",
+  
+  "Snowflake sprites appear at the top of the stage and fall down. Let's program that!": "Schneeflocken-Sprites erscheinen oben auf der Bühne und fallen nach unten. Lass uns das programmieren!",
+  "Falling snowflakes": "Fallende Schneeflocken",
+  "Program the Snowflake sprites so that they constantly fall. Use the \"wait __ seconds\" command.": "Programmiere die Schneeflocken-Sprites so, dass sie ständig fallen. Verwende den Befehl \"warte __ Sekunden\".",
+  "The snowflakes fall at different speeds": "Die Schneeflocken fallen mit unterschiedlichen Geschwindigkeiten",
+  "Enter different values that change the Y coordinate for different snowflakes — then they will fall differently!": "Gib verschiedene Werte ein, die die Y-Koordinate für verschiedene Schneeflocken ändern — dann fallen sie unterschiedlich!",
+  "* Bonus: spinning snowflakes": "* Bonus: sich drehende Schneeflocken",
+  "Think about how to make the snowflakes spin while they're falling. Which command will turn the snowflakes?": "Überlege, wie du die Schneeflocken beim Fallen drehen kannst. Welcher Befehl wird die Schneeflocken drehen?",
+  
+  "Soccer": "Fußball",
+  "Create a game in which the goalkeeper has to protect their goal. Use the arrow keys on the keyboard to control the movement of the Goalkeeper sprite.": "Erstelle ein Spiel, in dem der Torwart sein Tor schützen muss. Verwende die Pfeiltasten auf der Tastatur, um die Bewegung des Torwart-Sprites zu steuern.",
+  "Goalkeeper control": "Torwartsteuerung",
+  "If the corresponding key is pressed, the sprite moves in that direction.": "Wenn die entsprechende Taste gedrückt wird, bewegt sich der Sprite in diese Richtung.",
+  "Ball movement": "Ballbewegung",
+  "Program the Ball sprite so that it moves randomly using the move_steps, repeat forever, and if on edge, bounce.": "Programmiere den Ball-Sprite so, dass er sich zufällig bewegt, indem du die Befehle \"move_steps\", \"wiederhole fortlaufend\" und \"if on edge, bounce\" verwendest.",
+  
+
+  "The Cat sprite jumps": "Der Katzen-Sprite springt",
+  "Press the space bar!": "Drücke die Leertaste!",
+  "Program the Cat sprite to move up when you press the spacebar. What coordinate are we going to change?": "Programmiere den Katzen-Sprite so, dass er nach oben springt, wenn du die Leertaste drückst. Welche Koordinate werden wir ändern?",
+  "Program downward movement. What coordinate are we going to change? To what number?": "Programmiere die Abwärtsbewegung. Welche Koordinate werden wir ändern? Zu welcher Zahl?",
+  "Use the \"go to x: _ y: _\" command.": "Verwende den Befehl \"gehe zu x: _ y: _\".",
+  
+  "Race": "Rennen",
+  "Use the arrows to control the Car sprite and reach the finish line!": "Verwende die Pfeiltasten, um den Auto-Sprite zu steuern und die Ziellinie zu erreichen!",
+  "Car control": "Autosteuerung",
+  "Another control method is to turn when you click on the arrows instead of moving! Try to program that.": "Eine andere Steuerungsmethode besteht darin, sich zu drehen, wenn du auf die Pfeile klickst, anstatt sich zu bewegen! Versuche, das zu programmieren.",
+  "Touching the grass": "Das Gras berühren",
+  "Program this rule: If the Car sprite touches anything green (i.e. travels off the road), it begins its journey again.": "Programmiere diese Regel: Wenn der Auto-Sprite etwas Grünes berührt (d.h. von der Straße abkommt), beginnt er seine Reise von neuem.",
+  "Touching the finish line sprite": "Die Ziellinie berühren",
+  "Program this rule: If the Car sprite touches the finish line, you win and the project stops.": "Programmiere diese Regel: Wenn der Auto-Sprite die Ziellinie berührt, gewinnst du und das Projekt stoppt."
 
 
 
