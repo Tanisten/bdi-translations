@@ -1,5 +1,14 @@
-{
-"error": "HTTPSConnectionPool(host='api.gemini.example.com', port=443): Max retries exceeded with url: /v1/endpoint
-(Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001EF9B875160>: Failed to resolve
-    'api.gemini.example.com' ([Errno 11001] getaddrinfo failed)\"))"
-    }
+curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=GEMINI_API_KEY" \
+  -H 'Content-Type: application/json' \
+  -X POST \
+  -d '{
+    "contents": [
+      {
+        "parts": [
+          {
+            "text": "Explain how AI works in a few words"
+          }
+        ]
+      }
+    ]
+  }'
