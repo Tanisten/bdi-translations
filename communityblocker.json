@@ -1,1 +1,9 @@
 {"status":false}
+
+.\venv\Scripts\Activate.ps1 : Невозможно загрузить файл C:\Users\user\Documents\python\venv\Scripts\Activate.ps1, так как выполнение сценариев отключено в этой системе. Для получения дополнительных све
+дений см. about_Execution_Policies по адресу https:/go.microsoft.com/fwlink/?LinkID=135170.
+строка:1 знак:1
++ .\venv\Scripts\Activate.ps1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : Ошибка безопасности: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
