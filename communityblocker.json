@@ -1,10 +1,36 @@
-ocker Desktop - Unexpected WSL error
-An unexpected error occurred while executing a WSL command.
+Google’s Gemini-Pro actually is free; available to anyone with a Gmail. Details here: https://github.com/zaki-1052/gptportal#8-optional-google-gemini-setup
 
-Either shut down WSL down with wsl --shutdown, and/or reboot your machine. You can also try reinstalling WSL and/or Docker Desktop. If the issue persists, collect diagnostics and submit an issue ⁠.
+You can use it in either their version of playground or in a gui. Google Gemini Setup
 
-deploying WSL2 distributions
-ensuring main distro is deployed: deploying "docker-desktop": importing WSL distro "WSL2 не поддерживается текущей конфигурацией компьютера.\r\nВключите дополнитель
+AI Studio Link
+
+Click on the link provided above to navigate to Google Gemini AI Studio's API Key generation page.
+
+Once again, the link to the API page is here.
+
+Accept and "Continue" with the Terms and Conditions.
+
+After accepting the terms, click on the button labeled "Create API Key in New Project".
+
+Once the API key is generated, it will be displayed on the screen.
+
+Click the copy icon or manually select and copy the key to your clipboard.
+
+Open the .env file and look for the line that reads GOOGLE_API_KEY=your_google_ai_key_here.
+
+Replace your_google_ai_key_here with the API key you copied from Google AI Studio.
+
+Ensure that the key is pasted correctly without any leading or trailing spaces.
+
+Until March 2024, Google Gemini-Pro will be completely free!
+
+This means that you do not need to set up any billing and can use this Model API immediately.
+
+Gemini-Ultra will be added to this Portal when released, but will require payment to Google.
+
+You can fairly easily setup this chatbot portal interface — for some reason there aren’t as many guis for Gemini, so feel free to fork and adapt to your needs. Unfortunately there are no free OpenAI models. You may have luck with Mistral, though their API is paid as well and you’d need to set something up after downloading it locally.
+
+The free Gemini-Pro would be my first recommendation, and then if you aren’t satisfied with the quality then the folks at r/localllama can help you out better than the GPT people here!
 
 
 
