@@ -1,1 +1,39 @@
-Access to XMLHttpRequest at 'http://localhost:5000/run' from origin 'http://localhost:3000' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+from flask import Flask, request, jsonify
+import subprocess
+import os
+import requests
+from dotenv import load_dotenv
+from flask_cors import CORS
+
+# Загрузка переменных окружения
+load_dotenv()
+
+app = Flask(__name__)
+CORS(app)  # Разрешаем CORS-запросы ко всем маршрутам
+
+@app.route('/')
+def home():
+    return "Welcome to the Python Interpreter API"
+
+@app.route('/run', methods=['POST'])
+def run_code():
+    code = request.json.get('code')
+    result = subprocess.run(['python', '-c', code], capture_output=True, text=True)
+    return jsonify({'output': result.stdout, 'error': result.stderr})
+
+@app.route('/ai-help', methods=['POST'])
+def ai_help():
+    code = request.json.get('code')
+    api_key = os.getenv('GOOGLE_API_KEY')
+    headers = {
+        'Authorization': f'Bearer {api_key}',
+        'Content-Type': 'application/json',
+    }
+    data = {
+        'prompt': f'Help me write Python code for the following task: {code}'
+    }
+    response = requests.post('https://api.gemini.example.com/v1/endpoint', json=data, headers=headers)
+    return jsonify({'ai_response': response.json()})
+
+if __name__ == '__main__':
+    app.run(debug=True)
