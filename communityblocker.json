@@ -1,16 +1,18 @@
-Access to XMLHttpRequest at 'http://localhost:5000/ai-help' from origin 'http://localhost:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
-App.js:41 Error fetching AI response: AxiosError {message: 'Network Error', name: 'AxiosError', code: 'ERR_NETWORK', config: {…}, request: XMLHttpRequest, …}
-getAiHelp @ App.js:41
-await in getAiHelp
-executeDispatch @ react-dom-client.development.js:16368
-runWithFiberInDEV @ react-dom-client.development.js:1518
-processDispatchQueue @ react-dom-client.development.js:16417
-(anonymous) @ react-dom-client.development.js:17016
-batchedUpdates$1 @ react-dom-client.development.js:3262
-dispatchEventForPluginEventSystem @ react-dom-client.development.js:16572
-dispatchEvent @ react-dom-client.development.js:20657
-dispatchDiscreteEvent @ react-dom-client.development.js:20625
-App.js:36 
-            
-            
-           POST http://localhost:5000/ai-help net::ERR_FAILED 500 (INTERNAL SERVER ERROR)
+@app.route('/ai-help', methods=['POST'])
+def ai_help():
+    try:
+        code = request.json.get('code')
+        api_key = os.getenv('GOOGLE_API_KEY')
+        headers = {
+            'Authorization': f'Bearer {api_key}',
+            'Content-Type': 'application/json',
+        }
+        data = {
+            'prompt': f'Help me write Python code for the following task: {code}'
+        }
+        response = requests.post('https://api.gemini.example.com/v1/endpoint', json=data, headers=headers)
+        response.raise_for_status()  # Проверка на ошибки HTTP
+        return jsonify({'ai_response': response.json()})
+    except requests.exceptions.RequestException as e:
+        print(f"Error: {e}")  # Выводим ошибку в консоль
+        return jsonify({'error': str(e)}), 500  # Возвращаем ошибку клиенту
