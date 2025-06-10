@@ -1,18 +1,5 @@
-@app.route('/ai-help', methods=['POST'])
-def ai_help():
-    try:
-        code = request.json.get('code')
-        api_key = os.getenv('GOOGLE_API_KEY')
-        headers = {
-            'Authorization': f'Bearer {api_key}',
-            'Content-Type': 'application/json',
-        }
-        data = {
-            'prompt': f'Help me write Python code for the following task: {code}'
-        }
-        response = requests.post('https://api.gemini.example.com/v1/endpoint', json=data, headers=headers)
-        response.raise_for_status()  # Проверка на ошибки HTTP
-        return jsonify({'ai_response': response.json()})
-    except requests.exceptions.RequestException as e:
-        print(f"Error: {e}")  # Выводим ошибку в консоль
-        return jsonify({'error': str(e)}), 500  # Возвращаем ошибку клиенту
+{
+"error": "HTTPSConnectionPool(host='api.gemini.example.com', port=443): Max retries exceeded with url: /v1/endpoint
+(Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001EF9B875160>: Failed to resolve
+    'api.gemini.example.com' ([Errno 11001] getaddrinfo failed)\"))"
+    }
