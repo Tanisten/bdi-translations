@@ -1,105 +1,35 @@
-Отлично! Теперь, когда у тебя есть API ключ от Google Gemini AI Studio, ты можешь интегрировать его в свое приложение для использования AI возможностей. Давай разберем шаги, которые помогут тебе настроить и использовать этот ключ в твоем проекте.
+import requests
+from flask import Flask, request, jsonify
+import os
+from dotenv import load_dotenv
 
-Шаги для интеграции Google Gemini AI Studio
-1. Настройка проекта
-Создание файла .env: Если у тебя еще нет файла .env в корневой директории проекта, создай его. Этот файл будет использоваться для хранения конфиденциальных данных, таких как API ключи.
+load_dotenv()
 
-Добавление API ключа: Открой файл .env и добавь строку с твоим API ключом:
+app = Flask(__name__)
 
-GOOGLE_API_KEY=ваш_скопированный_ключ
-2. Установка необходимых библиотек
-Установка библиотеки для работы с API: Установи axios, если еще не установил, для отправки HTTP-запросов:
+@app.route('/')
+def home():
+    return "Welcome to the Python Interpreter API"
 
-npm install axios
-3. Обновление компонента для взаимодействия с API
-Теперь добавим функцию для взаимодействия с Google Gemini AI Studio в твоем React-приложении.
+@app.route('/run', methods=['POST'])
+def run_code():
+    code = request.json.get('code')
+    result = subprocess.run(['python', '-c', code], capture_output=True, text=True)
+    return jsonify({'output': result.stdout, 'error': result.stderr})
 
-Открой файл src/App.js и добавь код для взаимодействия с API:
-import React, { useState } from 'react';
-import Select from 'react-select';
-import axios from 'axios';
-
-function App() {
-  const [code, setCode] = useState('');
-  const [output, setOutput] = useState('');
-  const [error, setError] = useState('');
-  const [aiResponse, setAiResponse] = useState('');
-
-  // Пример опций для выбора
-  const options = [
-    { value: 'print("Hello, World!")', label: 'Hello World' },
-    { value: '1 + 1', label: '1 + 1' },
-    { value: 'for i in range(5): print(i)', label: 'Print 0 to 4' },
-  ];
-
-  const runCode = async () => {
-    const response = await fetch('http://localhost:5000/run', {
-      method: 'POST',
-      headers: {
+@app.route('/ai-help', methods=['POST'])
+def ai_help():
+    code = request.json.get('code')
+    api_key = os.getenv('GOOGLE_API_KEY')
+    headers = {
+        'Authorization': f'Bearer {api_key}',
         'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ code }),
-    });
-    const result = await response.json();
-    setOutput(result.output);
-    setError(result.error);
-  };
-
-  const handleSelectChange = (selectedOption) => {
-    setCode(selectedOption.value);
-  };
-
-  const getGeminiResponse = async () => {
-    try {
-      const response = await axios.post('https://api.gemini.example.com/v1/endpoint', {
-        prompt: `Help me write Python code for the following task: ${code}`,
-      }, {
-        headers: {
-          'Authorization': `Bearer ${process.env.REACT_APP_GOOGLE_API_KEY}`,
-          'Content-Type': 'application/json',
-        },
-      });
-      setAiResponse(response.data.result);
-    } catch (error) {
-      console.error('Error fetching AI response:', error);
     }
-  };
+    data = {
+        'prompt': f'Help me write Python code for the following task: {code}'
+    }
+    response = requests.post('https://api.gemini.example.com/v1/endpoint', json=data, headers=headers)
+    return jsonify({'ai_response': response.json()})
 
-  return (
-    <div className="App">
-      <h1>Python Interpreter with AI Assistant</h1>
-      <Select
-        options={options}
-        onChange={handleSelectChange}
-        placeholder="Select a code snippet..."
-      />
-      <textarea
-        value={code}
-        onChange={(e) => setCode(e.target.value)}
-        placeholder="Write your Python code here..."
-      />
-      <button onClick={runCode}>Run Code</button>
-      <button onClick={getGeminiResponse}>Get AI Help</button>
-      <h2>Output</h2>
-      <pre>{output}</pre>
-      <h2>Error</h2>
-      <pre>{error}</pre>
-      <h2>AI Response</h2>
-      <pre>{aiResponse}</pre>
-    </div>
-  );
-}
-
-export default App;
-Объяснение кода
-Импорт библиотеки: Мы используем axios для отправки HTTP-запросов.
-API ключ: Мы используем API ключ из .env файла. Убедись, что ты заменил process.env.REACT_APP_GOOGLE_API_KEY на правильное имя переменной, если ты используешь другой формат.
-Запрос к API: Мы отправляем запрос к API Google Gemini для получения помощи с написанием кода.
-Запуск приложения
-После внесения изменений в App.js, запусти приложение:
-
-npm start
-Теперь у тебя будет кнопка "Get AI Help", которая отправляет запрос к API Google Gemini и отображает ответ.
-
-Заключение
-Если у тебя возникнут дополнительные вопросы или ты хочешь узнать больше о конкретных аспектах интеграции, дай знать! Я здесь, чтобы помочь.
+if __name__ == '__main__':
+    app.run(debug=True)
