@@ -1,9 +1,18 @@
 {"status":false}
 
-.\venv\Scripts\Activate.ps1 : Невозможно загрузить файл C:\Users\user\Documents\python\venv\Scripts\Activate.ps1, так как выполнение сценариев отключено в этой системе. Для получения дополнительных све
-дений см. about_Execution_Policies по адресу https:/go.microsoft.com/fwlink/?LinkID=135170.
-строка:1 знак:1
-+ .\venv\Scripts\Activate.ps1
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : Ошибка безопасности: (:) [], PSSecurityException
-    + FullyQualifiedErrorId : UnauthorizedAccess
+from flask import Flask, request, jsonify
+import subprocess
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app)
+
+@app.route('/run', methods=['POST'])
+def run_code():
+    code = request.json.get('code')
+    result = subprocess.run(['python', '-c', code], capture_output=True, text=True)
+    return jsonify({'output': result.stdout, 'error': result.stderr})
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
