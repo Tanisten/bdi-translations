@@ -1,35 +1,70 @@
-import requests
-from flask import Flask, request, jsonify
-import os
-from dotenv import load_dotenv
+import React, { useState } from 'react';
+import Select from 'react-select';
+import axios from 'axios';
 
-load_dotenv()
+function App() {
+  const [code, setCode] = useState('');
+  const [output, setOutput] = useState('');
+  const [error, setError] = useState('');
+  const [aiResponse, setAiResponse] = useState('');
 
-app = Flask(__name__)
+  // Пример опций для выбора
+  const options = [
+    { value: 'print("Hello, World!")', label: 'Hello World' },
+    { value: '1 + 1', label: '1 + 1' },
+    { value: 'for i in range(5): print(i)', label: 'Print 0 to 4' },
+  ];
 
-@app.route('/')
-def home():
-    return "Welcome to the Python Interpreter API"
-
-@app.route('/run', methods=['POST'])
-def run_code():
-    code = request.json.get('code')
-    result = subprocess.run(['python', '-c', code], capture_output=True, text=True)
-    return jsonify({'output': result.stdout, 'error': result.stderr})
-
-@app.route('/ai-help', methods=['POST'])
-def ai_help():
-    code = request.json.get('code')
-    api_key = os.getenv('GOOGLE_API_KEY')
-    headers = {
-        'Authorization': f'Bearer {api_key}',
-        'Content-Type': 'application/json',
+  const runCode = async () => {
+    try {
+      const response = await axios.post('http://localhost:5000/run', {
+        code: code,
+      });
+      setOutput(response.data.output);
+      setError(response.data.error);
+    } catch (error) {
+      console.error('Error running code:', error);
     }
-    data = {
-        'prompt': f'Help me write Python code for the following task: {code}'
-    }
-    response = requests.post('https://api.gemini.example.com/v1/endpoint', json=data, headers=headers)
-    return jsonify({'ai_response': response.json()})
+  };
 
-if __name__ == '__main__':
-    app.run(debug=True)
+  const handleSelectChange = (selectedOption) => {
+    setCode(selectedOption.value);
+  };
+
+  const getAiHelp = async () => {
+    try {
+      const response = await axios.post('http://localhost:5000/ai-help', {
+        code: code,
+      });
+      setAiResponse(response.data.ai_response);
+    } catch (error) {
+      console.error('Error fetching AI response:', error);
+    }
+  };
+
+  return (
+    <div className="App">
+      <h1>Python Interpreter with AI Assistant</h1>
+      <Select
+        options={options}
+        onChange={handleSelectChange}
+        placeholder="Select a code snippet..."
+      />
+      <textarea
+        value={code}
+        onChange={(e) => setCode(e.target.value)}
+        placeholder="Write your Python code here..."
+      />
+      <button onClick={runCode}>Run Code</button>
+      <button onClick={getAiHelp}>Get AI Help</button>
+      <h2>Output</h2>
+      <pre>{output}</pre>
+      <h2>Error</h2>
+      <pre>{error}</pre>
+      <h2>AI Response</h2>
+      <pre>{aiResponse}</pre>
+    </div>
+  );
+}
+
+export default App;
