@@ -1,38 +1,15 @@
-{
-"ai_response": {
-"candidates": [
-{
-"avgLogprobs": -0.2013097298450959,
-"content": {
-"parts": [
-{
-"text": "```python\nprint(\"helloworld\")\n```\n\nThis code directly prints the string \"helloworld\" to the console.
-It's the simplest and most direct way to accomplish the task.\n"
-}
-],
-"role": "model"
-},
-"finishReason": "STOP"
-}
-],
-"modelVersion": "gemini-2.0-flash",
-"responseId": "XH1IaPm6JaL_1PIPt-aTuAE",
-"usageMetadata": {
-"candidatesTokenCount": 39,
-"candidatesTokensDetails": [
-{
-"modality": "TEXT",
-"tokenCount": 39
-}
-],
-"promptTokenCount": 14,
-"promptTokensDetails": [
-{
-"modality": "TEXT",
-"tokenCount": 14
-}
-],
-"totalTokenCount": 53
-}
-}
-}
+const getAiHelp = async () => {
+    try {
+        const response = await axios.post('http://localhost:5000/ai-help', {
+            code: code,
+        });
+        // Извлечение текста из ответа
+        const aiResponseText = response.data.ai_response.candidates[0].content.parts[0].text; // Извлечение текста
+        setAiResponse(aiResponseText); // Установка текста в состояние
+    } catch (error) {
+        console.error('Error fetching AI response:', error);
+    }
+};
+
+
+
