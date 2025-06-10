@@ -1,46 +1,105 @@
-Google’s Gemini-Pro actually is free; available to anyone with a Gmail. Details here: https://github.com/zaki-1052/gptportal#8-optional-google-gemini-setup
+Отлично! Теперь, когда у тебя есть API ключ от Google Gemini AI Studio, ты можешь интегрировать его в свое приложение для использования AI возможностей. Давай разберем шаги, которые помогут тебе настроить и использовать этот ключ в твоем проекте.
 
-You can use it in either their version of playground or in a gui. Google Gemini Setup
+Шаги для интеграции Google Gemini AI Studio
+1. Настройка проекта
+Создание файла .env: Если у тебя еще нет файла .env в корневой директории проекта, создай его. Этот файл будет использоваться для хранения конфиденциальных данных, таких как API ключи.
 
-AI Studio Link
+Добавление API ключа: Открой файл .env и добавь строку с твоим API ключом:
 
-Click on the link provided above to navigate to Google Gemini AI Studio's API Key generation page.
+GOOGLE_API_KEY=ваш_скопированный_ключ
+2. Установка необходимых библиотек
+Установка библиотеки для работы с API: Установи axios, если еще не установил, для отправки HTTP-запросов:
 
-Once again, the link to the API page is here.
+npm install axios
+3. Обновление компонента для взаимодействия с API
+Теперь добавим функцию для взаимодействия с Google Gemini AI Studio в твоем React-приложении.
 
-Accept and "Continue" with the Terms and Conditions.
+Открой файл src/App.js и добавь код для взаимодействия с API:
+import React, { useState } from 'react';
+import Select from 'react-select';
+import axios from 'axios';
 
-After accepting the terms, click on the button labeled "Create API Key in New Project".
+function App() {
+  const [code, setCode] = useState('');
+  const [output, setOutput] = useState('');
+  const [error, setError] = useState('');
+  const [aiResponse, setAiResponse] = useState('');
 
-Once the API key is generated, it will be displayed on the screen.
+  // Пример опций для выбора
+  const options = [
+    { value: 'print("Hello, World!")', label: 'Hello World' },
+    { value: '1 + 1', label: '1 + 1' },
+    { value: 'for i in range(5): print(i)', label: 'Print 0 to 4' },
+  ];
 
-Click the copy icon or manually select and copy the key to your clipboard.
+  const runCode = async () => {
+    const response = await fetch('http://localhost:5000/run', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ code }),
+    });
+    const result = await response.json();
+    setOutput(result.output);
+    setError(result.error);
+  };
 
-Open the .env file and look for the line that reads GOOGLE_API_KEY=your_google_ai_key_here.
+  const handleSelectChange = (selectedOption) => {
+    setCode(selectedOption.value);
+  };
 
-Replace your_google_ai_key_here with the API key you copied from Google AI Studio.
+  const getGeminiResponse = async () => {
+    try {
+      const response = await axios.post('https://api.gemini.example.com/v1/endpoint', {
+        prompt: `Help me write Python code for the following task: ${code}`,
+      }, {
+        headers: {
+          'Authorization': `Bearer ${process.env.REACT_APP_GOOGLE_API_KEY}`,
+          'Content-Type': 'application/json',
+        },
+      });
+      setAiResponse(response.data.result);
+    } catch (error) {
+      console.error('Error fetching AI response:', error);
+    }
+  };
 
-Ensure that the key is pasted correctly without any leading or trailing spaces.
+  return (
+    <div className="App">
+      <h1>Python Interpreter with AI Assistant</h1>
+      <Select
+        options={options}
+        onChange={handleSelectChange}
+        placeholder="Select a code snippet..."
+      />
+      <textarea
+        value={code}
+        onChange={(e) => setCode(e.target.value)}
+        placeholder="Write your Python code here..."
+      />
+      <button onClick={runCode}>Run Code</button>
+      <button onClick={getGeminiResponse}>Get AI Help</button>
+      <h2>Output</h2>
+      <pre>{output}</pre>
+      <h2>Error</h2>
+      <pre>{error}</pre>
+      <h2>AI Response</h2>
+      <pre>{aiResponse}</pre>
+    </div>
+  );
+}
 
-Until March 2024, Google Gemini-Pro will be completely free!
+export default App;
+Объяснение кода
+Импорт библиотеки: Мы используем axios для отправки HTTP-запросов.
+API ключ: Мы используем API ключ из .env файла. Убедись, что ты заменил process.env.REACT_APP_GOOGLE_API_KEY на правильное имя переменной, если ты используешь другой формат.
+Запрос к API: Мы отправляем запрос к API Google Gemini для получения помощи с написанием кода.
+Запуск приложения
+После внесения изменений в App.js, запусти приложение:
 
-This means that you do not need to set up any billing and can use this Model API immediately.
+npm start
+Теперь у тебя будет кнопка "Get AI Help", которая отправляет запрос к API Google Gemini и отображает ответ.
 
-Gemini-Ultra will be added to this Portal when released, but will require payment to Google.
-
-You can fairly easily setup this chatbot portal interface — for some reason there aren’t as many guis for Gemini, so feel free to fork and adapt to your needs. Unfortunately there are no free OpenAI models. You may have luck with Mistral, though their API is paid as well and you’d need to set something up after downloading it locally.
-
-The free Gemini-Pro would be my first recommendation, and then if you aren’t satisfied with the quality then the folks at r/localllama can help you out better than the GPT people here!
-
-
-
-
-
-
-docker build -t python-runner .
-
-
-
-
-
-docker run -p 5000:5000 python-runner
+Заключение
+Если у тебя возникнут дополнительные вопросы или ты хочешь узнать больше о конкретных аспектах интеграции, дай знать! Я здесь, чтобы помочь.
