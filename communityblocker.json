@@ -1,14 +1,38 @@
-Uncaught runtime errors:
-×
-ERROR
-Objects are not valid as a React child (found: object with keys {candidates, modelVersion, responseId, usageMetadata}). If you meant to render a collection of children, use an array instead.
-    at throwOnInvalidObjectType (http://localhost:3000/static/js/bundle.js:16463:11)
-    at reconcileChildFibersImpl (http://localhost:3000/static/js/bundle.js:16778:9)
-    at http://localhost:3000/static/js/bundle.js:16790:31
-    at reconcileChildren (http://localhost:3000/static/js/bundle.js:17052:115)
-    at beginWork (http://localhost:3000/static/js/bundle.js:17807:1565)
-    at runWithFiberInDEV (http://localhost:3000/static/js/bundle.js:13233:68)
-    at performUnitOfWork (http://localhost:3000/static/js/bundle.js:19814:93)
-    at workLoopSync (http://localhost:3000/static/js/bundle.js:19707:38)
-    at renderRootSync (http://localhost:3000/static/js/bundle.js:19691:7)
-    at performWorkOnRoot (http://localhost:3000/static/js/bundle.js:19455:42)
+{
+"ai_response": {
+"candidates": [
+{
+"avgLogprobs": -0.2013097298450959,
+"content": {
+"parts": [
+{
+"text": "```python\nprint(\"helloworld\")\n```\n\nThis code directly prints the string \"helloworld\" to the console.
+It's the simplest and most direct way to accomplish the task.\n"
+}
+],
+"role": "model"
+},
+"finishReason": "STOP"
+}
+],
+"modelVersion": "gemini-2.0-flash",
+"responseId": "XH1IaPm6JaL_1PIPt-aTuAE",
+"usageMetadata": {
+"candidatesTokenCount": 39,
+"candidatesTokensDetails": [
+{
+"modality": "TEXT",
+"tokenCount": 39
+}
+],
+"promptTokenCount": 14,
+"promptTokensDetails": [
+{
+"modality": "TEXT",
+"tokenCount": 14
+}
+],
+"totalTokenCount": 53
+}
+}
+}
