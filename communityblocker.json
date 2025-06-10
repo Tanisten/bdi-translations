@@ -1,82 +1,37 @@
-Конечно, давай настроим и запустим фронтенд на React, чтобы интегрировать его с твоим Flask-бэкендом. Это поможет проверить, что всё работает правильно.
+# Используем официальный образ Python
+FROM python:3.8
 
-Шаги для настройки фронтенда на React
-1. Установка React
-Если у тебя еще нет установленного React, установи его с помощью Create React App:
+# Устанавливаем рабочую директорию
+WORKDIR /app
 
-Открой новый терминал (не закрывая текущий, где запущен Flask-сервер).
+# Копируем файл requirements.txt (если он есть) и устанавливаем зависимости
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
 
-Перейди в директорию, где ты хочешь создать React-приложение.
+# Копируем все остальные файлы в контейнер
+COPY . .
 
-Выполни команду:
+# Команда для запуска приложения
+CMD ["python", "app.py"]
 
-npx create-react-app my-react-app
-Перейди в директорию созданного приложения:
 
-cd my-react-app
-2. Создание компонента для выполнения кода
-Теперь создадим компонент, который будет отправлять код на сервер и отображать результаты.
 
-Открой файл src/App.js и обнови его следующим кодом:
-import React, { useState } from 'react';
+@app.route('/run', methods=['POST'])
+def run_code():
+    code = request.json.get('code')
+    result = subprocess.run(['docker', 'run', '--rm', 'python-runner', 'python', '-c', code], 
+                            capture_output=True, text=True)
+    return jsonify({'output': result.stdout, 'error': result.stderr})
 
-function App() {
-  const [code, setCode] = useState('');
-  const [output, setOutput] = useState('');
-  const [error, setError] = useState('');
 
-  const runCode = async () => {
-    const response = await fetch('http://localhost:5000/run', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ code }),
-    });
-    const result = await response.json();
-    setOutput(result.output);
-    setError(result.error);
-  };
 
-  return (
-    <div className="App">
-      <h1>Python Interpreter</h1>
-      <textarea
-        value={code}
-        onChange={(e) => setCode(e.target.value)}
-        placeholder="Write your Python code here..."
-      />
-      <button onClick={runCode}>Run Code</button>
-      <h2>Output</h2>
-      <pre>{output}</pre>
-      <h2>Error</h2>
-      <pre>{error}</pre>
-    </div>
-  );
-}
 
-export default App;
-3. Запуск React-приложения
-В терминале, где ты находишься в директории React-приложения, запусти команду:
 
-npm start
-Открой браузер и перейди по адресу http://localhost:3000. Ты увидишь интерфейс, где можно вводить Python-код, запускать его и видеть результаты.
 
-Проверка интеграции
-Теперь, когда фронтенд запущен, ты можешь протестировать взаимодействие с Flask-бэкендом:
+docker build -t python-runner .
 
-Введи Python-код в текстовое поле, например:
 
-print("Hello, World!")
-Нажми кнопку "Run Code".
 
-Результат выполнения кода должен появиться в разделе "Output", а ошибки (если есть) — в разделе "Error".
 
-Дополнительные шаги
-Если всё работает правильно, ты можешь:
 
-Добавить редактор кода: Используй библиотеки, такие как CodeMirror или Monaco Editor, для улучшения редактора кода.
-Безопасность: Рассмотри использование Docker для изоляции выполнения кода.
-Развертывание: После завершения разработки можно развернуть приложение на платформе, такой как Heroku, AWS или DigitalOcean.
-Заключение
-Если у тебя возникнут дополнительные вопросы или проблемы с интеграцией фронтенда и бэкенда, дай знать! Рад помочь тебе в разработке твоего проекта.
+docker run -p 5000:5000 python-runner
