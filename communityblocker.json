@@ -9,7 +9,7 @@ from flask_cors import CORS
 load_dotenv()
 
 app = Flask(__name__)
-cors = CORS(app, resources={r"/*": {"origins": "*"}})  # Разрешаем CORS-запросы ко всем маршрутам
+CORS(app, resources={r"/*": {"origins": "*"}})  # Разрешаем CORS-запросы ко всем маршрутам
 
 @app.route('/')
 def home():
