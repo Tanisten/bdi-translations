@@ -1,23 +1,82 @@
-{"status":false}
+Конечно, давай настроим и запустим фронтенд на React, чтобы интегрировать его с твоим Flask-бэкендом. Это поможет проверить, что всё работает правильно.
 
-(venv) PS C:\Users\user\Documents\python> python app.py
- * Serving Flask app 'app'
- * Debug mode: on
-WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
- * Running on http://127.0.0.1:5000
-Press CTRL+C to quit
- * Restarting with stat
- * Debugger is active!
- * Debugger PIN: 433-237-137
-127.0.0.1 - - [10/Jun/2025 14:06:06] "GET / HTTP/1.1" 404 -
-127.0.0.1 - - [10/Jun/2025 14:06:06] "GET /favicon.ico HTTP/1.1" 404 -
-127.0.0.1 - - [10/Jun/2025 14:06:14] "GET / HTTP/1.1" 404 -
-127.0.0.1 - - [10/Jun/2025 14:06:36] code 400, message Bad request version ('localhost\x00')
-127.0.0.1 - - [10/Jun/2025 14:06:36] "\x16\x03\x01\x06²\x01\x00\x06®\x03\x03.Ôâ1¢PF\x9d·.Cí;\x06Øø\x19£EÕîjðj\x99·AôÄ4kT ÀõÝª§®%éÁ\x15µ³\x90°\x8buKø¨Û.ÙmÏK/Ö\x85×\x18¾i\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06EJJ\x00\x00\x00\x17\x00\x00\x00#\x00\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00" 400 -
-127.0.0.1 - - [10/Jun/2025 14:06:37] code 400, message Bad request syntax ('\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03ïÙ\x07þÚSÁ«ðÕÐç¦4\x07lv\x96\x94]@µ¢ÉÎ')
-127.0.0.1 - - [10/Jun/2025 14:06:37] "\x16\x03\x01\x06ò\x01\x00\x06î\x03\x03ïÙ\x07þÚSÁ«ðÕÐç¦4\x07lv\x96\x94]@µ¢ÉÎ" 400 -
-127.0.0.1 - - [10/Jun/2025 14:06:37] code 400, message Bad request version ('ò\x90')
-127.0.0.1 - - [10/Jun/2025 14:06:37] "\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03Áå\x9f\x02ø\x1eôX_\x05z\x07\x1fnïô\x8dØ¡Çø°>BøË°7º¨\x82\x8c \x8c4ÛÒhs«\x05\x16\x15¡\x18OönÑýD\x97\x16\x0d4nj~9>½úÅ®\x14\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e\x9a\x9a\x00\x00\x00\x00\x00\x0e\x00\x0c\x00\x00\x09localhost\x00\x12\x00\x00\x00\x17\x00\x00\x00-\x00\x02\x01\x01ÿ\x01\x00\x01\x00\x00\x0b\x00\x02\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00#\x00\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01ê\x00 \x98¸\x94t\x9böQá#¹u´ÛH|«QDMý!T?ô§i\x11ÙÞ sM\x00°\x7f\x81ÄkÌò°¹Ûk¸~ªú \x84Ø\\ßBÞ\x84\x18¬lÀ\x05\x8akðÁ\x15¾Ë¢\x80¡X\x08äÏ!µ]ÍìE\x19ù\x1f\x8f&¢\x80\x828\x97w*ra-À\x8c\x83,L\x1d_\x04¦_#Âw\x07i\x93 \x1eØ\x8aÕ\x7flÙ5 9IÙ$¹+`a»\x16«ä¶_e¹\x01§OÀ)ûhhK÷kO\x9cI{ 7ÛÞsò\x13ñX\x89B¬\x12\x89×¸Ô\x93\x04F\x81\x17Ìè\x01\x09ºÊjÃ_ò\x8eºøó,#\x1eò\x90" 400 -
-127.0.0.1 - - [10/Jun/2025 14:06:37] code 400, message Bad request version ('\x02h2\x08http/1.1\x00')
-127.0.0.1 - - [10/Jun/2025 14:06:37] "\x16\x03\x01\x06Ò\x01\x00\x06Î\x03\x03Mô\x96-½\x0e\x1f\x8d:/1 m\x83%*ßÉOmh\x94½F/vû\x88ÑD\x8cÆ lb\x94Sî=àæm%X\x83Å(\x9bclþ6´¨áR\x08C ÂEtiCk\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x06e\x9a\x9a\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x00#\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00" 400 -
+Шаги для настройки фронтенда на React
+1. Установка React
+Если у тебя еще нет установленного React, установи его с помощью Create React App:
 
+Открой новый терминал (не закрывая текущий, где запущен Flask-сервер).
+
+Перейди в директорию, где ты хочешь создать React-приложение.
+
+Выполни команду:
+
+npx create-react-app my-react-app
+Перейди в директорию созданного приложения:
+
+cd my-react-app
+2. Создание компонента для выполнения кода
+Теперь создадим компонент, который будет отправлять код на сервер и отображать результаты.
+
+Открой файл src/App.js и обнови его следующим кодом:
+import React, { useState } from 'react';
+
+function App() {
+  const [code, setCode] = useState('');
+  const [output, setOutput] = useState('');
+  const [error, setError] = useState('');
+
+  const runCode = async () => {
+    const response = await fetch('http://localhost:5000/run', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ code }),
+    });
+    const result = await response.json();
+    setOutput(result.output);
+    setError(result.error);
+  };
+
+  return (
+    <div className="App">
+      <h1>Python Interpreter</h1>
+      <textarea
+        value={code}
+        onChange={(e) => setCode(e.target.value)}
+        placeholder="Write your Python code here..."
+      />
+      <button onClick={runCode}>Run Code</button>
+      <h2>Output</h2>
+      <pre>{output}</pre>
+      <h2>Error</h2>
+      <pre>{error}</pre>
+    </div>
+  );
+}
+
+export default App;
+3. Запуск React-приложения
+В терминале, где ты находишься в директории React-приложения, запусти команду:
+
+npm start
+Открой браузер и перейди по адресу http://localhost:3000. Ты увидишь интерфейс, где можно вводить Python-код, запускать его и видеть результаты.
+
+Проверка интеграции
+Теперь, когда фронтенд запущен, ты можешь протестировать взаимодействие с Flask-бэкендом:
+
+Введи Python-код в текстовое поле, например:
+
+print("Hello, World!")
+Нажми кнопку "Run Code".
+
+Результат выполнения кода должен появиться в разделе "Output", а ошибки (если есть) — в разделе "Error".
+
+Дополнительные шаги
+Если всё работает правильно, ты можешь:
+
+Добавить редактор кода: Используй библиотеки, такие как CodeMirror или Monaco Editor, для улучшения редактора кода.
+Безопасность: Рассмотри использование Docker для изоляции выполнения кода.
+Развертывание: После завершения разработки можно развернуть приложение на платформе, такой как Heroku, AWS или DigitalOcean.
+Заключение
+Если у тебя возникнут дополнительные вопросы или проблемы с интеграцией фронтенда и бэкенда, дай знать! Рад помочь тебе в разработке твоего проекта.
