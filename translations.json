@@ -696,7 +696,7 @@
   "Complete the code so that it works correctly. Use the repeat forever command.": "Vervollständige den Code, damit er richtig funktioniert.\nVerwende den Befehl »wiederhole fortlaufend«.",
   "Move the Cat sprite with the mouse: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse. Let's solve the same task but in a different way, using one condition (using the logical operator \"AND\").": "Bewege die Katze-Sprite mit der Maus: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nLassen wir uns dieselbe Aufgabe auf eine andere Weise lösen, mit nur einer Bedingung (unter Verwendung des logischen Operators »UND«).",
   "Another way to control the Cat sprite": "Eine andere Möglichkeit, die Katze-Sprite zu steuern",
-  "Use the commands described above and create a script with which you can control the Cat sprite using one condition.Rule: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.In the free windows of the \"AND\" operator, insert the conditions that the operator checks and processes.": "Verwende die oben beschriebenen Befehle und erstelle ein Skript, mit dem du die Katze-Sprite mit nur einer Bedingung steuern kannst.\nRegel: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nIn die freien Felder des »UND«-Operators fügst du die Bedingungen ein, die der Operator prüft und verarbeitet.",
+  "Use the commands described above and create a script with which you can control the Cat sprite using one condition. Rule: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse. In the free windows of the \"AND\" operator, insert the conditions that the operator checks and processes.": "Verwende die oben beschriebenen Befehle und erstelle ein Skript, mit dem du die Katze-Sprite mit nur einer Bedingung steuern kannst.\nRegel: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nIn die freien Felder des »UND«-Operators fügst du die Bedingungen ein, die der Operator prüft und verarbeitet.",
   "Call the elevator": "Den Aufzug rufen",
   "The elevator call button will work if any of the Girl sprites goes up to it!Character control: to control the sprites use the A, D keys and \"right\"-\"left\" arrow keys.": "Der Aufzugknopf funktioniert, wenn eine der Mädchen-Sprites zu ihm geht!\nSteuerung der Figuren: Zur Steuerung der Sprites verwende die A- und D-Tasten sowie die Pfeiltasten rechts-links.",
   "Button touching": "Knopfberührung",
@@ -774,5 +774,6 @@
 
 
 }
+
 
 
