@@ -684,11 +684,75 @@
   "Touching the grass": "Das Gras berühren",
   "Program this rule: If the Car sprite touches anything green (i.e. travels off the road), it begins its journey again.": "Programmiere diese Regel: Wenn der Auto-Sprite etwas Grünes berührt (d.h. von der Straße abkommt), beginnt er seine Reise von neuem.",
   "Touching the finish line sprite": "Die Ziellinie berühren",
-  "Program this rule: If the Car sprite touches the finish line, you win and the project stops.": "Programmiere diese Regel: Wenn der Auto-Sprite die Ziellinie berührt, gewinnst du und das Projekt stoppt."
+  "Program this rule: If the Car sprite touches the finish line, you win and the project stops.": "Programmiere diese Regel: Wenn der Auto-Sprite die Ziellinie berührt, gewinnst du und das Projekt stoppt.",
+  
+  "-------------------Logic. LEKTION 1_Scratch.-----------------------?":"-------------------Logic. LEKTION 1_Scratch.-----------------------DEUTSCH?",
 
-
-
-
+  "The Cat sprite": "Die Katze-Sprite",
+  "Move the Cat sprite with the mouse: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.": "Bewege die Katze-Sprite mit der Maus: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.",
+  "Controlling the Cat sprite": "Steuerung der Katze-Sprite",
+  "Create a script with which you can control the Cat sprite.\nRule: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.": "Erstelle ein Skript, mit dem du die Katze-Sprite steuern kannst.\nRegel: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.",
+  "Continuous condition checking": "Ständige Bedingungsprüfung",
+  "Complete the code so that it works correctly.\nUse the repeat forever command.": "Vervollständige den Code, damit er richtig funktioniert.\nVerwende den Befehl »wiederhole fortlaufend«.",
+  "Move the Cat sprite with the mouse: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.\nLet's solve the same task but in a different way, using one condition (using the logical operator \"AND\").": "Bewege die Katze-Sprite mit der Maus: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nLassen wir uns dieselbe Aufgabe auf eine andere Weise lösen, mit nur einer Bedingung (unter Verwendung des logischen Operators »UND«).",
+  "Another way to control the Cat sprite": "Eine andere Möglichkeit, die Katze-Sprite zu steuern",
+  "Use the commands described above and create a script with which you can control the Cat sprite using one condition.\nRule: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.\nIn the free windows of the \"AND\" operator, insert the conditions that the operator checks and processes.": "Verwende die oben beschriebenen Befehle und erstelle ein Skript, mit dem du die Katze-Sprite mit nur einer Bedingung steuern kannst.\nRegel: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nIn die freien Felder des »UND«-Operators fügst du die Bedingungen ein, die der Operator prüft und verarbeitet.",
+  "Call the elevator": "Den Aufzug rufen",
+  "The elevator call button will work if any of the Girl sprites goes up to it!\nCharacter control: to control the sprites use the A, D keys and \"right\"-\"left\" arrow keys.": "Der Aufzugknopf funktioniert, wenn eine der Mädchen-Sprites zu ihm geht!\nSteuerung der Figuren: Zur Steuerung der Sprites verwende die A- und D-Tasten sowie die Pfeiltasten rechts-links.",
+  "Button touching": "Knopfberührung",
+  "Use the available commands to program the elevator button. It is important to remember that if at least one Girl sprite touches the button, the button will change color.\nThe button is triggered if at least one sprite touches it. Which logical operator should you use?": "Verwende die verfügbaren Befehle, um den Aufzugknopf zu programmieren. Es ist wichtig zu bedenken, dass der Knopf die Farbe ändert, wenn mindestens eine Mädchen-Sprite ihn berührt.\nDer Knopf wird ausgelöst, wenn mindestens eine Sprite ihn berührt. Welchen logischen Operator solltest du verwenden?",
+  "The A, W, S, D keys.": "Die Tasten A, W, S, D.",
+  "If the control isn't working, don't get upset right away!\nCheck which layout you are using - Russian or English?": "Wenn die Steuerung nicht funktioniert, sei nicht gleich enttäuscht!\nÜberprüfe, welche Tastaturbelegung du verwendest – Russisch oder Englisch?",
+  "Teamwork": "Teamarbeit",
+  "The Giga and Pico sprites should touch the button together.": "Die Giga- und Pico-Sprites sollten den Knopf gleichzeitig berühren.",
+  "Giga says what to do": "Giga sagt, was zu tun ist",
+  "Add this set of commands so that Giga will first say what to do.": "Füge diesen Befehlssatz hinzu, damit Giga zuerst sagt, was zu tun ist.",
+  "Giga sprite control": "Steuerung der Giga-Sprite",
+  "Program the procedure for controlling the Giga sprite.": "Programmiere das Verfahren zur Steuerung der Giga-Sprite.",
+  "Pico sprite control": "Steuerung der Pico-Sprite",
+  "Program the procedure for controlling the Pico sprite": "Programmiere das Verfahren zur Steuerung der Pico-Sprite",
+  "Programming the button": "Programmierung des Knopfes",
+  "Program the button so that it only works if both Pico and Giga touch it.": "Programmiere den Knopf so, dass er nur funktioniert, wenn sowohl Pico als auch Giga ihn berühren.",
+  "The button sends a message that the task has been completed": "Der Knopf sendet eine Nachricht, dass die Aufgabe abgeschlossen wurde",
+  "Use the \"say\" command.": "Verwende den »sage«-Befehl.",
+  "Cat and Hedgehog sprites": "Katze- und Igel-Sprites",
+  "The Cat sprite dodges the hedgehogs!\nThe rule for controlling the Cat sprite: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.\nStudy the example and we'll create something similar.": "Die Katze-Sprite weicht den Igeln aus!\nRegel zur Steuerung der Katze-Sprite: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nStudieren wir das Beispiel und erstellen etwas Ähnliches.",
+  "The rule for controlling the Cat sprite: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.": "Regel zur Steuerung der Katze-Sprite: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.",
+  "Movement of Hedgehog sprites": "Bewegung der Igel-Sprites",
+  "Think up and program how the Hedgehog sprites will move.": "Überlege dir und programmiere, wie sich die Igel-Sprites bewegen sollen.",
+  "Hedgehog sprite touching": "Berührung mit Igel-Sprite",
+  "If the Cat sprite touches the hedgehog, it says \"Hey!\"\nRule: Touching one hedgehog OR another is programmed with these commands.": "Wenn die Katze-Sprite den Igel berührt, sagt sie »Hey!«\nRegel: Die Berührung eines Igels ODER eines anderen wird mit diesen Befehlen programmiert.",
+  "Continuous condition checking and initial placement": "Ständige Bedingungsprüfung und Anfangsplatzierung",
+  "Complete the code so that it works correctly.": "Vervollständige den Code, damit er richtig funktioniert.",
+  "Open the elevator": "Den Aufzug öffnen",
+  "Program the elevator so that the door will open if any of the Girl sprites come up and touch the button!": "Programmiere den Aufzug so, dass die Tür aufgeht, wenn eine der Mädchen-Sprites herankommt und den Knopf berührt!",
+  "Wait until...": "Warte bis...",
+  "The \"wait until...\" command does nothing until the specified condition becomes true. We use it: let the button wait for touches with other sprites.": "Der Befehl »warte bis...« macht nichts, bis die angegebene Bedingung erfüllt ist. Wir verwenden ihn: Der Knopf wartet auf Berührungen mit anderen Sprites.",
+  "Girl sprite touching": "Mädchen-Sprite berührt",
+  "The button is triggered if at least one sprite Girl touches it. Which logical operator should you use?\nThe button then sends the door a message.": "Der Knopf wird ausgelöst, wenn mindestens eine Mädchen-Sprite ihn berührt. Welchen logischen Operator solltest du verwenden?\nDer Knopf sendet dann eine Nachricht an die Tür.",
+  "Opening the elevator door": "Öffnen der Aufzugtür",
+  "The door opens when it receives a message from the button.": "Die Tür öffnet sich, wenn sie eine Nachricht vom Knopf erhält.",
+  "Think about what initial placement you need and program it.": "Überlege dir, welche Anfangsplatzierung du brauchst, und programmiere sie.",
+  "Start the Algorithmics bus": "Starte den Algorithmics-Bus",
+  "The sprites Giga and Pico need to run the Algorithmics bus from the portal. To do this, they need to touch a button together.\nStudy the example and let's create the code!": "Die Sprites Giga und Pico müssen den Algorithmics-Bus aus dem Portal starten. Dazu müssen sie gemeinsam einen Knopf berühren.\nStudieren wir das Beispiel und erstellen den Code!",
+  "Pressing the button": "Den Knopf drücken",
+  "Which operator should be used for the button to work if both Pico and Giga touch it?": "Welcher Operator sollte verwendet werden, damit der Knopf funktioniert, wenn sowohl Pico als auch Giga ihn berühren?",
+  "The appearance of the portal and running the bus": "Das Erscheinen des Portals und das Starten des Busses",
+  "After clicking the button, it sends a message that the portal and the bus receive.": "Nach dem Drücken des Knopfes sendet er eine Nachricht, die das Portal und der Bus erhalten.",
+  "Program the initial placement for all the sprites.": "Programmiere die Anfangsplatzierung für alle Sprites.",
+  "The Crab and Coral sprites": "Die Krabben- und Korallen-Sprites",
+  "The Crab sprite needs to hide behind the coral! Click on the area of the stage where it needs to move to.": "Die Krabben-Sprite muss sich hinter der Koralle verstecken! Klicke auf den Bereich der Bühne, zu dem sie sich bewegen soll.",
+  "Mouse control": "Maussteuerung",
+  "Two \"OR\" logical operators": "Zwei logische Operatoren »ODER«",
+  "There are three Coral sprites on the stage. To check for touching of three colors, logical operators can be inserted into each other!": "Auf der Bühne gibt es drei Korallen-Sprites. Um das Berühren von drei Farben zu prüfen, können logische Operatoren ineinander verschachtelt werden!",
+  "Change color": "Farbe ändern",
+  "Use the “touches color” block to check if the Crab sprite is near the coral. Use the eyedropper tool to select the color you want.": "Verwende den Block »berührt Farbe«, um zu prüfen, ob die Krabben-Sprite in der Nähe der Koralle ist. Verwende das Pipetten-Werkzeug, um die gewünschte Farbe auszuwählen.",
+  "Growth apple": "Wachstumsapfel",
+  "The Cat sprite isn't allowing the Triceratops sprite to reach the volcano. The dinosaur will only leave if the Cat sprite becomes large enough.\nTo do that, it needs to touch the magic apple!": "Die Katze-Sprite lässt die Triceratops-Sprite nicht zum Vulkan gelangen. Der Dinosaurier geht nur weg, wenn die Katze-Sprite groß genug wird.\nDazu muss sie den magischen Apfel berühren!",
+  "The Cat sprite grows in size when it touches the apple": "Die Katze-Sprite wächst, wenn sie den Apfel berührt",
+  "The Cat sprite shouldn't grow immediately": "Die Katze-Sprite sollte nicht sofort wachsen",
+  "When the Cat sprite touches the apple, it immediately becomes huge and cannot go through the wall.\nTo prevent this from happening, use the \"wait until __\" command and a logical operator. Then one touch with the apple will grow the cat by only 20%, and for the next time, you need to move away from the apple and touch it again.": "Wenn die Katze-Sprite den Apfel berührt, wird sie sofort riesig und kann nicht durch die Wand gehen.\nUm das zu verhindern, verwende den Befehl »warte bis __« und einen logischen Operator. Dann wächst die Katze bei einer Berührung mit dem Apfel nur um 20 %, und beim nächsten Mal musst du dich vom Apfel entfernen und ihn erneut berühren."
+  
 
 
 
@@ -710,3 +774,4 @@
 
 
 }
+
