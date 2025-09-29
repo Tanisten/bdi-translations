@@ -751,7 +751,7 @@
   "The Cat sprite isn't allowing the Triceratops sprite to reach the volcano. The dinosaur will only leave if the Cat sprite becomes large enough.To do that, it needs to touch the magic apple!": "Die Katze-Sprite lässt die Triceratops-Sprite nicht zum Vulkan gelangen. Der Dinosaurier geht nur weg, wenn die Katze-Sprite groß genug wird.\nDazu muss sie den magischen Apfel berühren!",
   "The Cat sprite grows in size when it touches the apple": "Die Katze-Sprite wächst, wenn sie den Apfel berührt",
   "The Cat sprite shouldn't grow immediately": "Die Katze-Sprite sollte nicht sofort wachsen",
-  "When the Cat sprite touches the apple, it immediately becomes huge and cannot go through the wall.To prevent this from happening, use the \"wait until __\" command and a logical operator. Then one touch with the apple will grow the cat by only 20%, and for the next time, you need to move away from the apple and touch it again.": "Wenn die Katze-Sprite den Apfel berührt, wird sie sofort riesig und kann nicht durch die Wand gehen.\nUm das zu verhindern, verwende den Befehl »warte bis __« und einen logischen Operator. Dann wächst die Katze bei einer Berührung mit dem Apfel nur um 20 %, und beim nächsten Mal musst du dich vom Apfel entfernen und ihn erneut berühren."
+  "When the Cat sprite touches the apple, it immediately becomes huge and cannot go through the wall.To prevent this from happening, use the \"wait until __\" command and a logical operator. Then one touch with the apple will grow the cat by only 20%, and for the next time, you need to move away from the apple and touch it again.": "Wenn die Katze-Sprite den Apfel berührt, wird sie sofort riesig und kann nicht durch die Wand gehen.\nUm das zu verhindern, verwende den Befehl »warte bis __« und einen logischen Operator. Dann wächst die Katze bei einer Berührung mit dem Apfel nur um 20 %, und beim nächsten Mal musst du dich vom Apfel entfernen und ihn erneut berühren.",
   
 
 
@@ -773,7 +773,66 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+"PYTHON-Lektion2":"PYTHON-LEKTION-2",
+  "Fix the bugs in the program": "Behebe die Fehler im Programm",
+  "Correct the errors in using variables": "Korrigiere die Fehler bei der Verwendung von Variablen",
+  "One of the accountants at the travel agency tried to write a program for calculating an excursion package of services, but they made lots of mistakes. Correct the errors in setting and using variables and modify the program. It should work like the picture.": "Einer der Buchhalter im Reisebüro versuchte, ein Programm zur Berechnung eines Ausflugspakets zu schreiben, machte jedoch viele Fehler.\n\nKorrigiere die Fehler beim Setzen und Verwenden von Variablen und ändere das Programm. Es sollte so funktionieren wie im Bild.",
+  "Don't understand what the mistake is?": "Verstehst du nicht, was der Fehler ist?",
+  "The error text in the picture means that the program cannot find a variable with the same name. Is there a typo in the name?": "Der Fehlermeldungstext im Bild bedeutet, dass das Programm keine Variable mit demselben Namen finden kann.\n\nGibt es einen Tippfehler im Namen?",
+  "Fix the bugs in the program 2": "Behebe die Fehler im Programm 2",
+  "The intern Jacob was helping the excursion department of the travel agency. Jacob had to write a program that calculates the total cost of a student trip to the theater. A group was supposed to go to the theater: 2 adults and 31 children. The price of an adult ticket is 3699 rubles, and a child ticket is 1100 rubles. Correct the errors in the use of variables. The program should output the result like in the picture.": "Der Praktikant Jacob half der Ausflugsabteilung des Reisebüros. Jacob sollte ein Programm schreiben, das die Gesamtkosten einer Schülerreise ins Theater berechnet.\n\nEine Gruppe sollte ins Theater gehen: 2 Erwachsene und 31 Kinder. Der Preis einer Erwachsenenkarte beträgt 3699 Rubel, und eine Kinderkarte kostet 1100 Rubel.\n\nKorrigiere die Fehler in der Verwendung von Variablen. Das Programm sollte das Ergebnis wie im Bild ausgeben.",
+  "This error can occur when the computer does not know how to interpret (understand) a command. Maybe there's a mistake with the indentation?": "Dieser Fehler kann auftreten, wenn der Computer nicht weiß, wie er einen Befehl interpretieren (verstehen) soll.\n\nVielleicht gibt es einen Fehler bei der Einrückung?",
+  "Write the program": "Schreibe das Programm",
+  "Write a program that calculates the total cost of insurance": "Schreibe ein Programm, das die Gesamtkosten der Versicherung berechnet",
+  "A family of 3 contacted the travel agency. They want to buy ALL possible travel accident insurance coverage. The travel agency offers the following insurance: - in the event of lost luggage - 890 rubles/per person, - in the event of flight cancellation - 875 rubles/per person, - in the event of illness - 1,345 rubles/per person, - in the event of lost documents - 2,199 rubles/per person. Calculate the total cost of services and display the result as \"Cost of family insurance: .\" Use variables whenever possible.": "Eine Familie von 3 Personen wandte sich an das Reisebüro. Sie möchten ALLE möglichen Reiseunfallversicherungen kaufen.\n\nDas Reisebüro bietet folgende Versicherungen an:\n- im Falle von verlorenem Gepäck - 890 Rubel/Person,\n- im Falle einer Flugannullierung - 875 Rubel/Person,\n- im Falle von Krankheit - 1.345 Rubel/Person,\n- im Falle verlorener Dokumente - 2.199 Rubel/Person.\n\nBerechne die Gesamtkosten der Leistungen und gib das Ergebnis als \"Kosten der Familienversicherung: .\" aus. Verwende nach Möglichkeit Variablen.",
+  "Write the program 2": "Schreibe das Programm 2",
+  "Write a program that calculates the cost of a \"last-minute\" trip": "Schreibe ein Programm, das die Kosten einer \"Last-Minute\"-Reise berechnet",
+  "Sometimes travel agencies sell \"last-minute\" trips. They are trips at a 35% discount. The client wants to buy a last-minute trip to the sea. Before the discount, it cost 56,720 rubles. How much should the client pay now? Calculate the cost of the last-minute trip. Format the result like in the picture.": "Manchmal verkaufen Reisebüros \"Last-Minute\"-Reisen. Es sind Reisen mit einem Rabatt von 35 %.\n\nDer Kunde möchte eine Last-Minute-Reise ans Meer kaufen. Vor dem Rabatt kostete sie 56.720 Rubel. Wie viel sollte der Kunde jetzt bezahlen?\n\nBerechne die Kosten der Last-Minute-Reise. Formatiere das Ergebnis wie im Bild.",
+  "Don't know how to calculate the price after a reduction?": "Weißt du nicht, wie man den Preis nach einer Reduzierung berechnet?",
+  "Let's say the trip costs 100 rubles. The travel agency announced a 10 percent reduction. To find the new trip price, you need: 1) 100 - 100*0.1 or 2) 100*0.9": "Angenommen, die Reise kostet 100 Rubel. Das Reisebüro kündigte eine Reduzierung um 10 Prozent an.\n\nUm den neuen Reisepreis zu berechnen, musst du:\n1) 100 - 100*0,1\noder\n2) 100*0,9",
+  "Write a program that calculates the new rental cost": "Schreibe ein Programm, das die neuen Mietkosten berechnet",
+  "The price per day at a hotel may vary depending on the day of the week. At Summer Hotel: - One night on the following days of the week, Mon, Tue, Wed, Thu, costs 2,100, - One night on the following days of the week, Fri, Sat, Sun, costs 2,850. The client marked their desired booking dates in the form. Write a program that calculates the total cost of their reservation. The program should only print a number. For example: 1,000,000.": "Der Preis pro Tag in einem Hotel kann je nach Wochentag variieren. Im Summer Hotel:\n- Eine Nacht an den folgenden Wochentagen, Mo, Di, Mi, Do, kostet 2.100,\n- Eine Nacht an den folgenden Wochentagen, Fr, Sa, So, kostet 2.850.\n\nDer Kunde markierte seine gewünschten Buchungsdaten im Formular. Schreibe ein Programm, das die Gesamtkosten seiner Reservierung berechnet.\n\nDas Programm sollte nur eine Zahl ausgeben. Zum Beispiel: 1.000.000.",
+  "Run the program. What happens?": "Führe das Programm aus. Was passiert?",
+  "Study a program left over from another intern": "Untersuche ein Programm, das von einem anderen Praktikanten übrig geblieben ist",
+  "One of the interns wrote this program. There are no errors in it. Run it and study the code. After watching the program, go to the next level.": "Einer der Praktikanten schrieb dieses Programm. Es gibt keine Fehler darin.\n\nFühre es aus und untersuche den Code. Nachdem du das Programm angesehen hast, gehe zum nächsten Level."
+
 }
+
 
 
 
