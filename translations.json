@@ -826,6 +826,49 @@
 
 
 
+    "-------------------Logic. LEKTION 4_Scratch.-----------------------?":"-------------------Logic. LEKTION 4_Scratch.-----------------------DEUTSCH?",
+  "Run the program on the flag": "Starte das Programm mit der Flagge",
+  "This is the Frank sprite. He can jump over rocks. Control him using the arrows and don't let him get stuck in the swamp!": "Das ist die Figur Frank. Er kann über Felsen springen. Steuere ihn mit den Pfeiltasten und lass ihn nicht im Sumpf stecken!",
+  "The Frank sprite got stuck in the swamp": "Die Figur Frank ist im Sumpf stecken geblieben",
+  "Modify the program so that the Frank sprite says he got stuck in the swamp if he drops down too low.": "Ändere das Programm so, dass die Figur Frank sagt, dass sie im Sumpf stecken geblieben ist, wenn sie zu tief fällt.",
+  "Set the original position of the Frank sprite.": "Lege die Ausgangsposition der Figur Frank fest.",
+  "Less than symbol": "Kleiner-als-Zeichen",
+  "This is the less than symbol. The number to the left of the symbol is less than the other one. The acute angle always points to the smaller number.": "Das ist das Kleiner-als-Zeichen. Die Zahl links vom Zeichen ist kleiner als die andere. Der spitze Winkel zeigt immer auf die kleinere Zahl.",
+  "Going around walls": "Um Wände herumgehen",
+  "Arrow control. Please note that the Andy sprite does not walk on walls. Just like in reality!": "Pfeilsteuerung. Beachte, dass die Figur Andy nicht auf Wänden läuft. Genau wie in der Realität!",
+  "We don't move along walls": "Wir bewegen uns nicht entlang der Wände",
+  "Complete the code that is triggered when you press the up arrow key. If the up arrow is pressed but the Y coordinate is greater than 25, no movement occurs.": "Vervollständige den Code, der ausgelöst wird, wenn die Pfeiltaste nach oben gedrückt wird. Wenn die Pfeiltaste gedrückt wird, aber die Y-Koordinate größer als 25 ist, erfolgt keine Bewegung.",
+  "Greater than symbol": "Größer-als-Zeichen",
+  "This is the greater than symbol. The number to the left of the symbol is greater than the other one. The acute angle always points to the smaller number.": "Das ist das Größer-als-Zeichen. Die Zahl links vom Zeichen ist größer als die andere. Der spitze Winkel zeigt immer auf die kleinere Zahl.",
+  "The Goalkeeper sprite": "Die Figur Torwart",
+  "The Goalkeeper sprite moves left and right in front of the goal, without going past it. It also starts moving from wherever it stopped last. Run it several times to check.": "Die Figur Torwart bewegt sich links und rechts vor dem Tor, ohne es zu überqueren. Sie beginnt ihre Bewegung immer dort, wo sie zuletzt aufgehört hat. Starte das Programm mehrmals, um es zu überprüfen.",
+  "Left movement": "Bewegung nach links",
+  "Program the movement of the Goalkeeper sprite to the left. It must not go past the goal.": "Programmiere die Bewegung der Figur Torwart nach links. Sie darf das Tor nicht überschreiten.",
+  "Right movement": "Bewegung nach rechts",
+  "Program the movement to the right.": "Programmiere die Bewegung nach rechts.",
+  "Left and right control": "Steuerung nach links und rechts",
+  "Program the Frank sprite controls!": "Programmiere die Steuerung der Figur Frank!",
+  "Jump": "Sprung",
+  "Program the Frank sprite so that when you press the up arrow, he will jump only if he is standing on a rock.": "Programmiere die Figur Frank so, dass sie springt, wenn du die Pfeiltaste nach oben drückst – aber nur, wenn sie auf einem Felsen steht.",
+  "Gravity": "Schwerkraft",
+  "If the Frank sprite does not touch the rock, it falls, which means it moves down and the Y coordinate changes.": "Wenn die Figur Frank den Felsen nicht berührt, fällt sie – das bedeutet, sie bewegt sich nach unten und die Y-Koordinate ändert sich.",
+  "If the Frank sprite drops down too low, he says that he is stuck in the swamp.": "Wenn die Figur Frank zu tief fällt, sagt sie, dass sie im Sumpf stecken geblieben ist.",
+  "This is a real platformer game! Here gravity affects the player and you can only jump by pushing off the platform. You need to reach the goal by jumping over obstacles.": "Das ist ein echtes Plattformspiel! Hier wirkt die Schwerkraft auf den Spieler, und man kann nur springen, wenn man sich von einer Plattform abstößt. Du musst das Ziel erreichen, indem du Hindernisse überspringst.",
+  "Rule: if the player is at the bottom of the stage, you lose": "Regel: Wenn der Spieler sich am unteren Rand der Bühne befindet, verlierst du",
+  "Other rules": "Andere Regeln",
+  "Don't forget about the rest of the rules: how do enemies and obstacles work?": "Vergiss die restlichen Regeln nicht: Wie funktionieren Gegner und Hindernisse?",
+  "Enemy movement in levels 1 and 2": "Bewegung der Gegner in den Leveln 1 und 2",
+  "Adds enemies and program their movement!": "Füge Gegner hinzu und programmiere ihre Bewegung!",
+  "Transitions between levels": "Übergänge zwischen den Leveln",
+  "Don't forget about transitions between game levels: how do all the participants react to level changes?": "Vergiss die Übergänge zwischen den Spielstufen nicht: Wie reagieren alle Beteiligten auf den Levelwechsel?",
+  "*Bonus: add new features": "*Bonus: Neue Funktionen hinzufügen",
+  "Add new features like shooting, leverage, or superpowers for the main character. See an example in the next level marked with the letter \"D\"!": "Füge neue Funktionen wie Schießen, Hebelwirkung oder Superkräfte für die Hauptfigur hinzu. Sieh dir ein Beispiel im nächsten Level mit dem Buchstaben „D“ an!",
+  "Key control. Up to jump. Reach the goal!": "Tastensteuerung. Hoch zum Springen. Erreiche das Ziel!",
+
+
+
+
+
 
 
 
@@ -960,6 +1003,7 @@
   "The director of Sunflowers wants to give bonuses to employees whose names have been mentioned in reviews. Write a program that cuts out employee names from reviews and concatenates them into a single string. Format the result like in the picture.":"Der Direktor von Sunflowers möchte Mitarbeitern Boni geben, deren Namen in Bewertungen erwähnt wurden. Schreiben Sie ein Programm, das Mitarbeiternamen aus Bewertungen abschneidet und sie zu einer einzigen Zeichenfolge verkettet. Formatieren Sie das Ergebnis wie im Bild."
 
 }
+
 
 
 
