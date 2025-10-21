@@ -1003,7 +1003,7 @@
   "The director of Sunflowers wants to give bonuses to employees whose names have been mentioned in reviews. Write a program that cuts out employee names from reviews and concatenates them into a single string. Format the result like in the picture.":"Der Direktor von Sunflowers möchte Mitarbeitern Boni geben, deren Namen in Bewertungen erwähnt wurden. Schreiben Sie ein Programm, das Mitarbeiternamen aus Bewertungen abschneidet und sie zu einer einzigen Zeichenfolge verkettet. Formatieren Sie das Ergebnis wie im Bild.",
 
 
-"PYTHON-Lektion4":"PYTHON-LEKTION-4",
+  "PYTHON-Lektion4":"PYTHON-LEKTION-4",
   
   "Fix the bugs in nested constructions": "Behebe die Fehler in verschachtelten Konstruktionen",
   "The intern Will tried to make the program code laconic but he made mistakes in using nested constructions. Correct Will's program. The program should work like the picture.": "Der Praktikant Will versuchte, den Programmcode prägnant zu gestalten, machte jedoch Fehler bei der Verwendung verschachtelter Konstruktionen.\n\nKorrigiere Wills Programm. Das Programm sollte wie auf dem Bild funktionieren.",
@@ -1045,6 +1045,7 @@
   "Let's look at an example. Suppose you need to find what remains after deducting 15% of 20,000. First, find 15% of 20,000: 20,000*0.15 = 3,000. Then we subtract the number we got from the sum: 20,000 - 3,000 = 17,000.": "Schauen wir uns ein Beispiel an.\nAngenommen, du möchtest wissen, was nach dem Abzug von 15 % von 20.000 übrig bleibt.\n\nZuerst berechne 15 % von 20.000: 20.000*0.15 = 3.000.\nDann ziehe die Zahl von der Summe ab: 20.000 - 3.000 = 17.000."
 
 }
+
 
 
 
