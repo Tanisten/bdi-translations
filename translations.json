@@ -1000,7 +1000,7 @@
   "Let's say the client writes: - 10 characters about their general impression; - 20 characters about what they liked; - 20 characters about what they didn't like. Total: 10 + 20 + 20 = 50 characters. Discount size - 50*0.1": "Angenommen, der Kunde schreibt:\n- 10 Zeichen über seinen allgemeinen Eindruck;\n- 20 Zeichen über das, was ihm gefallen hat;\n- 20 Zeichen über das, was ihm nicht gefallen hat.\n\nGesamt: 10 + 20 + 20 = 50 Zeichen.\n\nRabattgröße - 50*0,1",
   "Write a program that searches for positive parts of reviews": "Schreibe ein Programm, das nach positiven Teilen in Bewertungen sucht",
   "Write a program that searches for positive words in the reviews of an entertainment complex. The program should look in the comment line for the words \"fun,\" \"exciting,\" and \"entertainment.\" Remember to make all the characters in the string lowercase. The program should be designed just like in the picture.": "Schreibe ein Programm, das nach positiven Wörtern in den Bewertungen eines Freizeitkomplexes sucht.\n\nDas Programm soll in der Kommentarzeile nach den Wörtern „spaß“, „aufregend“ und „unterhaltung“ suchen. Denke daran, alle Zeichen in der Zeichenkette in Kleinbuchstaben umzuwandeln.\n\nDas Programm sollte genau wie im Bild gestaltet sein.",
-  "The director of Sunflowers wants to give bonuses to employees whose names have been mentioned in reviews. Write a program that cuts out employee names from reviews and concatenates them into a single string. Format the result like in the picture.":"Der Direktor von Sunflowers möchte Mitarbeitern Boni geben, deren Namen in Bewertungen erwähnt wurden. Schreiben Sie ein Programm, das Mitarbeiternamen aus Bewertungen abschneidet und sie zu einer einzigen Zeichenfolge verkettet. Formatieren Sie das Ergebnis wie im Bild."
+  "The director of Sunflowers wants to give bonuses to employees whose names have been mentioned in reviews. Write a program that cuts out employee names from reviews and concatenates them into a single string. Format the result like in the picture.":"Der Direktor von Sunflowers möchte Mitarbeitern Boni geben, deren Namen in Bewertungen erwähnt wurden. Schreiben Sie ein Programm, das Mitarbeiternamen aus Bewertungen abschneidet und sie zu einer einzigen Zeichenfolge verkettet. Formatieren Sie das Ergebnis wie im Bild.",
 
 
 "PYTHON-Lektion4":"PYTHON-LEKTION-4",
@@ -1045,6 +1045,7 @@
   "Let's look at an example. Suppose you need to find what remains after deducting 15% of 20,000. First, find 15% of 20,000: 20,000*0.15 = 3,000. Then we subtract the number we got from the sum: 20,000 - 3,000 = 17,000.": "Schauen wir uns ein Beispiel an.\nAngenommen, du möchtest wissen, was nach dem Abzug von 15 % von 20.000 übrig bleibt.\n\nZuerst berechne 15 % von 20.000: 20.000*0.15 = 3.000.\nDann ziehe die Zahl von der Summe ab: 20.000 - 3.000 = 17.000."
 
 }
+
 
 
 
