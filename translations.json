@@ -1061,7 +1061,7 @@
   "Don't know how to set a Boolean expression like this?": "Weiß nicht, wie man einen booleschen Ausdruck wie diesen setzt?",
   "In order to offer diet-specific products upon the fulfillment of any of the three wishes. It can be set like this: wish - sugar free OR wish - fat free OR wish - gluten free. Then the value of the expression will be True if any of the wishes are fulfilled.": "Um diätspezifische Produkte anzubieten, wenn einer der drei Wünsche erfüllt ist. Es kann so gesetzt werden:\n\nWunsch - zuckerfrei ODER Wunsch - fettfrei ODER Wunsch - glutenfrei.\n\nDann ist der Wert des Ausdrucks True, wenn einer der Wünsche erfüllt ist.",
   "Write a program that recognizes the order": "Schreibe ein Programm, das die Bestellung erkennt",
-  "The following items are especially popular at the bake shop: - cookies with cream; - cookies with jam. Write a program that recognizes that a popular cream cookie or jam cookie has been ordered. Draw up the program like in the picture.": "Folgende Artikel sind in der Bäckerei besonders beliebt:\n- Kekse mit Sahne;\n- Kekse mit Marmelade.\n\nSchreibe ein Programm, das erkennt, dass ein beliebter Sahnekeks oder Marmeladenkeks bestellt wurde.\n\nStelle das Programm wie auf dem Bild dar.",
+  "The following items are especially popular at the bake shop: - cookies with cream; - cookies with jam. Write a program that recognizes that a popular cream cookie or jam cookie has been ordered. Draw up the program like in the picture.": "Folgende Artikel sind in der Bäckerei besonders beliebt:\n- cookies with cream;\n- cookies with jam.\n\nSchreibe ein Programm, das erkennt, dass ein beliebter Sahnekeks oder Marmeladenkeks bestellt wurde.\n\nStelle das Programm wie auf dem Bild dar.",
   "Not sure what expression describes the popular cookies with fillings?": "Nicht sicher, welcher Ausdruck die beliebten Kekse mit Füllung beschreibt?",
   "The popular order could be described by the expression: kind - cookies AND filling - jam OR kind - cookies AND filling - cream. Other options are also possible.": "Die beliebte Bestellung könnte durch den Ausdruck beschrieben werden:\n\nArt - Kekse UND Füllung - Marmelade ODER Art - Kekse UND Füllung - Sahne.\n\nAndere Optionen sind auch möglich.",
   "Consider different spellings of the names of fillings": "Berücksichtige verschiedene Schreibweisen der Namen der Füllungen",
@@ -1096,6 +1096,7 @@
   
 
 }
+
 
 
 
