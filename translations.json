@@ -685,6 +685,60 @@
   "Program this rule: If the Car sprite touches anything green (i.e. travels off the road), it begins its journey again.": "Programmiere diese Regel: Wenn der Auto-Sprite etwas Grünes berührt (d.h. von der Straße abkommt), beginnt er seine Reise von neuem.",
   "Touching the finish line sprite": "Die Ziellinie berühren",
   "Program this rule: If the Car sprite touches the finish line, you win and the project stops.": "Programmiere diese Regel: Wenn der Auto-Sprite die Ziellinie berührt, gewinnst du und das Projekt stoppt.",
+
+  "-------------------Game. LEKTION 4_Scratch. Changing coordinates-----------------------?":"-------------------Game. LEKTION 4_Scratch. Changing coordinates-----------------------DEUTSCH?",
+  "Dog in the maze": "Hund im Labyrinth",
+  "Collect the crystals!": "Sammle die Kristalle!",
+  "Create a project plan": "Erstelle einen Projektplan",
+  "Plan the project using a notebook. Make notes to help you program your project correctly!": "Planen Sie das Projekt mit einem Notizbuch.\n\nEs soll 4 Nachrichten geben: Level 1, Level 2, Gewinn. Statt Verlust soll der Hund immer zum Ausgangsposition kommen.",
+  "Controlling the Dog sprite": "Steuerung des Hund-Sprites erfolgt durch die Prüfungen: z.B. Falls Taste nach oben gedrückt, dann - ändere y um 10",
+  "Touching obstacles": "Berühren von Hindernissen erfolgt durch die Prüfungen: Falls Farbe berührt, dann - Ausgangsposition",
+  "There are two obstacles in this project — the walls of the maze and the lightning.": "In diesem Projekt gibt es zwei Hindernisse – die Wände des Labyrinths und die Blitze.",
+  "Level 1": "Level 1 - Bühnenbild Labyrinth 10",
+  "Program the initial placement for level 1.": "Programmiere die Ausgangsposition für Level 1. Brauchen wir da Koordinaten?",
+  "Level 2": "Level 2 - Bühnenbild Labyrinth 1",
+  "Program the initial placement for level 2.": "Programmiere die Ausgangsposition für Level 2. Brauchen wir da Koordinaten?",
+  "Touching the target": "Berühren des Ziels: Falls Kristalle berührt werden, dann soll die Nachricht Level 2 oder Gewinn geschickt werden",
+  "We have two targets: two different crystals. One of the crystals takes us to the next level, and the other one creates the \"Victory\" event.": "Wir haben zwei Ziele: zwei verschiedene Kristalle. Einer der Kristalle bringt uns zum nächsten Level, und der andere löst das „Sieg“-Ereignis aus.",
+  "MarsBot jumping": "MarsBot springt",
+  "Press the space bar and watch: the MarsBot jumps two times. Create the same project!": "Drücke die Leertaste und schau zu: Der MarsBot springt zweimal. Erstelle das gleiche Projekt!",
+  "Create a new \"Jump\" command": "Erstelle einen neuen „Springen“-Befehl",
+  "The robot changes position gradually. It moves up and then down. Use these commands.": "Der Roboter ändert seine Position schrittweise. Er bewegt sich nach oben und dann nach unten. Verwende diese Befehle.",
+  "Double jump when pressing the space bar": "Doppelsprung bei Drücken der Leertaste",
+  "This command appeared in the \"Other Blocks\" section. Use it.": "Dieser Befehl erschien im Abschnitt „Andere Blöcke“. Verwende ihn.",
+  "The MarsBot does flips!": "Der MarsBot macht Saltos!",
+  "Press the space bar and watch! The initial placement and the appearance of the robot can also be done with a separate command. Look at how it's done.": "Drücke die Leertaste und schau zu!\n\nDie Ausgangsposition und das Aussehen des Roboters können auch mit einem separaten Befehl festgelegt werden. Schau dir an, wie es gemacht wird.",
+  "Create the \"Flip\" procedure": "Erstelle die „Salto“-Prozedur",
+  "Your \"own\" commands are called procedures. Create the script for \"Flip\" procedure.": "Deine „eigenen“ Befehle heißen Prozeduren. Erstelle das Skript für die „Salto“-Prozedur.",
+  "Double flip when pressing the space bar": "Doppelsalto bei Drücken der Leertaste",
+  "Use the \"Flip\" procedure twice when pressing the space bar to make the MarsBot do a double flip": "Verwende die „Salto“-Prozedur zweimal, wenn die Leertaste gedrückt wird, damit der MarsBot einen Doppelsalto macht",
+  "The sprite does somersaults forward and backward": "Das Sprite macht Vorwärts- und Rückwärtssaltos",
+  "To control the MarsBot, use the space bar and numbers 1 and 2.": "Um den MarsBot zu steuern, verwende die Leertaste und die Zahlen 1 und 2.",
+  "The \"Start\" procedure": "Die „Start“-Prozedur",
+  "Use the \"Start\" procedure to set the size, position, and direction of the MarsBot.": "Verwende die „Start“-Prozedur, um die Größe, Position und Richtung des MarsBots festzulegen.",
+  "The \"backward somersault\" procedure": "Die „Rückwärtssalto“-Prozedur",
+  "Create the \"backward somersault\" procedure the same way as the \"forward somersault\" procedure.": "Erstelle die „Rückwärtssalto“-Prozedur genauso wie die „Vorwärtssalto“-Prozedur.",
+  "Pressing the space bar": "Drücken der Leertaste",
+  "The space bar starts a long warm-up and the MarsBot performs somersaults forward and backward.": "Die Leertaste startet ein langes Aufwärmen und der MarsBot führt Vorwärts- und Rückwärtssaltos aus.",
+  "Pressing the number 1": "Drücken der Zahl 1",
+  "When you press the number 1, the MarsBot does a forward somersault.": "Wenn du die Zahl 1 drückst, macht der MarsBot einen Vorwärtssalto.",
+  "Pressing the number 2": "Drücken der Zahl 2",
+  "When you press the number 2, the MarsBot does a backward somersault.": "Wenn du die Zahl 2 drückst, macht der MarsBot einen Rückwärtssalto.",
+  "The MarsBot walks or does flips all the time": "Der MarsBot läuft oder macht die ganze Zeit Saltos",
+  "Click on 1 and 2 and watch the example!": "Klicke auf 1 und 2 und schau dir das Beispiel an!",
+  "Define the \"Start\" procedure": "Definiere die „Start“-Prozedur",
+  "Define the \"Walk\" procedure": "Definiere die „Gehen“-Prozedur",
+  "In this procedure, the MarsBot moves to the right and then returns to its original place.": "In dieser Prozedur bewegt sich der MarsBot nach rechts und kehrt dann an seinen ursprünglichen Platz zurück.",
+  "Define the \"Flip\" procedure": "Definiere die „Salto“-Prozedur",
+  "When you press 1, the MarsBot is constantly walking": "Wenn du 1 drückst, läuft der MarsBot ständig",
+  "Put the procedure in an endless \"repeat forever\" loop!": "Setze die Prozedur in eine Endlosschleife „wiederhole fortlaufend“!",
+  "When you press 2, the MarsBot is constantly doing flips": "Wenn du 2 drückst, macht der MarsBot ständig Saltos",
+  "Put the \"Flip\" procedure in an endless loop. And add a small pause between jumps — after all, real athletes pause to prepare for their next jump!": "Setze die „Salto“-Prozedur in eine Endlosschleife. Und füge eine kleine Pause zwischen den Sprüngen hinzu – schließlich pausieren echte Athleten, um sich auf ihren nächsten Sprung vorzubereiten!",
+  "Stop the previous script": "Stoppe das vorherige Skript",
+  "If the MarsBot is always walking and then we want it to do flips, we must first stop the walking script. To do this, use the command \"stop the sprite's other scripts.\" It is also best if the flipping and walking always start from the starting position, so we will use the “Start” procedure for all events.": "Wenn der MarsBot immer läuft und wir dann wollen, dass er Saltos macht, müssen wir zuerst das Geh-Skript stoppen. Verwende dazu den Befehl „stoppe andere Skripte des Sprites“. Es ist auch am besten, wenn Saltos und Gehen immer von der Startposition aus beginnen, daher verwenden wir die „Start“-Prozedur für alle Ereignisse.",
+  "Find the error": "Finde den Fehler",
+  "Run the project, and press 2 and 1. What is the error?": "Führe das Projekt aus und drücke 2 und 1. Was ist der Fehler?",
+  "Correct the error": "Korrigiere den Fehler",
   
   "-------------------Logic. LEKTION 1_Scratch.-----------------------?":"-------------------Logic. LEKTION 1_Scratch.-----------------------DEUTSCH?",
 
@@ -821,6 +875,8 @@
   "Modify the game as you like. Add enemies and change their appearance. Add a main enemy.": "Ändere das Spiel, wie du möchtest. Füge Gegner hinzu und ändere ihr Aussehen. Füge einen Hauptgegner hinzu.",
   "*Bonus: The main enemy changes size": "*Bonus: Der Hauptgegner ändert seine Größe.",
   "If you hit the main enemy, it gets smaller. If it is less than a certain value, you win.": "Wenn du den Hauptgegner triffst, wird er kleiner. Wenn er kleiner als ein bestimmter Wert ist, gewinnst du.",
+
+
 
 
 
@@ -1096,6 +1152,7 @@
   
 
 }
+
 
 
 
