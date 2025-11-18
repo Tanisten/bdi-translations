@@ -1195,8 +1195,7 @@
   "Write a program recommending products for a celebration": "Schreibe ein Programm, das Produkte für eine Feier empfiehlt",
   "The buyer is looking for products from the \"Celebration\" category. For this: 1. The user enters a subcategory (e.g. food). 2. If the subcategory is \"food\", the program displays: \"You will need: a cake, chips, soda\" 3. If the subcategory is \"decorations\", the program displays: \"You will need: candles, balloons\" 4. In all other cases — \"Check out our bestsellers!\"": "Der Käufer sucht Produkte aus der Kategorie \"Celebration\". Dafür:\n\n1. Der Benutzer gibt eine Unterkategorie ein (z.B. food).\n2. Wenn die Unterkategorie \"food\" ist, zeigt das Programm an: \"You will need: a cake, chips, soda\"\n3. Wenn die Unterkategorie \"decorations\" ist, zeigt das Programm an: \"You will need: candles, balloons\"\n4. In allen anderen Fällen — \"Check out our bestsellers!\"",
 
-  "1. Try the Lime Cactus lemonade! 2. Try the baked apple soda 3. Try the Naughty Blackberry drink 4. Try the juniper pie! 5. Oh well! We'll be waiting for you": "1. Try the Lime Cactus lemonade!\n2. Try the baked apple soda\n3. Try the Naughty Blackberry drink\n4. Try the juniper pie!\n5. Oh well! We'll be waiting for you",
-
+ 
   "Write a program that predicts the number of buyers.": "Schreibe ein Programm, das die Anzahl der Käufer vorhersagt.",
   "The program should: 1) Request the number of buyers from the day before yesterday and yesterday. 2) Compare those numbers. If the number went up, the number of buyers today is: -> (buyers yesterday + the difference between yesterday and the day before yesterday). If the number went down, the number of buyers today is: -> (buyers yesterday - the difference between yesterday and the day before yesterday). 3) Print the forecast as in the picture.": "Das Programm sollte:\n1) Nach der Anzahl der Käufer von vorgestern und gestern fragen.\n\n2) Diese Zahlen vergleichen.\nWenn die Zahl gestiegen ist, ist die Anzahl der Käufer heute:\n-> (Käufer gestern + die Differenz zwischen gestern und vorgestern).\n\nWenn die Zahl gesunken ist, ist die Anzahl der Käufer heute:\n-> (Käufer gestern - die Differenz zwischen gestern und vorgestern).\n\n3) Die Prognose wie auf dem Bild ausdrucken.",
 
@@ -1212,6 +1211,7 @@
   "Write a feedback collection program": "Schreibe ein Programm zur Erfassung von Feedback",
   "The program should ask for a service rating from 1 to 5. 1. If the score is \"5,\" then this phrase is displayed: \"We are working for you!\" 2. If the score is \"4\" or \"3,\" then it asks what exactly you did not like. Then this phrase is displayed: \"Thank you for your feedback!\" 3. If the score is less than 3 (other cases), then this phrase is displayed: \"We will call you to find out more!\" Draw up the program like in the picture.": "Das Programm sollte nach einer Servicebewertung von 1 bis 5 fragen.\n\n1. Wenn die Bewertung \"5\" ist, dann wird dieser Satz angezeigt: \"We are working for you!\"\n2. Wenn die Bewertung \"4\" oder \"3\" ist, dann fragt es, was genau dir nicht gefallen hat. Dann wird dieser Satz angezeigt: \"Thank you for your feedback!\"\n3. Wenn die Bewertung weniger als 3 beträgt (andere Fälle), dann wird dieser Satz angezeigt: \"We will call you to find out more!\"\n\nStelle das Programm wie auf dem Bild dar."
 }
+
 
 
 
