@@ -924,14 +924,14 @@
 
 
 
-  "MODUL5___VARIABLEN":"MODUL5___VARIABLEN_DE"
-  "Cat bot 1": "Cat bot 1",
+  "MODUL5___VARIABLEN":"MODUL5___VARIABLEN_DE",
+  "Cat bot 1": "Katze bot 1",
   "Study the project. The cat asks for the username and greets them. Let's program it.": "Studiere das Projekt.\nDie Katze fragt nach dem Benutzernamen und begrüßt sie. Programmieren wir es.",
   "The cat asks for a name and remembers it.": "Die Katze fragt nach einem Namen und merkt ihn sich.",
   "The cat asks for a name and remembers it. To program that, use the following commands.": "Die Katze fragt nach einem Namen und merkt ihn sich.\nUm das zu programmieren, verwende die folgenden Befehle.",
   "The cat calls the user by name": "Die Katze ruft den Benutzer beim Namen",
   "The cat refers to the user by name. To program that, use the following commands.": "Die Katze spricht den Benutzer mit Namen an.\nUm das zu programmieren, verwende die folgenden Befehle.",
-  "Cat bot 2": "Cat bot 2",
+  "Cat bot 2": "Katze bot 2",
   "Study how the cat bot works. It asks the user's age and responds. Let's program it.": "Studiere, wie der Cat bot funktioniert.\nEr fragt nach dem Alter des Benutzers und antwortet. Programmieren wir es.",
   "The cat asks for an age": "Die Katze fragt nach einem Alter",
   "The cat asks the user's age and remembers it. To program that, use the following commands.": "Die Katze fragt nach dem Alter des Benutzers und merkt es sich.\nUm das zu programmieren, verwende die folgenden Befehle.",
@@ -1243,6 +1243,7 @@
   "Write a feedback collection program": "Schreibe ein Programm zur Erfassung von Feedback",
   "The program should ask for a service rating from 1 to 5. 1. If the score is \"5,\" then this phrase is displayed: \"We are working for you!\" 2. If the score is \"4\" or \"3,\" then it asks what exactly you did not like. Then this phrase is displayed: \"Thank you for your feedback!\" 3. If the score is less than 3 (other cases), then this phrase is displayed: \"We will call you to find out more!\" Draw up the program like in the picture.": "Das Programm sollte nach einer Servicebewertung von 1 bis 5 fragen.\n\n1. Wenn die Bewertung \"5\" ist, dann wird dieser Satz angezeigt: \"We are working for you!\"\n2. Wenn die Bewertung \"4\" oder \"3\" ist, dann fragt es, was genau dir nicht gefallen hat. Dann wird dieser Satz angezeigt: \"Thank you for your feedback!\"\n3. Wenn die Bewertung weniger als 3 beträgt (andere Fälle), dann wird dieser Satz angezeigt: \"We will call you to find out more!\"\n\nStelle das Programm wie auf dem Bild dar."
 }
+
 
 
 
