@@ -951,6 +951,44 @@
   "To remember the password, you need to write it in a variable.": "Um sich das Passwort zu merken, musst du es in eine Variable schreiben.",
   "The cat asks for the password and checks it": "Die Katze fragt nach dem Passwort und überprüft es",
   "If the answer and the \"Password\" variable match, the appearance of the cat changes or it performs an action.": "Wenn die Antwort und die \"Password\"-Variable übereinstimmen, ändert sich das Aussehen der Katze oder sie führt eine Aktion aus.",
+  "Meet C1PO. He can measure crystals and record the values on the computer. Then he sends the information to the base. Let's send the size of the first crystal.": "Triff C1PO. Er kann Kristalle vermessen und die Werte im Computer speichern. Dann sendet er die Informationen zur Basis. Senden wir die Größe des ersten Kristalls.",
+  "Now we need to find out the size of the second crystal.": "Jetzt müssen wir die Größe des zweiten Kristalls herausfinden.",
+  "Send the value of the 4th crystal! To keep within the command limits, use a loop.": "Sende den Wert des 4. Kristalls! Um innerhalb der Befehlsgrenzen zu bleiben, verwende eine Schleife.",
+  "C1PO can work with data in addition to measuring crystals. Add 1 to the size of the crystal and send the information.": "C1PO kann zusätzlich zum Messen von Kristallen auch mit Daten arbeiten. Addiere 1 zur Größe des Kristalls und sende die Information.",
+  "Now add two!": "Jetzt addiere zwei!",
+  "Add 3 to the size of the second crystal and send the information!": "Addiere 3 zur Größe des zweiten Kristalls und sende die Information!",
+  "Let's find the total size. To calculate this sum, the variable must be assigned its own value + the value of the number that was added. Let's see how it's done! Count until we get to the blue crystal.": "Lass uns die Gesamtgröße finden. Um diese Summe zu berechnen, muss der Variablen ihr eigener Wert + der Wert der hinzugefügten Zahl zugewiesen werden. Mal sehen, wie das geht! Zähle, bis wir zum blauen Kristall gelangen.",
+  "And here find the total size of the green crystals. Let's stop at the blue one again.": "Und hier finde die Gesamtgröße der grünen Kristalle. Lass uns wieder beim blauen anhalten.",
+  "Calculate the sum of the sizes of the crystals that are bigger than 3. Stop at the blue one.": "Berechne die Summe der Größen der Kristalle, die größer als 3 sind. Stoppe beim blauen.",
+  "Add the sizes of the red crystals and then add the sizes of the green ones. Send whichever amount is bigger. Stop counting if a blue crystal appears.": "Addiere die Größen der roten Kristalle und dann addiere die Größen der grünen. Sende den größeren Betrag. Stoppe das Zählen, wenn ein blauer Kristall erscheint.",
+  "Count how many red crystals there are. (Stop before getting to blue.)": "Zähle, wie viele rote Kristalle es gibt. (Stoppe bevor du zu blau kommst.)",
+  "A green crystal costs 5 Mars, and a red crystal costs 3 Mars. How much do we get by selling all these crystals? (Stop at the blue crystal).": "Ein grüner Kristall kostet 5 Mars, und ein roter Kristall kostet 3 Mars. Wie viel bekommen wir durch den Verkauf all dieser Kristalle? (Stoppe beim blauen Kristall).",
+  "Multiply the sizes of the crystals by each other. Whoops... You don't have the multiplication operator!": "Multipliziere die Größen der Kristalle miteinander. Hoppla... Du hast keinen Multiplikationsoperator!",
+  "Octopus": "Oktopus",
+  "The counter keeps track of how many times the octopus catches its prey.": "Der Zähler verfolgt, wie oft der Oktopus seine Beute fängt.",
+  "The score is set to zero": "Der Punktestand wird auf Null gesetzt",
+  "At the start, the score is 0.": "Am Anfang ist der Punktestand 0.",
+  "Controlling the octopus": "Steuerung des Oktopus",
+  "Add the \"Control\" block and the \"Repeat forever\" command.": "Füge den \"Steuerung\"-Block und den \"Wiederhole fortlaufend\"-Befehl hinzu.",
+  "The score goes up": "Der Punktestand steigt",
+  "Add the next set of commands after the control block. Note that the condition must be checked constantly.": "Füge den nächsten Befehlssatz nach dem Steuerungsblock hinzu. Beachte, dass die Bedingung ständig überprüft werden muss.",
+  "Guess the number": "Errate die Zahl",
+  "The MarsBot chooses a number from 1 to 10. Try to guess what the number is.": "Der MarsBot wählt eine Zahl von 1 bis 10. Versuche zu erraten, welche Zahl es ist.",
+  "Rules of the game": "Spielregeln",
+  "Program the \"Game Rules\" block so that the MarsBot explains the rules.": "Programmiere den \"Spielregeln\"-Block, damit der MarsBot die Regeln erklärt.",
+  "The MarsBot thinks of a number": "Der MarsBot denkt sich eine Zahl aus",
+  "Program the Question-Answer block. Set the \"Secret number\" variable to a random value.": "Programmiere den Frage-Antwort-Block. Setze die Variable \"Geheime Zahl\" auf einen zufälligen Wert.",
+  "The user enters a number": "Der Benutzer gibt eine Zahl ein",
+  "The MarsBot asks the user.": "Der MarsBot fragt den Benutzer.",
+  "Condition checking": "Bedingungsüberprüfung",
+  "The MarsBot says whether the user guessed the number or not. If not, it says the secret number. Use the \"combine\" command.": "Der MarsBot sagt, ob der Benutzer die Zahl erraten hat oder nicht. Wenn nicht, sagt er die geheime Zahl. Verwende den \"kombinieren\"-Befehl.",
+  "Play the game. Write the same!": "Spiele das Spiel. Schreibe das Gleiche!",
+  "The sprite explains the rules of the game.": "Das Sprite erklärt die Regeln des Spiels.",
+  "Number input and comparing it with the secret one": "Zahleneingabe und Vergleich mit der geheimen Zahl",
+  "The sprite asks for a number until it is guessed.": "Das Sprite fragt nach einer Zahl, bis sie erraten wird.",
+  "Tips": "Tipps",
+  "The sprite says whether the secret number is higher or lower than the entered one.": "Das Sprite sagt, ob die geheime Zahl höher oder niedriger als die eingegebene ist.",
+  "The program calculates how many attempts the player took to guess the secret number.": "Das Programm berechnet, wie viele Versuche der Spieler benötigt hat, um die geheime Zahl zu erraten.",
 
 
 
@@ -1002,6 +1040,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
   
@@ -1325,6 +1393,7 @@
 
 
 }
+
 
 
 
