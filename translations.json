@@ -981,7 +981,7 @@
   "The user enters a number": "Der Benutzer gibt eine Zahl ein",
   "The MarsBot asks the user.": "Der MarsBot fragt den Benutzer.",
   "Condition checking": "Bedingungsüberprüfung",
-  "The MarsBot says whether the user guessed the number or not. If not, it says the secret number. Use the \"combine\" command.": "Der MarsBot sagt, ob der Benutzer die Zahl erraten hat oder nicht. Wenn nicht, sagt er die geheime Zahl. Verwende den \"kombinieren\"-Befehl.",
+  "The MarsBot says whether the user guessed the number or not. If not, it says the secret number. Используй команду «объединить».": "Der MarsBot sagt, ob der Benutzer die Zahl erraten hat oder nicht. Wenn nicht, sagt er die geheime Zahl. Verwende den \"verbinde\"-Befehl.",
   "Play the game. Write the same!": "Spiele das Spiel. Schreibe das Gleiche!",
   "The sprite explains the rules of the game.": "Das Sprite erklärt die Regeln des Spiels.",
   "Number input and comparing it with the secret one": "Zahleneingabe und Vergleich mit der geheimen Zahl",
@@ -1393,6 +1393,7 @@
 
 
 }
+
 
 
 
