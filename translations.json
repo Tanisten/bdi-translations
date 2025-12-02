@@ -1375,7 +1375,7 @@
   "Write a program that prints a Christmas tree on the receipt.": "Schreibe ein Programm, das einen Weihnachtsbaum auf den Beleg druckt.",
   "In honor of the holidays, Longevity wants to print Christmas trees on their receipts, so they asked us to write a special program for that. The program should ask you to enter a number and display a Christmas tree of the appropriate height. Using the characters '' (space) and '*' (asterisk), write a program like this. An example of the program is shown in the picture.": "Zu Ehren der Feiertage möchte Longevity Weihnachtsbäume auf seine Quittungen drucken, daher bat uns das Unternehmen, ein spezielles Programm dafür zu schreiben.\n\nDas Programm sollte Sie auffordern, eine Zahl einzugeben und einen Weihnachtsbaum in der entsprechenden Höhe anzuzeigen.\n\nVerwenden Sie die Zeichen '' (Leerzeichen) und '*' (Sternchen), um ein solches Programm zu schreiben. Ein Beispiel des Programms ist auf dem Bild gezeigt.",
 
-  "Not sure how to print such a shape?": "Nicht sicher, wie man eine solche Form druckt?"
+  "Not sure how to print such a shape?": "Nicht sicher, wie man eine solche Form druckt?",
 
      "PYTHON-Lektion8":"PYTHON-LEKTION-8",
   "Write a program that gathers music preferences": "Schreibe ein Programm, das Musikpräferenzen sammelt",
@@ -1431,6 +1431,7 @@
 
 
 }
+
 
 
 
