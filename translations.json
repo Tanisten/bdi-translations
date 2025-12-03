@@ -980,6 +980,112 @@
 
 
 
+  
+  "Apple picking season": "Apfelerntezeit",
+  "It's time to pick apples. They are already falling from the tree themselves. There's a basket under the apple tree and you can find out how many apples have fallen into the basket, and how many missed it. Let's program it.": "Es ist Zeit, Äpfel zu pflücken. Sie fallen bereits von selbst vom Baum.\nUnter dem Apfelbaum steht ein Korb und du kannst herausfinden, wie viele Äpfel in den Korb gefallen sind und wie viele ihn verfehlt haben.\nProgrammieren wir es.",
+  "Variables": "Variablen",
+  "In order to keep score of the apples, you need \"Collected\" and \"Missed\" variables. These variables should be set to 0 when starting the project to avoid confusion.": "Um die Äpfel zu zählen, benötigst du \"Gesammelte\" und \"Verfehlte\" Variablen.\nDiese Variablen sollten beim Start des Projekts auf 0 gesetzt werden, um Verwirrung zu vermeiden.",
+  "Set the initial placement so that the apples fall from the apple tree and are of the correct size.": "Lege die Ausgangsposition so fest, dass die Äpfel vom Apfelbaum fallen und die richtige Größe haben.",
+  "Falling apples": "Fallende Äpfel",
+  "We program the apples to fall down, and to make it more realistic, we make the apples rotate.": "Wir programmieren die Äpfel so, dass sie nach unten fallen, und um es realistischer zu machen, lassen wir die Äpfel rotieren.",
+  "Counting missed apples": "Zählen der verfehlten Äpfel",
+  "Within a \"repeat forever\" command, create a condition check for missing the basket.": "Erstelle innerhalb eines \"wiederhole fortlaufend\"-Befehls eine Bedingungsprüfung für das Verfehlen des Korbes.",
+  "Counting the apples that make it into the basket": "Zählen der Äpfel, die in den Korb gelangen",
+  "Create a condition that checks if an apple makes it into the basket or not. The condition should always be checked.": "Erstelle eine Bedingung, die prüft, ob ein Apfel in den Korb gelangt oder nicht.\nDie Bedingung sollte immer geprüft werden.",
+  "Catch the balls": "Fange die Bälle",
+  "Catch the ball 5 times. To do that, control the basket using the arrows on the keyboard.": "Fange den Ball 5 Mal. Steuere dazu den Korb mit den Pfeiltasten auf der Tastatur.",
+  "When you click on the green flag, all the sprites take their starting positions.": "Wenn du auf die grüne Flagge klickst, nehmen alle Sprites ihre Ausgangspositionen ein.",
+  "Basket control": "Korbsteuerung",
+  "Program the basket so that it can be controlled from the keyboard.": "Programmiere den Korb so, dass er von der Tastatur aus gesteuert werden kann.",
+  "Ball falling": "Ball fällt",
+  "Program the ball to always fall down": "Programmiere den Ball so, dass er immer nach unten fällt",
+  "Moving the ball up the screen": "Bewegen des Balls nach oben auf dem Bildschirm",
+  "After reaching the bottom edge, the ball disappears and reappears at a random point at the top. Program that.": "Nach Erreichen des unteren Randes verschwindet der Ball und erscheint an einem zufälligen Punkt oben wieder. Programmiere das.",
+  "Counting missed balls": "Zählen der verfehlten Bälle",
+  "Within a \"repeat forever\" command, create a condition check for the ball missing the basket.": "Erstelle innerhalb eines \"wiederhole fortlaufend\"-Befehls eine Bedingungsprüfung dafür, dass der Ball den Korb verfehlt.",
+  "Counting the balls that make it into the basket": "Zählen der Bälle, die in den Korb gelangen",
+  "Create a condition that checks if a ball makes it into the basket or not. The condition should always be checked.": "Erstelle eine Bedingung, die prüft, ob ein Ball in den Korb gelangt oder nicht.\nDie Bedingung sollte immer geprüft werden.",
+  "*Bonus: winning and losing": "*Bonus: Gewinnen und Verlieren",
+  "Add a check and victory announcement.": "Füge eine Prüfung und Gewinnansage hinzu.",
+  "*Bonus: announcing captured points": "*Bonus: Ankündigung der gefangenen Punkte",
+  "*The ball moves in a random direction": "*Der Ball bewegt sich in eine zufällige Richtung",
+  "The ball turns in a random direction and starts moving. If it reaches the right or left edge, it bounces off.": "Der Ball dreht sich in eine zufällige Richtung und beginnt sich zu bewegen. Wenn er den rechten oder linken Rand erreicht, prallt er ab.",
+  "*Bonus: modify the game as you see fit": "*Bonus: Modifiziere das Spiel nach deinem Geschmack",
+  "This is a 2 player game. Who will win? The first player can control their racket using the W and S keys, and the second player can control theirs using the up and down arrows.": "Dies ist ein 2-Spieler-Spiel. Wer wird gewinnen?\nDer erste Spieler kann seinen Schläger mit den Tasten W und S steuern, und der zweite Spieler kann seinen mit den Auf- und Ab-Pfeiltasten steuern.",
+  "Program the greeting and introduction with the referee": "Programmiere die Begrüßung und Vorstellung mit dem Schiedsrichter",
+  "The referee asks for the names of the players before the game and announces them. How do we program this?": "Der Schiedsrichter fragt vor dem Spiel nach den Namen der Spieler und kündigt sie an. Wie programmieren wir das?",
+  "Program the racket controls": "Programmiere die Schlägersteuerung",
+  "The first player can control their racket using the W and S keys, and the second player can control theirs using the up and down arrows.": "Der erste Spieler kann seinen Schläger mit den Tasten W und S steuern, und der zweite Spieler kann seinen mit den Auf- und Ab-Pfeiltasten steuern.",
+  "Find the Goal Check procedure and program it.": "Finde die Goal Check-Prozedur und programmiere sie.",
+  "Describe the victory check": "Beschreibe die Siegesprüfung",
+  "Find the Win Check procedure and program it.": "Finde die Win Check-Prozedur und programmiere sie.",
+  "Kaleidoscope": "Kaleidoskop",
+  "Run the project. When you press the space bar, a new drawing appears. Let's program it": "Führe das Projekt aus.\nWenn du die Leertaste drückst, erscheint eine neue Zeichnung.\nProgrammieren wir es",
+  "Procedure with a parameter": "Prozedur mit einem Parameter",
+  "Create a procedure with a parameter and attach it to the script that draws the pattern. Be sure to call this procedure \"Flower with __ petals.\"": "Erstelle eine Prozedur mit einem Parameter und hänge sie an das Skript an, das das Muster zeichnet.\nNenne diese Prozedur unbedingt \"Flower with __ petals.\"",
+  "Number of petals": "Anzahl der Blütenblätter",
+  "Add the \"number of petals\" parameter to the script.": "Füge den \"number of petals\"-Parameter zum Skript hinzu.",
+  "When you press the space bar, the procedure \"Flower with __ petals\" is performed, and the number of petals is randomly determined from 5 to 25.": "Wenn du die Leertaste drückst, wird die Prozedur \"Flower with __ petals\" ausgeführt, und die Anzahl der Blütenblätter wird zufällig von 5 bis 25 bestimmt.",
+  "Kaleidoscope 2": "Kaleidoskop 2",
+  "Run the project. When you press a key from 3 to 9, a new pattern appears and the number of petals is equal to that number. Let's program it.": "Führe das Projekt aus.\nWenn du eine Taste von 3 bis 9 drückst, erscheint ein neues Muster und die Anzahl der Blütenblätter entspricht dieser Zahl.\nProgrammieren wir es.",
+  "Add the Pen extension": "Füge die Pen-Erweiterung hinzu",
+  "Create a procedure with a parameter for drawing a flower": "Erstelle eine Prozedur mit einem Parameter zum Zeichnen einer Blume",
+  "Program the drawing of the flower": "Programmiere das Zeichnen der Blume",
+  "You will need to choose a costume, color, and rotate by the number of petals by the following number of degrees: 360/(number of petals).": "Du musst ein Kostüm, eine Farbe auswählen und um folgende Gradzahl drehen: 360/(Anzahl der Blütenblätter).",
+  "Program the choice of the number of petals": "Programmiere die Auswahl der Anzahl der Blütenblätter",
+  "Make it so that when you click on the number 3, a flower with 3 petals is drawn, or when you click on 4, it has four petals.": "Stelle sicher, dass beim Klicken auf die Zahl 3 eine Blume mit 3 Blütenblättern gezeichnet wird oder beim Klicken auf 4 vier Blütenblätter hat.",
+  "Chat with the Cat-bot!": "Plaudere mit dem Cat-bot!",
+  "Add your bot that will perform actions": "Füge deinen Bot hinzu, der Aktionen ausführt",
+  "At startup, the bot asks for a name and age": "Beim Start fragt der Bot nach einem Namen und Alter",
+  "Choose at least 2 functions for your bot and program them!": "Wähle mindestens 2 Funktionen für deinen Bot und programmiere sie!",
+  "What can your bot do? It could compare your ages, play the guitar, call a friend, or tell a story.": "Was kann dein Bot tun? Er könnte eure Alter vergleichen, Gitarre spielen, einen Freund anrufen oder eine Geschichte erzählen.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
 
 
 
@@ -1431,6 +1537,7 @@
 
 
 }
+
 
 
 
