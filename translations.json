@@ -1528,15 +1528,52 @@
   "Use the \"Start over\" button to start the program over.": "Verwende die \"Von vorne beginnen\"-Taste, um das Programm neu zu starten.",
   "See how the program should work. Enter the password only using letters.": "Sieh dir an, wie das Programm funktionieren sollte. Gib das Passwort nur mit Buchstaben ein.",
   "Write a password encryption program": "Schreibe ein Passwortverschlüsselungsprogramm",
+  
   "Do you remember how on most sites the password is covered by asterisks when you enter it so that no one can spy on you? Write a similar program for the \"A Friend Around\" network. 1. At startup, the program reads a password consisting of letters. 2. All the vowels are encrypted with zeros and the consonants with ones. 3. The encrypted password is displayed on the screen (in one line). Format everything like in the picture.": "Erinnerst du dich, wie auf den meisten Websites das Passwort beim Eingeben mit Sternchen abgedeckt wird, damit niemand dich ausspionieren kann? Schreibe ein ähnliches Programm für das \"A Friend Around\"-Netzwerk.\n\n1. Beim Start liest das Programm ein Passwort, das aus Buchstaben besteht.\n2. Alle Vokale werden mit Nullen und die Konsonanten mit Einsen verschlüsselt.\n3. Das verschlüsselte Passwort wird auf dem Bildschirm angezeigt (in einer Zeile).\n\nFormatiere alles wie auf dem Bild.",
   "Tip about lower()": "Tipp zu lower()",
-  "As before, we will assume that uppercase and lowercase letters are encrypted in the same way. Use the lower() method to make all the letters lowercase.": "Wie zuvor nehmen wir an, dass Groß- und Kleinbuchstaben auf die gleiche Weise verschlüsselt werden. Verwende die lower()-Methode, um alle Buchstaben in Kleinbuchstaben umzuwandeln."
+  
+  "As before, we will assume that uppercase and lowercase letters are encrypted in the same way. Use the lower() method to make all the letters lowercase.": "Wie zuvor nehmen wir an, dass Groß- und Kleinbuchstaben auf die gleiche Weise verschlüsselt werden. Verwende die lower()-Methode, um alle Buchstaben in Kleinbuchstaben umzuwandeln.",
 
 
+  "The program forwards the user's questions to the right operator before the stop word off is entered. - If a question is entered, this message is displayed: \"The query has been sent.\" - If the user accidentally presses Enter (an empty line is entered), nothing is displayed. After reading off, the program prints: \"Goodbye!\"": "Das Programm leitet die Fragen des Benutzers an den richtigen Operator weiter, bevor das Stoppwort off eingegeben wird.\n\n- Wenn eine Frage eingegeben wird, wird diese Nachricht angezeigt: \"The query has been sent.\"\n- Wenn der Benutzer versehentlich die Eingabetaste drückt (eine leere Zeile wird eingegeben), wird nichts angezeigt.\n\nNach dem Lesen von off druckt das Programm: \"Goodbye!\"",
+  
+  "Program a bot to answer questions": "Programmiere einen Bot zur Beantwortung von Fragen",
+  
+  "The management of the social network \"A Friend Around\" sent a list of questions and answers: 1. \"What is your name?\" - \"My name is Christina.\" 2. \"Do you have any hobbies?\" - \"I like drawing.\" 3. \"\" (accidentally pressing Enter) - \"Ask me something.\" 4. (any other question) - \"Unfortunately, I don't understand you.\" After the word \"stop,\" the bot should exit.": "Das Management des sozialen Netzwerks \"A Friend Around\" sandte eine Liste von Fragen und Antworten:\n1. \"What is your name?\" - \"My name is Christina.\"\n2. \"Do you have any hobbies?\" - \"I like drawing.\"\n3. \"\" (versehentliches Drücken der Eingabetaste) - \"Ask me something.\"\n4. (jede andere Frage) - \"Unfortunately, I don't understand you.\"\n\nNach dem Wort \"stop\" sollte der Bot beenden.",
+  
+  "Run demo project": "Führe Demo-Projekt aus",
+  
+  "Study how the program should work.": "Studiere, wie das Programm funktionieren sollte.",
+  "What should be done:": "Was sollte getan werden:",
+  
+  "Modify a program for prize drawings without changing the data that's already entered. Format everything like in the picture. The user guesses the date when the idea of the “A Friend Around” social network first appeared. The month and year are entered from the keyboard and compared with those specified in the program. 5 attempts are given. - If both numbers are guessed right, the program displays: \"You win!\" and exits. - If only one is right, the program says which one was right. - If both are incorrect, the program prints \"Incorrect month and year.\"": "Modifiziere ein Programm für Preisauslosungen, ohne die bereits eingegebenen Daten zu ändern. Formatiere alles wie auf dem Bild.\n\nDer Benutzer errät das Datum, an dem die Idee des sozialen Netzwerks \"A Friend Around\" erstmals auftauchte. Monat und Jahr werden von der Tastatur eingegeben und mit den im Programm festgelegten verglichen. 5 Versuche werden gegeben.\n- Wenn beide Zahlen richtig erraten werden, zeigt das Programm an: \"You win!\" und beendet sich.\n- Wenn nur eine richtig ist, sagt das Programm, welche richtig war.\n- Wenn beide falsch sind, druckt das Programm \"Incorrect month and year.\"",
+  
+  "Don't know what to write in the loop?": "Weiß nicht, was in die Schleife zu schreiben ist?",
+  
+  "Check the data entered by the user using a conditional operator. Checking methods may vary. For example, each case could be described using a compound logical expression (\"the month is correct AND the year is incorrect\"). You could also use nesting. The loop is terminated early using a break operator if the year and month are guessed correctly.": "Überprüfe die vom Benutzer eingegebenen Daten mit einem bedingten Operator.\n\nÜberprüfungsmethoden können variieren. Zum Beispiel könnte jeder Fall mit einem zusammengesetzten logischen Ausdruck beschrieben werden (\"der Monat ist richtig UND das Jahr ist falsch\"). Du könntest auch Verschachtelung verwenden.\n\nDie Schleife wird frühzeitig mit einem break-Operator beendet, wenn Jahr und Monat richtig erraten werden.",
+  
+  "Enter the coins currency in the social network.": "Gib die Münzwährung im sozialen Netzwerk ein.",
+  
+  "Write a program that displays the starting balance (100) and suggests actions: \"1 - store, 2 - watch an ad (+5), 3 - exit\". 1. STORE. When entering the store, the program offers a choice: \"1 - sticker (50), 2 - T-shirt (100)\". When making a purchase, the number of coins for it is deducted and the new balance is displayed. 2. ADS. When you select this item, the program adds 5 coins to the balance for watching ads and displays the new balance. 3. EXIT. The program shuts down.": "Schreibe ein Programm, das den Startguthaben (100) anzeigt und Aktionen vorschlägt: \"1 - store, 2 - watch an ad (+5), 3 - exit\".\n\n1. STORE. Beim Betreten des Stores bietet das Programm eine Auswahl: \"1 - sticker (50), 2 - T-shirt (100)\". Beim Kauf werden die Münzen dafür abgezogen und der neue Kontostand angezeigt.\n\n2. ADS. Wenn du diesen Punkt auswählst, fügt das Programm 5 Münzen zum Guthaben für das Ansehen von Werbung hinzu und zeigt den neuen Kontostand an.\n\n3. EXIT. Das Programm fährt herunter.",
+  
+  "Study the program": "Schaue das Programm an",
+  
+  "One of the developers wrote this program. There are no bugs in it. Run it and study the code. After watching the program, go to the next level.": "Einer der Entwickler schrieb dieses Programm. Es enthält keine Fehler.\n\nFühre es aus und studiere den Code. Nachdem du das Programm beobachtet hast, gehe zur nächsten Stufe.",
+  
+  "Fix bugs in the chat program": "Behebe Fehler im Chat-Programm",
+  
+  "The program reads the number of participants and each of their ages. If anyone is less than 14 years old, the program prints \"Insufficient age.\" Format the program like in the picture.": "Das Programm liest die Anzahl der Teilnehmer und jedes ihrer Alter. Wenn jemand weniger als 14 Jahre alt ist, druckt das Programm \"Insufficient age.\"\n\nFormatiere das Programm wie auf dem Bild.",
+  
+  "Study how the program should work. Try cottage cheese, chicken, or mushrooms as the main ingredients.": "Studiere, wie das Programm funktionieren sollte. Probiere Hüttenkäse, Hühnchen oder Pilze als Hauptzutaten.",
+  
+  "Write a food selection bot program": "Schreibe ein Programm für einen Lebensmittelauswahl-Bot",
+  
+  "\"A Friend Around\" began cooperation with the Longevity health food store. Now they offer recipes by main ingredient and cooking time. 1. The main ingredient is entered (\"stop\" to end operation). 2. Enter the desired cooking time (\"1-30 minutes, 1-2 hours\"). 3. A recommended dish is printed. 4. The selection starts over. Suggested dishes: \"cottage cheese\", 30 min: \"Casserole\", \"cottage cheese\", 1 hour: \"Cheese pancakes\", \"chicken\", 30 min: \"Chicken breast in a cream sauce\", \"chicken\", 1 hour: \"Noodles with chicken in a mushroom cream sauce\", any other ingredient, 30 min: \"Broccoli salad\", any other ingredient, 1 hour: Cream of mushroom soup.": "\"A Friend Around\" begann eine Zusammenarbeit mit dem Longevity-Gesundheitslebensmittelgeschäft. Jetzt bieten sie Rezepte nach Hauptzutat und Kochzeit an.\n\n1. Die Hauptzutat wird eingegeben (\"stop\" zum Beenden des Betriebs).\n2. Gib die gewünschte Kochzeit ein (\"1-30 minutes, 1-2 hours\").\n3. Ein empfohlenes Gericht wird gedruckt.\n4. Die Auswahl beginnt von vorne.\n\nVorgeschlagene Gerichte:\n\"cottage cheese\", 30 min: \"Casserole\",\n\"cottage cheese\", 1 hour: \"Cheese pancakes\",\n\n\"chicken\", 30 min: \"Chicken breast in a cream sauce\",\n\"chicken\", 1 hour: \"Noodles with chicken in a mushroom cream sauce\",\n\njede andere Zutat, 30 min: \"Broccoli salad\",\njede andere Zutat, 1 hour: Cream of mushroom soup."
 
 
 
 }
+
 
 
 
