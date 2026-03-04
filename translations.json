@@ -1156,6 +1156,35 @@
 
 
 
+"PYTHON-Lektion1":"PYTHON-LEKTION-1",
+  "Correct the syntax errors in the program": "Korrigiere die Syntaxfehler im Programm",
+  "One of the interns had to write a program about the history of the Python language. He made lots of mistakes in it and did not complete the work. Correct the errors in using the print() function. The program should display text that looks like the picture above.": "Einer der Praktikanten sollte ein Programm über die Geschichte der Python-Sprache schreiben. Er machte viele Fehler darin und beendete die Arbeit nicht.\n\nKorrigiere die Fehler bei der Verwendung der print()-Funktion. Das Programm sollte Text anzeigen, der wie das obige Bild aussieht.",
+
+  "Fix the errors so that the program prints the drawing. There is no need to fix the parameters in the functions!": "Behebe die Fehler, damit das Programm die Zeichnung ausgibt. Es ist nicht nötig, die Parameter in den Funktionen zu korrigieren!",
+  "Another intern had to make part of the program for the quality assessment department. He made several major mistakes in it and did not finish the job on time. Correct the program so that it prints a smiley face. The line parameters are written correctly, the mistakes were made in the basic rules of the Python language.": "Ein weiterer Praktikant sollte einen Teil des Programms für die Qualitätsbewertungsabteilung erstellen. Er machte mehrere schwerwiegende Fehler darin und beendete die Arbeit nicht rechtzeitig.\n\nKorrigiere das Programm so, dass es einen Smiley ausgibt. Die Zeilenparameter sind richtig geschrieben, die Fehler wurden bei den grundlegenden Regeln der Python-Sprache gemacht.",
+
+  "Write a program that displays a greeting to the world": "Schreibe ein Programm, das einen Gruß an die Welt anzeigt",
+  "People have been writing programs that greet the world for a long time. The first such program appeared in a programming textbook in 1974. Almost 50 years ago! The phrase should be written exactly as in the picture above.": "Menschen schreiben seit langer Zeit Programme, die die Welt grüßen. Das erste derartige Programm erschien 1974 in einem Programmierlehrbuch. Fast vor 50 Jahren!\n\nDer Satz sollte genau wie auf dem Bild oben geschrieben werden.",
+  "Doesn't work?": "Funktioniert nicht?",
+  "Check the punctuation marks and spaces. The phrase should be written exactly like in the picture.": "Überprüfe die Satzzeichen und Leerzeichen. Der Satz sollte genau wie auf dem Bild geschrieben werden.",
+
+  "Write a program that calculates developer salaries": "Schreibe ein Programm, das Entwicklergehälter berechnet",
+  "A ProTeam accountant is asking for help! They need to calculate how much to pay the sales staff. 1 employee of the sales department gets 1000 dollars. There are 12 employees in the department. Write a program that displays the total salaries of all employees, with the note: \"Amount of employee salaries:\". Format the result like in the picture.": "Ein Buchhalter von ProTeam bittet um Hilfe! Sie müssen berechnen, wie viel sie den Vertriebsmitarbeitern zahlen müssen.\n\n1 Mitarbeiter der Verkaufsabteilung erhält 1000 Dollar. Es gibt 12 Mitarbeiter in der Abteilung.\n\nSchreibe ein Programm, das die Gesamtgehälter aller Mitarbeiter anzeigt, mit dem Hinweis: \"Amount of employee salaries:\".\nFormatiere das Ergebnis wie auf dem Bild.",
+  
+  "Write a program that calculates the new rental price": "Schreibe ein Programm, das den neuen Mietpreis berechnet",
+  "The accountant is again asking for help. ProTeam pays $85,000 to rent an office space. The landlord recently announced a 10% price increase. Help the accountant calculate the new rental price. Format the result like in the picture.": "Der Buchhalter bittet erneut um Hilfe. ProTeam zahlt 85.000 Dollar für die Anmietung eines Büroraums. Der Vermieter hat kürzlich eine Preiserhöhung von 10% angekündigt.\n\nHilf dem Buchhalter, den neuen Mietpreis zu berechnen. Formatiere das Ergebnis wie auf dem Bild.",
+  "Not sure how to calculate the price after an increase?": "Nicht sicher, wie man den Preis nach einer Erhöhung berechnet?",
+  "Let's say the rent is 100 dollars. The landlord announced a 10 percent increase. To find the new rental price, you need: = 100*0.1 + 100": "Angenommen, die Miete beträgt 100 Dollar. Der Vermieter kündigt eine Erhöhung um 10 Prozent an.\n\nUm den neuen Mietpreis zu finden, benötigst du: = 100*0,1 + 100",
+  "Don't know how to print text on different lines?": "Weiß nicht, wie man Text auf verschiedenen Zeilen ausgibt?",
+  "To write a textual explanation on one line and the amount on another, you need to use one print() to display the text and another to display the amount. Use print() twice.": "Um eine textuelle Erklärung in einer Zeile und den Betrag in einer anderen zu schreiben, musst du ein print() verwenden, um den Text anzuzeigen, und ein weiteres, um den Betrag anzuzeigen.\n\nVerwende print() zweimal.",
+  
+  "Write a program that calculates the amount needed to buy computers": "Schreibe ein Programm, das den benötigten Betrag für Computerkäufe berechnet",
+  "The development department employees made a request for the purchase of computers and components for them: - 6 laptops for 55,480 dollars each; - 3 monitors for 21,830 dollars each; - 11 computer mice for 411 dollars each; - 5 keyboards for 290 dollars each. Help the accountant calculate how much to allocate from the company's budget. Format the calculation results like in the picture.": "Die Mitarbeiter der Entwicklungsabteilung stellten einen Antrag auf Kauf von Computern und Komponenten dafür:\n- 6 Laptops für je 55.480 Dollar;\n- 3 Monitore für je 21.830 Dollar;\n- 11 Computermäuse für je 411 Dollar;\n- 5 Tastaturen für je 290 Dollar.\n\nHilf dem Buchhalter zu berechnen, wie viel aus dem Unternehmensbudget bereitgestellt werden muss. Formatiere die Berechnungsergebnisse wie auf dem Bild.",
+
+  "Write a program that calculates storage capabilities": "Schreibe ein Programm, das Speicherkapazitäten berechnet",
+  "The company has a 5,000 GB data storage. The company was handed over 20 files for placement. The volume of one file is 256 GB. Not all the data will fit in the storage. How many files can we put in the storage? How much free space will be left? Write a program that does computations. Format the answer like in the picture.": "Das Unternehmen verfügt über einen Datenspeicher von 5.000 GB. Dem Unternehmen wurden 20 Dateien zur Platzierung übergeben. Das Volumen einer Datei beträgt 256 GB. Nicht alle Daten passen in den Speicher.\n\nWie viele Dateien können wir in den Speicher legen? Wie viel freier Speicherplatz bleibt übrig?\n\nSchreibe ein Programm, das Berechnungen durchführt. Formatiere die Antwort wie auf dem Bild.",
+  "Don't know where to start?": "Weiß nicht, wo du anfangen sollst?",
+  "Look again at the list of available arithmetic operators.": "Schau dir noch einmal die Liste der verfügbaren arithmetischen Operatoren an.",
 
 
 
@@ -1630,6 +1659,7 @@
 
 
 }
+
 
 
 
