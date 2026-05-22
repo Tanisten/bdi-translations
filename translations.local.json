@@ -1,0 +1,1234 @@
+﻿{
+  "Hey! Let's get acquainted with Scratch": "Hey! Machen wir uns mit Scratch vertraut",
+  "Here are the tasks that need to be completed. To hide this window, click on the purple line to the left of the text. To reopen the tasks, click on the purple line in the upper right corner. You can find information about useful buttons in Scratch in the task list below. Let's open the first one!": "Hier sind die Aufgaben, die erledigt werden müssen. Um dieses Fenster auszublenden, klicken Sie auf die violette Linie links neben dem Text.\nUm die Aufgaben erneut zu öffnen, klicken Sie auf die violette Linie in der oberen rechten Ecke.\n\nInformationen zu nützlichen Schaltflächen in Scratch finden Sie in der Aufgabenliste unten.\nÖffnen wir die erste!",
+  "Add a background": "Hintergrund hinzufügen",
+  "Add a background to your project. Click on the animation above to see how. When the background is ready, mark the task completed by checking the box and move on to the next task!": "Fügen Sie Ihrem Projekt einen Hintergrund hinzu. Klicken Sie auf die Animation oben, um zu sehen, wie das geht.\nWenn der Hintergrund fertig ist, markieren Sie die Aufgabe als erledigt, indem Sie das Kontrollkästchen aktivieren, und fahren Sie mit der nächsten Aufgabe fort!",
+  "Add sprites": "Sprites hinzufügen",
+  "A sprite is a character that we program in Scratch. Add a sprite, size it, and move it to the desired location.": "Ein Sprite ist eine Figur, die wir in Scratch programmieren. Fügen Sie ein Sprite hinzu, passen Sie seine Größe an und verschieben Sie es an die gewünschte Stelle.",
+  "Delete the extra sprite": "Löschen Sie das zusätzliche Sprite",
+  "Click on the x to delete the sprite. If you delete a sprite by accident, click \"Edit\" -> \"Restore Sprite.\"": "Klicken Sie auf das x, um das Sprite zu löschen. Wenn Sie ein Sprite versehentlich löschen, klicken Sie auf \"Bearbeiten\" -> \"Sprite wiederherstellen.\"",
+  "Save the project": "Speichern Sie das Projekt",
+  "Click the \"Save\" button to save all the latest changes to the project!": "Klicken Sie auf die \"Speichern\"-Schaltfläche, um alle letzten Änderungen am Projekt zu speichern!",
+  "Choose and add a suitable background for these characters! Click on the animation and see how to add a background.": "Wählen Sie einen passenden Hintergrund für diese Figuren aus und fügen Sie ihn hinzu! Klicken Sie auf die Animation und sehen Sie, wie Sie einen Hintergrund hinzufügen.",
+  "Add a suitable background": "Fügen Sie einen passenden Hintergrund hinzu",
+  "Save the project and go to the next level": "Speichern Sie das Projekt und gehen Sie zum nächsten Level",
+  "Add suitable sprites": "Fügen Sie passende Sprites hinzu",
+  "What sprites would look good against this background?": "Welche Sprites würden vor diesem Hintergrund gut aussehen?",
+  "Move the sprites to suitable places using the mouse": "Verschieben Sie die Sprites mit der Maus an die passenden Stellen",
+  "To delete a sprite, click on the x next to it.": "Um ein Sprite zu löschen, klicken Sie auf das x daneben.",
+  "Choose a suitable background": "Wählen Sie einen passenden Hintergrund",
+  "Please note: there are already a few ready-made backgrounds in the project. You just need to choose the right one.": "Bitte beachten Sie: Es gibt bereits einige vorgefertigte Hintergründe im Projekt. Sie müssen nur den richtigen auswählen.",
+  "Choose a background from those that are available in the project": "Wählen Sie einen Hintergrund aus denen aus, die im Projekt verfügbar sind",
+  "Choose the costume you want": "Wählen Sie das gewünschte Kostüm aus",
+  "Let the dog look at you. Can you find the right costume?": "Lassen Sie sich vom Hund ansehen. Können Sie das richtige Kostüm finden?",
+  "Ask a question": "Stellen Sie eine Frage",
+  "If you can't solve a task, write to the teacher in the special chat — Marsgram!": "Wenn Sie eine Aufgabe nicht lösen können, schreiben Sie dem Lehrer im speziellen Chat – Marsgram!",
+  "Add a phrase": "Fügen Sie einen Satz hinzu",
+  "What will your snowman say?": "Was wird Ihr Schneemann sagen?",
+  "The start of the script": "Der Beginn des Skripts",
+  "The script starts with the command \"When the green flag is clicked.\"": "Das Skript beginnt mit dem Befehl \"Wenn auf die grüne Flagge geklickt wird.\"",
+  "Finish the Mars project": "Das Mars-Projekt beenden",
+  "Look, the programmer hasn't completed this project! Finish it.": "Schauen Sie, der Programmierer hat dieses Projekt nicht abgeschlossen! Beenden Sie es.",
+  "Change the background from Earth to Mars": "Ändern Sie den Hintergrund von der Erde zum Mars",
+  "Use the command \"speak...\"": "Verwenden Sie den Befehl \"sprechen...\"",
+  "Choose and add a suitable background for these characters!": "Wählen und fügen Sie einen passenden Hintergrund für diese Charaktere hinzu!",
+  "Finish the project at your own discretion": "Beenden Sie das Projekt nach eigenem Ermessen",
+  "See how the project should work": "Sehen Sie, wie das Projekt funktionieren soll",
+  "Add a command to start the project": "Fügen Sie einen Befehl hinzu, um das Projekt zu starten",
+  "The project should be run by clicking on the green flag.": "Das Projekt sollte durch Klicken auf die grüne Flagge gestartet werden.",
+  "Add a command for the bear to speak.": "Fügen Sie einen Befehl hinzu, damit der Bär spricht.",
+  "The bear should say \"Hello!\" within 3 seconds.": "Der Bär sollte innerhalb von 3 Sekunden \"Hallo!\" sagen.",
+  "Dinosaur and snake": "Dinosaurier und Schlange",
+  "The snake first wriggles, then sees the dinosaur, is surprised, and then straightens its body. How do we program this?": "Die Schlange windet sich zunächst, sieht dann den Dinosaurier, ist überrascht und richtet dann ihren Körper auf. Wie programmieren wir das?",
+  "Start of the script": "Start des Skripts",
+  "The \"When the green flag is pressed\" command starts the script.": "Der Befehl \"Wenn die grüne Flagge angeklickt wird\" startet das Skript.",
+  "Setting the costume": "Einstellen des Kostüms",
+  "This command will help you to set a specific costume. We have two different costumes set.": "Dieser Befehl hilft Ihnen, ein bestimmtes Kostüm festzulegen. Wir haben zwei verschiedene Kostüme eingestellt.",
+  "Expectation": "Erwartung",
+  "The snake sees the dinosaur in a second instead of immediately. To prevent it from changing its costume ahead of time, we use the \"wait __ sec\" command": "Die Schlange sieht den Dinosaurier erst nach einer Sekunde statt sofort. Um zu verhindern, dass sie ihr Kostüm zu früh wechselt, verwenden wir den Befehl \"warte __ Sek\".",
+  "The \"Heart\" project": "Das \"Herz\"-Projekt",
+  "Take a look at the example. The heart changes costume 4 times. Each costume is visible for 1 second. Can you do the same?": "Schauen Sie sich das Beispiel an. Das Herz wechselt viermal das Kostüm. Jedes Kostüm ist für 1 Sekunde sichtbar. Können Sie das auch?",
+  "Costume change": "Kostümwechsel",
+  "The \"Next Costume\" command changes the costume that is set next in the list of costumes.": "Der Befehl \"Nächstes Kostüm\" ändert das nächste Kostüm in der Liste.",
+  "Repeating actions": "Wiederholende Aktionen",
+  "For the sprite to perform an action multiple times, you need to use the \"Repeat __ times\" command. In the window, you can set the number of repetitions.": "Damit die Figur eine Aktion mehrmals ausführt, müssen Sie den Befehl \"Wiederhole __ mal\" verwenden. Im Fenster können Sie die Anzahl der Wiederholungen festlegen.",
+  "Oops! If we use the \"Next costume\" command multiple times in a row, the costumes will change too quickly and we will not see how they change: it will be like nothing is happening. To prevent commands from being executed almost simultaneously, we insert a \"pause.\" To do this, we need the \"Wait __ sec\" command.": "Ups! Wenn wir den Befehl \"Nächstes Kostüm\" mehrmals hintereinander verwenden, wechseln die Kostüme zu schnell, und wir sehen nicht, wie sie sich ändern – es sieht aus, als würde nichts passieren. Damit die Befehle nicht gleichzeitig ausgeführt werden, fügen wir eine \"Pause\" ein. Dafür brauchen wir den Befehl \"Warte __ Sek\".",
+  "The bear walks": "Der Bär läuft",
+  "Program a costume change so that it seems like the bear is constantly walking! See the example.": "Programmieren Sie einen Kostümwechsel, sodass es so aussieht, als würde der Bär ständig laufen! Sehen Sie sich das Beispiel an.",
+  "Constant repetition": "Ständige Wiederholung",
+  "To make an action repeat itself constantly, use the \"Repeat Always\" command.": "Damit eine Aktion ständig wiederholt wird, verwenden Sie den Befehl \"Wiederhole immer\".",
+  "Smooth movements": "Sanfte Bewegungen",
+  "You can make the movements smoother by setting a wait before each costume change. We can set the wait time. Try setting it for 0.1 seconds! This command is already ready — just put it in the right place.": "Sie können die Bewegungen sanfter gestalten, indem Sie eine Wartezeit vor jedem Kostümwechsel einfügen. Sie können die Wartezeit festlegen. Versuchen Sie, sie auf 0,1 Sekunden zu setzen! Dieser Befehl ist bereits fertig – setzen Sie ihn einfach an die richtige Stelle.",
+  "Remember where the script starts?": "Erinnern Sie sich, wo das Skript beginnt?",
+  "Create a clock!": "Erstellen Sie eine Uhr!",
+  "Look, all the backgrounds you need are already there, you just need to change them every second.": "Schauen Sie, alle benötigten Hintergründe sind bereits da, Sie müssen sie nur jede Sekunde ändern.",
+  "Set the first background": "Setzen Sie den ersten Hintergrund",
+  "Let the clock hands start moving from 12.": "Lassen Sie die Zeiger der Uhr bei 12 starten.",
+  "Change the background": "Hintergrund ändern",
+  "Change the background using the \"Next Background\" command. Program the background to change every second.": "Ändern Sie den Hintergrund mit dem Befehl \"Nächster Hintergrund\". Programmieren Sie den Hintergrund so, dass er sich jede Sekunde ändert.",
+  "Program the background change to repeat": "Programmieren Sie die Wiederholung des Hintergrundwechsels",
+  "If you accidentally delete the script": "Wenn Sie das Skript versehentlich löschen",
+  "Simultaneously press the \"CTRL\" and \"Z\" keys in the lower-left corner of the keyboard.": "Drücken Sie gleichzeitig die Tasten \"STRG\" und \"Z\" in der unteren linken Ecke der Tastatur.",
+  "Super cat": "Super-Katze",
+  "The super cat grows in size. Program the same!": "Die Super-Katze wächst. Programmieren Sie dasselbe!",
+  "Smoothly resize the sprite using a loop": "Ändern Sie die Größe der Figur sanft mit einer Schleife.",
+  "Use a loop to resize smoothly.": "Verwenden Sie eine Schleife, um die Größe sanft zu ändern.",
+  "Set the size": "Größe festlegen",
+  "Set the size you want at the beginning of the script.": "Legen Sie die gewünschte Größe zu Beginn des Skripts fest.",
+  "Cat talks": "Die Katze spricht",
+  "The cat should say \"I am super cat!\" before growing.": "Die Katze sollte \"Ich bin Super-Katze!\" sagen, bevor sie wächst.",
+  "Sprite size": "Figurengröße",
+  "Here you can find out what size the sprite is now and also manually change it.": "Hier können Sie sehen, welche Größe die Figur derzeit hat, und sie manuell ändern.",
+  "Before takeoff": "Vor dem Abheben",
+  "Program the project from your workbook. You can use the ready-made plan, or you can use the one that you wrote yourself.": "Programmieren Sie das Projekt aus Ihrem Arbeitsbuch. Sie können den vorgefertigten Plan verwenden oder den, den Sie selbst geschrieben haben.",
+  "Study the project plan in your workbook": "Studieren Sie den Projektplan in Ihrem Arbeitsbuch",
+  "The sprites speak in turn. When they are silent and listening, the command \"Wait __ sec\" is used.": "Die Kobolde sprechen abwechselnd. Wenn sie schweigen und zuhören, wird der Befehl „Warte __ Sek.“ verwendet.",
+  "Program Captain Kepler": "Programmieren Sie Captain Kepler",
+  "Program the MarsBot": "Programmieren Sie den MarsBot",
+  "Program the astro cadet": "Programmieren Sie den Astro-Kadetten",
+  "Dinosaurs": "Dinosaurier",
+  "The dinosaurs speak in turn, not at the same time! Put together a similar dialog in which one dinosaur responds to the other!": "Die Dinosaurier sprechen abwechselnd, nicht gleichzeitig! Stellen Sie einen ähnlichen Dialog zusammen, in dem ein Dinosaurier dem anderen antwortet!",
+  "The dinosaurs take turns talking": "Die Dinosaurier sprechen abwechselnd",
+  "The dinosaurs' lines do not appear at the same time — when one speaks, the other listens!": "Die Zeilen der Dinosaurier erscheinen nicht gleichzeitig – wenn einer spricht, hört der andere zu!",
+  "Project plan": "Projektplan",
+  "Near the castle": "In der Nähe des Schlosses",
+  "Create a dialog from three phrases!": "Erstellen Sie einen Dialog aus drei Sätzen!",
+  "The girls take turns talking": "Die Mädchen sprechen abwechselnd",
+  "The girls don't interrupt each other!": "Die Mädchen unterbrechen sich nicht gegenseitig!",
+  "About the planet": "Über den Planeten",
+  "In this dialog, each astronaut replies twice!": "In diesem Dialog antwortet jeder Astronaut zweimal!",
+  "The astronauts take turns talking": "Die Astronauten sprechen abwechselnd",
+  "When one sprite speaks, the other listens and is silent.": "Wenn ein Kobold spricht, hört der andere zu und schweigt.",
+  "Trying on a dress": "Ein Kleid anprobieren",
+  "Look, the outfits change every two seconds and the Harper girl comments on each outfit!": "Schau, die Outfits wechseln alle zwei Sekunden und das Harper-Mädchen kommentiert jedes Outfit!",
+  "The costumes change every two seconds": "Die Kostüme wechseln alle zwei Sekunden",
+  "The girl comments on each outfit": "Das Mädchen kommentiert jedes Outfit",
+  "Sorceress and broom": "Zauberin und Besen",
+  "Another dialog, but now three characters are talking! Even the broom is talking!": "Noch ein Dialog, aber jetzt reden drei Charaktere! Sogar der Besen redet!",
+  "The characters don't interrupt each other": "Die Charaktere unterbrechen sich nicht gegenseitig",
+  "Each character talks for 2 seconds.": "Jeder Charakter redet 2 Sekunden.",
+  "The rocket approaches and recedes": "Die Rakete nähert sich und entfernt sich",
+  "Up arrow: the rocket is approaching. Down arrow: the rocket is receding.": "Pfeil nach oben: Die Rakete nähert sich. Pfeil nach unten: Die Rakete entfernt sich.",
+  "Approaching": "Annäherung",
+  "Pressing the up arrow changes the costume and increases the size.": "Durch Drücken des Pfeils nach oben wird das Kostüm geändert und die Größe vergrößert.",
+  "Receding": "Entfernung",
+  "Pressing the down arrow changes the costume and decreases the size. Think about how to do it.": "Durch Drücken des Pfeils nach unten wird das Kostüm geändert und die Größe verkleinert. Überlegen Sie, wie Sie das machen.",
+  "Initial placement": "Anfangsplatzierung",
+  "When you click on the green flag, the rocket is always the same size.": "Wenn Sie auf die grüne Flagge klicken, hat die Rakete immer die gleiche Größe.",
+  "Stopping other scripts": "Andere Skripte stoppen",
+  "If you first press the up arrow and move the rocket closer, and then click the down arrow, you must first stop the approaching, and then start the receding.": "Wenn Sie zuerst den Pfeil nach oben drücken und die Rakete näher heranbewegen und dann auf den Pfeil nach unten klicken, müssen Sie zuerst die Annäherung stoppen und dann die Entfernung starten.",
+  "*Bonus task: the Earth approaching and receding": "*Bonusaufgabe: Die Erde nähert sich und entfernt sich",
+  "When you press the up arrow, the Earth recedes, when you press the down arrow, it approaches.": "Wenn Sie den Pfeil nach oben drücken, entfernt sich die Erde, wenn Sie den Pfeil nach unten drücken, nähert sie sich.",
+  "Hen": "Henne",
+  "The hen walks, eats, or turns its head when the keys \"1\", \"2\", and \"3\" are pressed. These actions do not happen at the same time.": "Die Henne geht, isst oder dreht den Kopf, wenn die Tasten „1“, „2“ und „3“ gedrückt werden. Diese Aktionen finden nicht gleichzeitig statt.",
+  "The hen walks when the \"1\" key is pressed": "Die Henne geht, wenn die Taste „1“ gedrückt wird.",
+  "We need costumes to change for the hen to take steps. How many seconds do we need to use in the \"wait\" command for the actions to run smoothly? Use the \"forever\" command to keep the chicken going.": "Wir müssen uns umziehen, damit die Henne Schritte machen kann. Wie viele Sekunden müssen wir im „Warten“-Befehl verwenden, damit die Aktionen reibungslos ablaufen? Verwenden Sie den Befehl „für immer“, damit das Huhn weitermacht.",
+  "The hen pecks the grains when the \"2\" key is pressed": "Die Henne pickt die Körner, wenn die Taste „2“ gedrückt wird.",
+  "We need costumes to change for the hen to eat. Use the same number of seconds in the \"wait\" command for the actions to run smoothly. Use the \"forever\" command to keep the chicken pecking.": "Wir müssen uns umziehen, damit die Henne frisst. Verwenden Sie die gleiche Anzahl von Sekunden im „Warten“-Befehl, damit die Aktionen reibungslos ablaufen. Verwenden Sie den Befehl „für immer“, damit das Huhn weiterpickt.",
+  "The hen looks when the \"3\" key is pressed": "Die Henne schaut, wenn die Taste „3“ gedrückt wird.",
+  "We need costumes to change for the hen to turn its head. Here the “forever” command is also needed.": "Wir müssen uns umziehen, damit die Henne den Kopf dreht. Auch hier wird der Befehl „forever“ benötigt.",
+  "At the start, the hen always returns to its original position.": "Zu Beginn kehrt das Huhn immer in seine Ausgangsposition zurück.",
+  "When we start an action, we stop the others.": "Wenn wir eine Aktion starten, stoppen wir die anderen.",
+  "Skeleton and ghost": "Skelett und Geist",
+  "Fantasy characters are walking without our consent — let's stop them by pressing the space bar!": "Fantasy-Figuren laufen ohne unser Einverständnis – stoppen wir sie mit der Leertaste!",
+  "The skeleton walks": "Das Skelett läuft",
+  "When you click on the green flag, the skeleton is constantly walking. Please note that only three costumes are used for walking. Use the \"wait_sec\" command, so that the animation is visible.": "Wenn du auf die grüne Flagge klickst, läuft das Skelett ständig. Beachte, dass nur drei Kostüme zum Laufen verwendet werden. Verwende den Befehl „wait_sec“, damit die Animation sichtbar wird.",
+  "The ghost": "Der Geist",
+  "When you click on the green flag, the ghost changes costumes. Use the \"wait_sec\" command, so that the animation is visible.": "Wenn du auf die grüne Flagge klickst, wechselt der Geist das Kostüm. Verwende den Befehl „wait_sec“, damit die Animation sichtbar wird.",
+  "Stop the whole project": "Das ganze Projekt stoppen",
+  "All the scripts stop when you press the space bar. The Stop All command immediately stops all scripts for both the skeleton and the ghost.": "Alle Skripte werden gestoppt, wenn du die Leertaste drückst. Der Befehl „Alle stoppen“ stoppt sofort alle Skripte sowohl für das Skelett als auch für den Geist.",
+  "Stars": "Sterne",
+  "Wow! So many stars — and each one can twinkle and change costumes and size! Press the keys 1,2,3.": "Wow! So viele Sterne – und jeder einzelne kann funkeln und Kostüm und Größe ändern! Drücken Sie die Tasten 1,2,3.",
+  "Press the keys 1,2,3.": "Drücke die Tasten 1,2,3.",
+  "The star gradually gets bigger and smaller when the \"1\" key is pressed": "Der Stern wird allmählich größer und kleiner, wenn die Taste „1“ gedrückt wird",
+  "Verwenden Sie zwei Schleifen hintereinander.": "Verwenden Sie zwei Schleifen hintereinander.",
+  "The star twinkles when the \"2\" key is pressed": "Der Stern funkelt, wenn die Taste „2“ gedrückt wird",
+  "The star appears, lingers for a while, disappears, and then it waits a little more before reappearing. Remember to use the repeat forever command.": "Der Stern erscheint, verweilt eine Weile, verschwindet und wartet dann noch ein wenig, bevor er wieder erscheint. Denken Sie daran, den Befehl „Endlos wiederholen“ zu verwenden.",
+  "The star changes color when the \"3\" key is pressed": "Der Stern ändert seine Farbe, wenn die Taste „3“ gedrückt wird",
+  "Constantly switching multicolored costumes.": "Ständig wechselnde mehrfarbige Kostüme.",
+  "Three parameters change here. Think about which ones and set them for the initial placement.": "Hier ändern sich drei Parameter. Überlegen Sie, welche, und legen Sie diese für die anfängliche Platzierung fest.",
+  "Duplicate the sprite": "Duplizieren Sie das Sprite",
+  "Create 2 more stars. Right-click on it to duplicate it.": "Erstellen Sie 2 weitere Sterne. Klicken Sie mit der rechten Maustaste darauf, um es zu duplizieren.",
+  "Personal website": "Persönliche Website",
+  "Tell about your hobbies.": "Erzählen Sie von Ihren Hobbys.",
+  "Add 2-3 sprites and a background": "Fügen Sie 2-3 Sprites und einen Hintergrund hinzu",
+  "Add or draw 2-3 sprites that show your hobbies! Think about who will talk about them. Perhaps you will have a \"presenter\" or the items will tell about themselves.": "Fügen Sie 2-3 Sprites hinzu oder zeichnen Sie sie, die Ihre Hobbys zeigen! Überlegen Sie, wer darüber sprechen wird. Vielleicht haben Sie einen „Moderator“ oder die Elemente werden von sich selbst erzählen.",
+  "Planning": "Planung",
+  "What will your personal website be like? Did you come up with anything? Use the pages in your notebook to draw your plan!": "Wie wird Ihre persönliche Website aussehen? Haben Sie sich etwas ausgedacht? Verwenden Sie die Seiten in Ihrem Notizbuch, um Ihren Plan zu zeichnen!",
+  "Use all the events": "Verwenden Sie alle Ereignisse:",
+  "\"When the green flag is clicked,\" \"when the key is pressed,\" and \"when the sprite is clicked.\"": "„Wenn auf die grüne Flagge geklickt wird“, „Wenn die Taste gedrückt wird“ und „Wenn auf die Figur geklickt wird“.",
+  "Create!": "Erstellen!",
+
+
+  "-------------------LEKTION 3_Scratch. Where to start-----------------------?":"-------------------LEKTION 3_Scratch. Where to start-----------------------DEUTSCH?",
+  "Draw a picture": "Ein Bild zeichnen",
+  "The picture should start on a clean page. And only then does it change costumes when adding a drawing.": "Das Bild sollte auf einer leeren Seite beginnen. Und erst dann wechselt es das Kostüm, wenn eine Zeichnung hinzugefügt wird.",
+  "Set the right costume at the beginning": "Das richtige Kostüm am Anfang festlegen",
+  "So that the picture always starts on a clean page, after the start command, set the costume with a blank canvas.": "Damit das Bild immer auf einer leeren Seite beginnt, setzen Sie nach dem Startbefehl das Kostüm mit einer leeren Leinwand.",
+  "Changing costumes every second": "Kostümwechsel jede Sekunde",
+  "The first 4 costumes change every second, and it seems like a drawing appears on the canvas. Think about how to do it.": "Die ersten 4 Kostüme wechseln jede Sekunde, und es sieht so aus, als ob eine Zeichnung auf der Leinwand erscheint. Überlegen Sie, wie das geht.",
+  "In what order do the costumes change?": "In welcher Reihenfolge wechseln die Kostüme?",
+  "The costumes are changed in the order in which they appear in the list.": "Die Kostüme wechseln in der Reihenfolge, in der sie in der Liste erscheinen.",
+  "Penguin coming from Antarctica": "Pinguin kommt aus der Antarktis",
+  "The penguin is going on a journey! And it's beginning its journey from its native Antarctica.": "Der Pinguin geht auf eine Reise! Und er beginnt seine Reise in seiner Heimat, der Antarktis.",
+  "The first background - \"Antarctica\"": "Der erste Hintergrund - \"Antarktis\"",
+  "The penguin begins its journey from Antarctica — this particular background should be the first.": "Der Pinguin beginnt seine Reise in der Antarktis – dieser Hintergrund sollte der erste sein.",
+  "Change of costume and background": "Kostüm- und Hintergrundwechsel",
+  "While the \"Antarctica\" background is on, the penguin takes \"steps,\" meaning it changes its costume. After several costume changes, the background changes.": "Während der Hintergrund \"Antarktis\" aktiv ist, macht der Pinguin \"Schritte\", d. h. er wechselt sein Kostüm. Nach mehreren Kostümwechseln ändert sich der Hintergrund.",
+  "In what order do the backgrounds change?": "In welcher Reihenfolge wechseln die Hintergründe?",
+  "The backgrounds change in the order in which they appear in the list.": "Die Hintergründe wechseln in der Reihenfolge, in der sie in der Liste erscheinen.",
+  "Disappearing potion": "Verschwindender Trank",
+  "The sorceress appears, drinks the potion, and disappears.": "Die Zauberin erscheint, trinkt den Trank und verschwindet.",
+  "Emerging": "Erscheinen",
+  "The Show command makes the sprite visible.": "Der Befehl \"Zeigen\" macht die Figur sichtbar.",
+  "The sorceress drinks the potion": "Die Zauberin trinkt den Trank",
+  "Before disappearing, the sorceress says that she wants to drink the potion.": "Bevor sie verschwindet, sagt die Zauberin, dass sie den Trank trinken will.",
+  "Disappearing": "Verschwinden",
+  "The Hide command makes the sprite invisible.": "Der Befehl \"Verstecken\" macht die Figur unsichtbar.",
+  "Is the sprite hidden?": "Ist die Figur versteckt?",
+  "Here you can see if the sprite is hidden and manually hide or show it.": "Hier können Sie sehen, ob die Figur versteckt ist, und sie manuell ausblenden oder anzeigen.",
+  "Sorceress and teacher": "Die Zauberin und der Lehrer",
+  "The wizard shrank under the influence of the potion. But if you run the project again, the wizard returns to his normal size!": "Der Zauberer schrumpfte unter dem Einfluss des Tranks. Aber wenn du das Projekt erneut startest, kehrt der Zauberer zu seiner normalen Größe zurück!",
+  "Drinking the potion": "Den Trank trinken",
+  "Before shrinking, the wizard says he will drink the potion.": "Bevor er schrumpft, sagt der Zauberer, dass er den Trank trinken wird.",
+  "Abrupt resizing": "Abrupte Größenänderung",
+  "Use this command to abruptly resize something.": "Verwende diesen Befehl, um die Größe eines Objekts abrupt zu ändern.",
+  "At the beginning, the wizard is his normal height again!": "Zu Beginn ist der Zauberer wieder in seiner normalen Größe!",
+  "Set the desired size of the wizard at the beginning of the script": "Setze die gewünschte Größe des Zauberers am Anfang des Skripts fest.",
+  "The balloon is large at first and is in a warm room. And then it's outside in the cold and becomes smaller.": "Der Ballon ist zunächst groß und befindet sich in einem warmen Raum. Dann geht er nach draußen in die Kälte und wird kleiner.",
+  "Initial size": "Anfangsgröße",
+  "Set the size at startup to 200%.": "Setze die Größe beim Start auf 200%.",
+  "Smooth reduction in size": "Sanfte Verkleinerung",
+  "To reduce the size, we need to specify a value with a minus sign: \"-10\".": "Um die Größe zu reduzieren, müssen wir einen Wert mit einem Minuszeichen angeben: \"-10\".",
+  "Pterodactyl": "Flugsaurier",
+  "It seems like the pterodactyl is flying right here! It is growing in size and flapping its wings. But in the beginning, it is still far away, small in size and with its wings spread.": "Es sieht so aus, als würde der Flugsaurier direkt hierher fliegen! Er wächst in der Größe und schlägt mit den Flügeln. Aber am Anfang ist er noch weit entfernt, klein und mit ausgebreiteten Flügeln.",
+  "To make it seem like the pterodactyl is flying closer, we need to increase its size and change the costume. And we need to repeat that several times. Add a command that will repeat these steps.": "Damit es so aussieht, als würde der Flugsaurier näher kommen, müssen wir seine Größe erhöhen und das Kostüm ändern. Und das müssen wir mehrmals wiederholen. Füge einen Befehl hinzu, der diese Schritte wiederholt.",
+  "Think about what properties change for the pterodactyl. They need to be set at startup.": "Überlege, welche Eigenschaften sich beim Flugsaurier ändern. Diese müssen beim Start festgelegt werden.",
+  "Wizard and dog": "Zauberer und Hund",
+  "Look, the wizard accidentally enlarged the dog and made himself invisible in order to hide from it!": "Sieh mal, der Zauberer hat den Hund versehentlich vergrößert und sich unsichtbar gemacht, um sich vor ihm zu verstecken!",
+  "What the dog does": "Was der Hund macht",
+  "The dog changes size smoothly. How do we do that?": "Der Hund ändert seine Größe sanft. Wie machen wir das?",
+  "What the wizard does": "Was der Zauberer macht",
+  "The wizard says two phrases, between each of which he is silent for 1 second. And then he disappears.": "Der Zauberer sagt zwei Sätze, zwischen denen er jeweils eine Sekunde lang schweigt. Und dann verschwindet er.",
+  "What changes about the wizard?": "Was ändert sich beim Zauberer?",
+  "The wizard becomes invisible. So you need to make it visible at startup.": "Der Zauberer wird unsichtbar. Du musst ihn also beim Start sichtbar machen.",
+  "What changes about the dog?": "Was ändert sich beim Hund?",
+  "The dog changes its size. But at startup it becomes normal again.": "Der Hund ändert seine Größe. Aber beim Start wird er wieder normal groß.",
+  
+  
+  
+  "Graphic editor — Fill": "Füllfunktion im Grafikeditor",
+  "Change the color of the apple from red to green.": "Ändere die Farbe des Apfels von Rot zu Grün.",
+  "Graphic editor — Reshape": "Umformen im Grafikeditor",
+  "Change the shape of the flag according to the example.": "Verändere die Form der Flagge entsprechend dem Beispiel.",
+  "Graphic editor — Character creation": "Charaktererstellung im Grafikeditor",
+  "Using the Circle tool, draw 3 circles of different sizes as shown in the example.": "Zeichne mit dem Kreis-Werkzeug 3 Kreise unterschiedlicher Größe, wie im Beispiel gezeigt.",
+  "Use the Rectangle and Reshape tools, draw the snowman's hat.": "Zeichne mit dem Rechteck- und Umformwerkzeug den Hut des Schneemanns.",
+  "Use the Brush tool to add details.": "Nutze das Pinsel-Werkzeug, um Details hinzuzufügen.",
+  "Graphic editor — Working with tools": "Arbeiten mit Werkzeugen im Grafikeditor",
+  "Use the Circle tool to draw the middle of the flower.": "Verwende das Kreis-Werkzeug, um die Mitte der Blume zu zeichnen.",
+  "Use the Circle and Reshape tools to draw a petal.": "Verwende das Kreis- und Umformwerkzeug, um ein Blütenblatt zu zeichnen.",
+  "Use the Copy and Rotate functions to draw the right number of petals.": "Nutze die Kopieren- und Drehen-Funktion, um die richtige Anzahl an Blütenblättern zu erstellen.",
+  "Graphic editor — Costume change": "Kostümwechsel im Grafikeditor",
+  "Use the graphic tools to change the sprite's costume according to the example.": "Verwende die Grafikwerkzeuge, um das Kostüm der Figur entsprechend dem Beispiel zu ändern.",
+  
+
+
+  
+ "-------------------LEKTION 4_Scratch. EVENTS-----------------------?":"-------------------LEKTION 4_Scratch. EVENTS-----------------------DEUTSCH?",
+  "Choosing an outfit": "Ein Outfit auswählen",
+  "We can run commands from the keyboard too! Let's program a costume change by pressing the space bar.": "Wir können auch Befehle über die Tastatur ausführen! Programmieren wir einen Kostümwechsel durch Drücken der Leertaste.",
+  "Startup script": "Startskript",
+  "When you click on the green flag, the girl says which key to press.": "Wenn du auf die grüne Flagge klickst, sagt das Mädchen, welche Taste du drücken sollst.",
+  "Pressing a key": "Eine Taste drücken",
+  "When you press a key, the costume changes.": "Wenn du eine Taste drückst, ändert sich das Kostüm.",
+  "Bell": "Glocke",
+  "Here the bell rings if you click on it!": "Hier läutet die Glocke, wenn du darauf klickst!",
+  "When you click on the green flag, the bell tells you what to do.": "Wenn du auf die grüne Flagge klickst, erklärt die Glocke, was zu tun ist.",
+  "Clicking on the bell": "Auf die Glocke klicken",
+  "When you click on the bell, it rings (it says the phrase \"Ding-dong\").": "Wenn du auf die Glocke klickst, läutet sie (sie sagt den Satz \"Ding-dong\").",
+  "Balloons": "Luftballons",
+  "If you click on a balloon, it disappears. If you click the green flag, the balloons reappear!": "Wenn du auf einen Luftballon klickst, verschwindet er. Wenn du auf die grüne Flagge klickst, erscheinen die Ballons wieder!",
+  "A balloon appears": "Ein Ballon erscheint",
+  "When you click on the green flag, a balloon appears and says what to do.": "Wenn du auf die grüne Flagge klickst, erscheint ein Ballon und erklärt, was zu tun ist.",
+  "The balloon pops": "Der Ballon platzt",
+  "When you click on a balloon, it pops (disappears).": "Wenn du auf einen Ballon klickst, platzt er (verschwindet).",
+  "Duplicate the scripts for the blue and yellow balloons": "Dupliziere die Skripte für die blauen und gelben Ballons",
+  "To duplicate the script for another balloon, transfer the script as shown!": "Um das Skript für einen anderen Ballon zu duplizieren, übertrage das Skript wie gezeigt!",
+  "Seasons": "Jahreszeiten",
+  "Press the buttons to change the background.": "Drücke die Tasten, um den Hintergrund zu ändern.",
+  "Set a background for the blue button": "Setze einen Hintergrund für die blaue Taste",
+  "When the sprite is clicked on, the background changes.": "Wenn auf die Figur geklickt wird, ändert sich der Hintergrund.",
+  "Multiple buttons": "Mehrere Tasten",
+  "All four buttons work the same way!": "Alle vier Tasten funktionieren auf die gleiche Weise!",
+  "When you click on the green flag, the background changes to neutral.": "Wenn du auf die grüne Flagge klickst, wechselt der Hintergrund zu neutral.",
+  "Musician": "Musiker",
+  "If you press different keys, you can play the guitar!": "Wenn du verschiedene Tasten drückst, kannst du Gitarre spielen!",
+  "Choose the key you want": "Wähle die gewünschte Taste aus",
+  "You can program more than just pressing the space bar — choose the \"1\" key for that!": "Du kannst mehr als nur die Leertaste programmieren – wähle dafür die \"1\"-Taste!",
+  "Choose the sound you want": "Wähle den gewünschten Klang aus",
+  "Minimum 3 keys": "Mindestens 3 Tasten",
+  "Program the keys \"1\", \"2\", and \"3,\" so that when you press on them, different sounds are played!": "Programmiere die Tasten \"1\", \"2\" und \"3\", sodass beim Drücken unterschiedliche Klänge abgespielt werden!",
+  "The musician's script has already been made": "Das Skript des Musikers wurde bereits erstellt",
+  "One script is already ready!": "Ein Skript ist bereits fertig!",
+  "Dancers": "Tänzer",
+  "Please note: the dancers first talk to each other, and they only start dancing when you press the space bar.": "Bitte beachten Sie: Die Tänzer sprechen zuerst miteinander und beginnen erst zu tanzen, wenn Sie die Leertaste drücken.",
+  "Plan the dialog": "Den Dialog planen",
+  "Write a dialog plan in your workbook so that you don't get confused!": "Schreiben Sie einen Dialogplan in Ihr Arbeitsheft, damit Sie nicht durcheinander kommen!",
+  "Dancing": "Tanzen",
+  "When you press the space bar, the dancers change their costumes at regular intervals.": "Wenn Sie die Leertaste drücken, wechseln die Tänzer in regelmäßigen Abständen ihre Kostüme.",
+  "Music": "Musik",
+  "After pressing the space bar, one of the dancers \"starts\" the music, and at the end stops it.": "Nach dem Drücken der Leertaste \"startet\" einer der Tänzer die Musik und stoppt sie am Ende.",
+
+
+  "-------------------SPACE____LEKTION 1_Scratch. COORDINATES-----------------------?":"-------------------SPACE____LEKTION 1_Scratch. COORDINATES-----------------------DEUTSCH?",
+  "The most important part is left — programming!": "Der wichtigste Teil bleibt noch – das Programmieren!",
+  "Teleport": "Teleportieren",
+  "Program the rocket to move between two points when you press the up arrow and down arrow keys!": "Programmieren Sie die Rakete so, dass sie sich zwischen zwei Punkten bewegt, wenn Sie die Pfeiltasten nach oben und unten drücken!",
+  "Event 1": "Ereignis 1",
+  "When you press the up arrow key, the rocket changes position.": "Wenn Sie die Pfeiltaste nach oben drücken, ändert die Rakete ihre Position.",
+  "Motion 1": "Bewegung 1",
+  "This command sets the position of the sprite on the stage using coordinates. 1. Place the sprite in a certain place, and the command \"Go to x: __ y: __\" will contain the coordinate values corresponding to that position. 2. Drag the \"Go to x: __ y: __\" block from the command palette.": "Dieser Befehl legt die Position des Sprites auf der Bühne mithilfe von Koordinaten fest. 1. Platzieren Sie das Sprite an einer bestimmten Stelle, und der Befehl „Gehe zu x:__y:__“ enthält die Koordinatenwerte, die dieser Position entsprechen. 2. Ziehen Sie den Block „Gehe zu x:__y:__“ aus der Befehlspalette.",  "Event 2": "Ereignis 2",
+  "When you press the down arrow key, the rocket again changes position.": "Wenn Sie die Pfeiltaste nach unten drücken, ändert die Rakete erneut ihre Position.",
+  "Motion 2": "Bewegung 2",
+  "Move the sprite to a different position, and then new values will appear in the \"go to x: __ y: __\" command.": "Bewegen Sie das Sprite an eine andere Position, und dann erscheinen neue Werte im Befehl „Gehe zu x:__y:__“.",
+  "Star": "Stern",
+  "The star appears randomly in multiple places.": "Der Stern erscheint zufällig an mehreren Stellen.",
+  "Motion": "Bewegung",
+  "Move the star anywhere and use the command \"Go to X __ Y __\", and do it 4 times. Use different coordinates for the command \"Go to X __ Y __\"": "Bewegen Sie den Stern an eine beliebige Stelle, und verwenden Sie den Befehl „Gehe zu X__y__“, und wiederholen Sie dies 4 Mal. Verwende verschiedene Koordinaten für den Befehl „Gehe zu X __ Y __“",
+  "Delay": "Verzögerung",
+  "Use the command \"wait __ sec\" between position changes, so that they become visible!": "Verwende den Befehl „warte __ Sek.“ zwischen Positionsänderungen, damit diese sichtbar werden!",
+  "Moon": "Mond",
+  "Did you notice that the moon moves across the sky? Let's program it!": "Ist dir aufgefallen, dass der Mond sich über den Himmel bewegt? Lass es uns programmieren!",
+  "Change the position of the moon 3 times. You already know how to set a position. Do it yourself!": "Ändere die Position des Mondes 3 Mal. Du weißt bereits, wie man eine Position einstellt. Mach es selbst!",
+  "Don't forget to use the command \"wait __ sec\" between movements.": "Vergiss nicht, den Befehl „warte __ Sek.“ zwischen den Bewegungen zu verwenden.",
+  "Crab": "Krabbe",
+  "This crab moves sideways! Look, only the X coordinate changes.": "Diese Krabbe bewegt sich seitwärts! Schau, nur die X-Koordinate ändert sich.",
+  "The \"set x to __\" command": "Der Befehl „setze x auf __“",
+  "We can only change one coordinate. The X coordinate changes the position of the sprite left-right. Change the position of the crab 5 times.": "Wir können nur eine Koordinate ändern. Die X-Koordinate ändert die Position des Sprites von links nach rechts. Ändere die Position des Krabbens 5 Mal.",
+  "Use a delay.": "Verwende eine Verzögerung.",
+  "Move the red marker up and down by changing the Y coordinate.": "Bewege den roten Marker nach oben und unten, indem du die Y-Koordinate änderst.",
+  "Hot!": "Heiß!",
+  "This command moves the sprites up and down by changing the Y coordinate. Set the red marker, so that the thermometer shows a high temperature.": "Dieser Befehl bewegt die Sprites nach oben und unten, indem er die Y-Koordinate ändert. Setze den roten Marker, damit das Thermometer eine hohe Temperatur anzeigt.",  "Let's have the thermometer report the temperature.": "Lassen wir das Thermometer die Temperatur melden.",
+  "Let's have the thermometer report the temperature. Instead of the command to wait, use the command to say \"Hot!\"": "Lassen wir das Thermometer die Temperatur anzeigen. Anstelle des Befehls zum Warten verwenden wir den Befehl „Heiß!“",
+  "Set the red marker, so that the thermometer reads a little over 20 degrees. Don't forget that our thermometer notifies about the temperature.": "Setzen Sie die rote Markierung so, dass das Thermometer etwas über 20 Grad anzeigt. Vergessen Sie nicht, dass unser Thermometer die Temperatur meldet.",
+  "Cool": "Kühl",
+  "Set the red marker, so that the thermometer reads just under 10 degrees. Don't forget that our thermometer notifies about the temperature, and at this temperature, it is \"Cool!\"": "Setzen Sie die rote Markierung so, dass das Thermometer knapp 10 Grad anzeigt. Vergessen Sie nicht, dass unser Thermometer die Temperatur meldet, und bei dieser Temperatur ist es „Kühl!“",
+  "Cold": "Kalt",
+  "Set the red marker, so that the thermometer reads about -10 degrees. Don't forget that our thermometer notifies about the temperature.": "Setzen Sie die rote Markierung so, dass das Thermometer etwa -10 Grad anzeigt. Vergessen Sie nicht, dass unser Thermometer die Temperatur meldet",
+  "Freezing": "Gefrierend",
+  "Set the red marker, so that the thermometer reads about -30 degrees. Don't forget that our thermometer notifies about the temperature.": "Setzen Sie die rote Markierung so, dass das Thermometer etwa -30 Grad anzeigt. Vergessen Sie nicht, dass unser Thermometer die Temperatur meldet",
+  "Traffic light": "Ampel",
+  "Cover the not-working colors with a gray circle and move it to the right place! Press the keys 1,2,3": "Decken Sie die nicht funktionierenden Farben mit einem grauen Kreis ab und verschieben Sie ihn an die richtige Stelle! Drücken Sie die Tasten 1,2,3",
+  "Red light": "Rotes Licht",
+  "When you press the number \"1,\" the red light is on. One gray circle should cover the green, and the other should cover the yellow.": "Wenn Sie die Zahl „1“ drücken, leuchtet das rote Licht. Ein grauer Kreis sollte das Grüne abdecken, und der andere das Gelbe.",
+  "Yellow light": "Gelbes Licht",
+  "When you press the number \"2,\" the yellow light is on. One gray circle should cover the green, and the other should cover the red.": "Wenn Sie die Zahl „2“ drücken, leuchtet das gelbe Licht. Ein grauer Kreis sollte das Grüne abdecken, und der andere das Rote.",
+  "Green light": "Grünes Licht",
+  "When you press the number \"3,\" the green light is on. One gray circle should cover the red, and the second one should cover the yellow.": "Wenn Sie die Zahl „3“ drücken, leuchtet das grüne Licht. Ein grauer Kreis sollte das Rote abdecken, und der zweite das Gelbe.",
+  "Sun": "Sonne",
+  "Watch how smoothly the sun moves across the sky!": "Beobachten Sie, wie sanft sich die Sonne über den Himmel bewegt!",
+  "The sun glides to multiple points": "Die Sonne gleitet zu mehreren Punkten",
+  "The sun changes costumes": "Die Sonne wechselt das Kostüm",
+
+  
+  "-------------------SPACE____LEKTION 2_Scratch. ADDITIONAL TASK PEN-----------------------?":"-------------------SPACE____LEKTION 2_Scratch. ADDITIONAL TASK PEN-----------------------DEUTSCH?",
+  "Draw a square": "Zeichne ein Quadrat",
+  "Watch the demo video and repeat the steps": "Sieh dir das Demovideo an und wiederhole die Schritte",
+  "Pen down": "Stift runter",
+  "The Pen Down command starts drawing from the point where the sprite is.": "Der Befehl \"Stift runter\" beginnt das Zeichnen von dem Punkt aus, an dem sich die Figur befindet.",
+  "Add pen": "Stift hinzufügen",
+  "Deleting": "Löschen",
+  "Draw a few shapes using the script": "Zeichne ein paar Formen mit dem Skript",
+  "Delete All": "Alles löschen",
+  "This command clears the stage": "Dieser Befehl leert die Bühne",
+  "Put a stamp": "Einen Stempel setzen",
+  "The \"Stamp\" command lets you leave a stamp of the sprite on the screen": "Der Befehl \"Stempel\" hinterlässt einen Abdruck der Figur auf dem Bildschirm",
+  "Watch the video and repeat": "Sieh dir das Video an und wiederhole es",
+  "Solution": "Lösung",
+
+  "-------------------SPACE____LEKTION 2_Scratch. Pointing in different direction-----------------------?":"-------------------SPACE____LEKTION 2_Scratch. Pointing in different direction-----------------------DEUTSCH?",
+  "Cat": "Katze",
+  "Program the cat so that it turns to each of the goodies one after another.": "Programmieren Sie die Katze so, dass sie sich nacheinander den Leckereien zuwendet.",
+  "Turn up": "Nach oben drehen",
+  "To make the cat turn towards the mouse, use the direction equal to 0.": "Damit sich die Katze zur Maus dreht, verwende die Richtung gleich 0.",
+  "Turn right": "Nach rechts drehen",
+  "To make the cat turn towards the milk, use the direction equal to 90.": "Damit sich die Katze zur Milch dreht, verwende die Richtung gleich 90.",
+  "Turn down": "Nach unten drehen",
+  "To make the cat turn towards the can of food, use the direction equal to 90.": "Damit sich die Katze zur Futterdose dreht, verwende die Richtung gleich 90.",
+  "What does the cat say between direction changes?": "Was sagt die Katze zwischen den Richtungswechseln?",
+  "Come up with it yourself!": "Denk es dir selbst aus!",
+  "Sprite direction": "Sprite-Richtung",
+  "The direction the sprite is facing can be seen in the sprite properties.": "Die Richtung, in die das Sprite blickt, ist in den Sprite-Eigenschaften zu sehen.",
+  "Direction values": "Richtungswerte",
+  "By clicking on the window with the direction, it can be forcibly changed without using commands.": "Durch Klicken auf das Fenster mit der Richtung kann diese zwangsweise geändert werden, ohne Befehle zu verwenden.",
+  "Mouse": "Maus",
+  "Program the mouse so that it runs around the stage but does not run off of it!": "Programmiere die Maus so, dass sie um die Bühne läuft, aber nicht von ihr wegläuft!",
+  "Endless movement: the mouse tries to run away": "Endlose Bewegung: Die Maus versucht wegzulaufen",
+  "The \"go __ steps\" command moves the sprite a few steps in the direction it is currently looking in. Now just make it so that it always repeats itself!": "Der Befehl „gehe __ Schritte“ bewegt das Sprite einige Schritte in die Richtung, in die es gerade blickt. Jetzt mach es einfach so, dass es sich immer wiederholt!",
+  "The mouse does not run away": "Die Maus läuft nicht weg",
+  "The command \"if on edge, bounce\" does not allow the mouse to go off the stage.": "Der Befehl „wenn auf der Kante, hüpfe“ lässt die Maus nicht von der Bühne weglaufen.",
+  "Set the position that the mouse occupies at the start, as well as the direction it is pointed in at the beginning!": "Legen Sie die Position fest, die die Maus zu Beginn einnimmt, sowie die Richtung, in die sie zu Beginn zeigt!",
+  "MarsBot on Mars": "MarsBot auf dem Mars",
+  "Program the MarsBot to walk left and right and not bump into mountains!": "Programmieren Sie den MarsBot so, dass er nach links und rechts geht und nicht gegen Berge stößt!",
+  "Initial placement of the MarsBot": "Anfangsplatzierung des MarsBots",
+  "Don't forget about placement: you need to set the position of the MarsBot and the direction it is looking in.": "Vergessen Sie die Platzierung nicht: Sie müssen die Position des MarsBots und die Richtung festlegen, in die er blickt.",
+  "The MarsBot goes from one mountain to another": "Der MarsBot geht von einem Berg zum anderen",
+  "Use motion, wait, and loop commands to program the movement of the sprite.": "Verwenden Sie die Befehle „Bewegung“, „Warte“ und „Schleife“, um die Bewegung des Sprites zu programmieren.",
+  "The MarsBot turns around": "Der MarsBot dreht sich um",
+  "But how to turn around without pushing off of the edge? Use the already familiar \"point in direction __\" command. And don't forget about rotation style!": "Aber wie dreht man sich um, ohne sich von der Kante abzustoßen? Verwenden Sie den bereits bekannten Befehl „In Richtung __ zeigen“. Und vergessen Sie den Rotationsstil nicht!",
+  "The MarsBot returns to the starting point": "Der MarsBot kehrt zum Ausgangspunkt zurück",
+  "Penguin": "Pinguin",
+  "Program the Penguin's walk!": "Programmieren Sie den Gang des Pinguins!",
+  "Initial placement of the penguin": "Anfangsplatzierung des Pinguins",
+  "Set the initial placement of the penguin so that the project always starts the same way.": "Legen Sie die Anfangsplatzierung des Pinguins fest, damit das Projekt immer auf die gleiche Weise beginnt.",
+  "The penguin walks": "Der Pinguin geht",
+  "Use motion, wait, and loop commands to program the sprite to walk!": "Verwenden Sie die Befehle „Bewegung“, „Warte“ und „Schleife“, um das Gehen des Sprites zu programmieren!",
+  "The penguin turns": "Der Pinguin dreht sich",
+  "How to turn around without pushing off of the edge? Use the already familiar \"point in direction __\" command. And don't forget about rotation style!": "Wie kann man sich umdrehen, ohne sich von der Kante abzustoßen? Verwenden Sie den bereits bekannten Befehl „in Richtung __ zeigen“. Und vergessen Sie den Rotationsstil nicht!",
+  "The penguin change costumes": "Der Pinguin wechselt das Kostüm",
+  "Make the penguin change costumes while walking.": "Lassen Sie den Pinguin beim Gehen das Kostüm wechseln.",
+  "Bug": "Käfer",
+  "The bug should reach the ladybug by moving along the branches of the tree!": "Der Käfer sollte den Marienkäfer erreichen, indem er sich entlang der Äste des Baumes bewegt!",
+  "Initial placement of the bug": "Erste Platzierung des Käfers",
+  "The initial placement is already complete, but you can add size settings, a phrase, or whatever you like!": "Die erste Platzierung ist bereits abgeschlossen, aber Sie können Größeneinstellungen, einen Satz oder was auch immer Sie möchten hinzufügen!",
+  "The bug moves": "Der Käfer bewegt sich",
+  "The bug turns in a certain direction, takes a few steps, and then turns again, and takes a few more steps. Experiment and guide the bug to the ladybug!": "Der Käfer dreht sich in eine bestimmte Richtung, macht ein paar Schritte, dreht sich dann wieder um und macht noch ein paar Schritte. Experimentieren Sie und führen Sie den Käfer zum Marienkäfer!",
+  "Mouse in the maze": "Maus im Labyrinth",
+  "The mouse has to get to the red button in the maze.": "Die Maus muss zum roten Knopf im Labyrinth gelangen.",
+  "Do the initial placement. Some of the commands are already there!": "Führen Sie die erste Platzierung durch. Einige der Befehle sind bereits vorhanden!",
+  "Mouse sprite movement starts": "Die Bewegung des Maus-Sprites beginnt",
+  "Make it so that clicking the green flag triggers mouse movement.": "Machen Sie es so, dass das Klicken auf die grüne Flagge die Mausbewegung auslöst.",
+  "The mouse runs to the red button": "Die Maus läuft zum roten Knopf",
+  "Use this construction to bypass the walls of the labyrinth.": "Verwenden Sie diese Konstruktion, um die Wände des Labyrinths zu umgehen.",
+  
+  
+  "-------------------SPACE____LEKTION 3_Scratch. Turns and rotations-----------------------?":"-------------------SPACE____LEKTION 3_Scratch. Turns and rotations-----------------------DEUTSCH?",
+"Open the door": "Öffne die Tür",
+  "Help the robots meet! Program the door to open when you press the space bar!": "Hilf den Robotern sich zu treffen! Programmiere die Tür so, dass sie sich öffnet, wenn du die Leertaste drückst!",
+  "The door must always be closed at startup. Use the Point in direction __ command to set the position of the door.": "Die Tür muss beim Start immer geschlossen sein. Verwende den Befehl 'Richte dich in Richtung __ aus', um die Position der Tür festzulegen.",
+  "The door turns": "Die Tür dreht sich",
+  "The door opens when you press the space bar. The \"Rotate clockwise __ degrees\" command will rotate the door relative to itself. Let's put it inside a loop so that it does it multiple times.": "Die Tür öffnet sich, wenn du die Leertaste drückst.\nDer Befehl \"Drehe um __ Grad im Uhrzeigersinn\" dreht die Tür relativ zu sich selbst. Setzen wir es in eine Schleife, damit es mehrmals geschieht.",
+  "The knight": "Der Ritter",
+  "The knight is on duty and guarding the tower! Program it to walk around the tower from all sides.": "Der Ritter ist im Dienst und bewacht den Turm! Programmiere ihn so, dass er den Turm von allen Seiten umrundet.",
+  "The knight starts moving from the lower-left corner and looks to the right.": "Der Ritter startet in der unteren linken Ecke und blickt nach rechts.",
+  "The knight walks around one side of the tower": "Der Ritter umrundet eine Seite des Turms",
+  "To get around one side of the tower, the knight takes 10 steps 25 times.": "Um eine Seite des Turms zu umrunden, macht der Ritter 25-mal 10 Schritte.",
+  "The knight turns": "Der Ritter dreht sich",
+  "Each time after going around a wall, the knight turns 90 degrees. Note: counterclockwise turn.": "Jedes Mal, nachdem er eine Mauer umrundet hat, dreht sich der Ritter um 90 Grad. Hinweis: gegen den Uhrzeigersinn.",
+  "Loop": "Schleife",
+  "To get around the 4 walls, the knight needs to repeat the walk and turn 4 times.": "Um die vier Wände zu umrunden, muss der Ritter das Gehen und Drehen viermal wiederholen.",
+  "Egg": "Ei",
+  "Crack the egg! To do that, program a 90° rotation.": "Zerbrich das Ei! Programmiere dafür eine Drehung um 90°.",
+  "At startup, the egg is at a certain point, turned in a certain direction, and not broken.": "Beim Start befindet sich das Ei an einem bestimmten Punkt, ist in eine bestimmte Richtung gedreht und nicht zerbrochen.",
+  "If the position changes are instantaneous, we will not see the difference. Let's add a 1-second delay to see the animation.": "Wenn sich die Positionen sofort ändern, sehen wir keinen Unterschied. Fügen wir eine Verzögerung von 1 Sekunde hinzu, um die Animation sichtbar zu machen.",
+  "The egg turns": "Das Ei dreht sich",
+  "Use the \"turn 90 degrees\" command. Note that the egg will turn to the left.": "Verwende den Befehl \"Drehe um 90 Grad\".\nBeachte, dass sich das Ei nach links dreht.",
+  "The egg moves to the left": "Das Ei bewegt sich nach links",
+  "To visually drop the egg on its side, but so that it doesn't move, you need to change the coordinate. What coordinate should change if the egg moves to the left?": "Um das Ei optisch auf die Seite fallen zu lassen, ohne dass es sich bewegt, musst du die Koordinate ändern.\nWelche Koordinate muss sich ändern, wenn das Ei nach links bewegt wird?",
+  "The egg is cracked": "Das Ei ist zerbrochen",
+  "Select the appropriate costume": "Wähle das passende Kostüm aus",
+  "The ball is spinning!": "Der Ball dreht sich!",
+  "The ball sprite is spinning like a real one! Program it.": "Das Ball-Sprite dreht sich wie ein echtes! Programmiere es.",
+  "Repeating turns": "Wiederholte Drehungen",
+  "The ball sprite must rotate around its axis. Use the commands \"repeat __ times\", \"turn ___\".": "Das Ball-Sprite muss sich um seine Achse drehen.\nVerwende die Befehle \"Wiederhole __ mal\", \"Drehe um ___\".",
+  "*Bonus: change the speed": "*Bonus: Ändere die Geschwindigkeit",
+  "Think about how to change the rotation speed.": "Überlege, wie du die Drehgeschwindigkeit ändern kannst.",
+  "Butterfly": "Schmetterling",
+  "The butterfly flies around the flower. Program it!": "Der Schmetterling fliegt um die Blume. Programmiere es!",
+  "Rotation": "Drehung",
+  "First, program the rotation of the butterfly — just like the ball in the previous task!": "Programmiere zuerst die Drehung des Schmetterlings – genau wie beim Ball in der vorherigen Aufgabe!",
+  "Circular movement": "Kreisbewegung",
+  "To make a circle, add the command \"move __ steps\" to the loop. Then, after each small turn, the butterfly will move to the side, and then again make a turn and step: that is rotation!": "Um einen Kreis zu machen, füge den Befehl \"Gehe __ Schritte\" zur Schleife hinzu. Nach jeder kleinen Drehung bewegt sich der Schmetterling zur Seite, dann dreht er sich wieder und macht einen Schritt: Das ist Drehung!",
+  "Clock": "Uhr",
+  "This clock will be just like a real one after you program it.": "Diese Uhr wird wie eine echte sein, wenn du sie programmierst.",
+  "At startup, the time is exactly 12:00!": "Beim Start ist die Zeit genau 12:00!",
+  "Movement of the second hand": "Bewegung des Sekundenzeigers",
+  "Does the arrow move clockwise or counterclockwise? The whole circle is 360 degrees. 60 seconds in one circle. 360 divided by 60 = 6. The second hand rotates 6 degrees every second.": "Bewegt sich der Zeiger im oder gegen den Uhrzeigersinn?\nEin ganzer Kreis hat 360 Grad. 60 Sekunden für einen Kreis. 360 geteilt durch 60 = 6.\nDer Sekundenzeiger dreht sich jede Sekunde um 6 Grad.",
+  "Movement of the minute hand": "Bewegung des Minutenzeigers",
+  "Have you noticed that the minute hand moves less often and a shorter distance than the second hand? Let's move it one degree at a time. The minute hand moves 6 degrees in 60 seconds. 60 seconds divided by 6 degrees is 10 seconds — after that, the minute hand will move 1 degree.": "Hast du bemerkt, dass sich der Minutenzeiger seltener und weniger weit bewegt als der Sekundenzeiger? Lassen wir ihn jeweils um 1 Grad bewegen. Der Minutenzeiger bewegt sich in 60 Sekunden um 6 Grad. 60 Sekunden geteilt durch 6 Grad ergibt 10 Sekunden – danach bewegt sich der Minutenzeiger um 1 Grad.",
+  "Sprite center": "Sprite-Zentrum",
+  "Notice the small gray circle on the cloth of the sprite's costume. This is the center of the sprite around which it rotates.": "Beachte den kleinen grauen Kreis auf dem Kostüm des Sprites. Dies ist das Zentrum des Sprites, um das es sich dreht.",
+  
+
+  "-------------------SPACE____LEKTION 4_Scratch. MESSAGES-----------------------?":"-------------------SPACE____LEKTION 4_Scratch. MESSAGES-----------------------DEUTSCH?",
+  "Potion": "Trank",
+  "You click on the Potion sprite, and a completely different sprite reacts. Look!": "Du klickst auf die Trank-Figur, und eine ganz andere Figur reagiert. Schau!",
+  "The potion sends a message": "Der Trank sendet eine Nachricht",
+  "To make this possible, sprites exchange messages. For example, when the Potion sprite is clicked, it sends the Transform message.": "Um dies zu ermöglichen, tauschen Figuren Nachrichten aus. Zum Beispiel sendet die Trank-Figur beim Anklicken die Nachricht \"Transformieren\".",
+  "The Sorceress receives the message": "Die Zauberin erhält die Nachricht",
+  "The Sorceress sprite receives the message. To do this, you need to create a script that starts with the command \"when I receive a message.\"": "Die Zauberin-Figur erhält die Nachricht. Dafür musst du ein Skript erstellen, das mit dem Befehl \"Wenn ich eine Nachricht erhalte\" beginnt.",
+  "Sorceress transformations": "Verwandlungen der Zauberin",
+  "Think up what happens to the Sorceress sprite and program it!": "Überlege, was mit der Zauberin-Figur passiert, und programmiere es!",
+  "There are so many transformations of the Sorceress sprite! Of course, all the changes must be reset at startup.": "Es gibt so viele Verwandlungen der Zauberin-Figur! Natürlich müssen alle Änderungen beim Start zurückgesetzt werden.",
+  "Store": "Laden",
+  "Click on the bell!": "Klicke auf die Glocke!",
+  "The bell sends the message": "Die Glocke sendet die Nachricht",
+  "When you press the bell, it sends the message.": "Wenn du die Glocke drückst, sendet sie die Nachricht.",
+  "The seller appears": "Der Verkäufer erscheint",
+  "If the bell is pressed, the seller appears.": "Wenn die Glocke gedrückt wird, erscheint der Verkäufer.",
+  "The boy greets the seller": "Der Junge begrüßt den Verkäufer",
+  "If the bell is pressed, the boy greets the seller.": "Wenn die Glocke gedrückt wird, begrüßt der Junge den Verkäufer.",
+  "Don't forget to set the initial parameters.": "Vergiss nicht, die Anfangsparameter festzulegen.",
+  "Research": "Erforschung",
+  "Watch the mini-animation and press the button!": "Sieh dir die Mini-Animation an und drücke den Knopf!",
+  "The MarsBot talks about the button": "Der MarsBot spricht über den Knopf",
+  "When you click on the green flag, the MarsBot says what the button is!": "Wenn du auf die grüne Flagge klickst, sagt der MarsBot, was der Knopf macht!",
+  "The button sends a message": "Der Knopf sendet eine Nachricht",
+  "Pressing the button changes the background and sends a message": "Das Drücken des Knopfes ändert den Hintergrund und sendet eine Nachricht",
+  "The MarsBot hides": "Der MarsBot versteckt sich",
+  "When the MarsBot receives the message, it hides.": "Wenn der MarsBot die Nachricht erhält, versteckt er sich.",
+  "The dog appears and moves": "Der Hund erscheint und bewegt sich",
+  "When the dog receives the message, it appears and moves. Think up what it will do.": "Wenn der Hund die Nachricht erhält, erscheint er und bewegt sich. Überlege dir, was er tun soll.",
+  "At the start, the button and the MarsBot appear and fall into place, and the dog hides.": "Zu Beginn erscheinen der Knopf und der MarsBot und nehmen ihre Position ein, während sich der Hund versteckt.",
+  "Choose a piece of fruit": "Wähle ein Stück Obst",
+  "Help Dani pick some fruit! Click on a piece of fruit to transfer it to the bowl.": "Hilf Dani, Obst zu sammeln! Klicke auf ein Stück Obst, um es in die Schüssel zu legen.",
+  "When you click on the green flag, the pieces of fruit fall back to their original places.": "Wenn du auf die grüne Flagge klickst, kehren die Obststücke an ihre ursprünglichen Orte zurück.",
+  "Choice of fruit": "Obstauswahl",
+  "When you click on the fruit, it changes position and sends a message to the Dani sprite": "Wenn du auf das Obst klickst, ändert es seine Position und sendet eine Nachricht an die Dani-Figur.",
+  "Dani gets a message": "Dani erhält eine Nachricht",
+  "Dani receives the message and expresses gratitude for the help!": "Dani erhält die Nachricht und bedankt sich für die Hilfe!",
+  "When you press the button, another sprite changes — the Dancer!": "Wenn du die Taste drückst, ändert sich ein anderer Sprite – der Tänzer!",
+  "Program the gray button": "Programmiere die graue Taste",
+  "When you click on the gray button, it sends a message. The Dancer sprite receives it and performs the action.": "Wenn du auf die graue Taste klickst, sendet sie eine Nachricht. Der Tänzer-Sprite erhält sie und führt die Aktion aus.",
+  "Program the blue button": "Programmiere die blaue Taste",
+  "Pressing the blue button turns on the music.": "Das Drücken der blauen Taste schaltet die Musik ein.",
+  "Look at the dialog and program a similar one.": "Sieh dir den Dialog an und programmiere einen ähnlichen.",
+  "Initial placement of stage 1": "Anfangsplatzierung von Szene 1",
+  "What do the characters look like and where are they in the first scene?": "Wie sehen die Charaktere aus und wo befinden sie sich in der ersten Szene?",
+  "Scene 1": "Szene 1",
+  "Program scene 1, which takes place in the room.": "Programmiere Szene 1, die im Raum stattfindet.",
+  "Transition to stage 2": "Übergang zu Szene 2",
+  "Choose which sprite will send messages to switch scenes and change backgrounds.": "Wähle, welcher Sprite Nachrichten sendet, um die Szenen zu wechseln und den Hintergrund zu ändern.",
+  "Initial placement of stage 2": "Anfangsplatzierung von Szene 2",
+  "Where do the sprites go during the second scene? How big do they get?": "Wo befinden sich die Sprites in der zweiten Szene? Wie groß werden sie?",
+  "Scene 2": "Szene 2",
+  "What are the sprites doing during scene 2?": "Was machen die Sprites in Szene 2?",
+  "*Test it": "*Teste es",
+  "Run the animation a few times and check that everything works as it should.": "Führe die Animation mehrmals aus und überprüfe, ob alles wie gewünscht funktioniert.",
+  
+  
+  "-------------------SPACE____LEKTION 4_Scratch. RIDDLE-----------------------?":"-------------------SPACE____LEKTION 4_Scratch. RIDDLE-----------------------DEUTSCH?",
+  "Example": "Beispiel",
+  "Look at the project and restore the scripts to play it.": "Sieh dir das Projekt an und stelle die Skripte wieder her, um es abzuspielen.",
+
+  
+  "-------------------SPACE____LEKTION 4_Scratch. ANIMATION-----------------------?":"-------------------SPACE____LEKTION 4_Scratch. ANIMATION-----------------------DEUTSCH?",
+  "Meeting on Mars": "Treffen auf dem Mars",
+  "Watch a fragment of the animation: what should we do with what we found?": "Sieh dir einen Ausschnitt der Animation an: Was sollen wir mit dem tun, was wir gefunden haben?",
+  "The \"On Mars\" scene is already prepared": "Die Szene \"Auf dem Mars\" ist bereits vorbereitet",
+  "Part of the code is already ready. Study it; it does the initial placement and the first scene.": "Ein Teil des Codes ist bereits fertig. Studiere ihn; er macht die Anfangsplatzierung und die erste Szene.",
+  "Program the \"On the base\" scene": "Programmiere die Szene \"Auf der Basis\"",
+  "Program the second scene using the prepared plan in your workbook.": "Programmiere die zweite Szene anhand des vorbereiteten Plans in deinem Arbeitsheft.",
+  "Create your own scene": "Erstelle deine eigene Szene",
+  "Come up with a continuation and program it! It can be inserted before the \"On Mars\" scene, or after it!": "Denke dir eine Fortsetzung aus und programmiere sie! Sie kann vor oder nach der Szene \"Auf dem Mars\" eingefügt werden!",
+  
+  
+  
+  
+  
+  
+  
+  "-------------------Game. LEKTION 1_Scratch. Conditions-----------------------?":"-------------------Game. LEKTION 1_Scratch. Conditions-----------------------DEUTSCH?",
+  "Colored ball": "Farbiger Ball",
+  "The ball moves freely around the stage. Each time it touches the edge, it changes color and direction!": "Der Ball bewegt sich frei über die Bühne. Jedes Mal, wenn er den Rand berührt, ändert er seine Farbe und Richtung!",
+  "Program the ball sprite to move constantly": "Programmiere die Ball-Figur so, dass sie sich ständig bewegt",
+  "Complete this task using the familiar \"move _ steps\" and \"repeat forever\" commands.": "Erfülle diese Aufgabe mit den bekannten Befehlen \"_ Schritte bewegen\" und \"für immer wiederholen\".",
+  "Program the ball so that it does not fly out of bounds": "Programmiere den Ball so, dass er nicht aus dem Spielfeld fliegt",
+  "To complete this task, you need the command \"if on edge, bounce,\" which also checks the condition! And it contains a mathematical formula for calculating the angle at which the ball turns. But where do we put this command so that it always works?": "Um diese Aufgabe zu erfüllen, braucht man den Befehl „if on edge, bounce“, der ebenfalls die Bedingung überprüft! Und der eine mathematische Formel zur Berechnung des Winkels enthält, um den sich der Ball dreht. \n\nAber wo platzieren wir diesen Befehl, damit er immer funktioniert?",
+  "Program the condition \"if the ball touches the edge, it changes color\"": "Programmiere die Bedingung \"Wenn der Ball den Rand berührt, ändert er die Farbe\"",
+  "But we do not have this ready-made command. We need to program a check for the condition \"if it touches the edge, it changes color.\" You can change the color by changing the costume!": "Aber wir haben diesen Befehl nicht fertig. Wir müssen eine Bedingungsprüfung programmieren: \"Wenn er den Rand berührt, ändert er die Farbe.\" Du kannst die Farbe ändern, indem du das Kostüm wechselst!",
+  "Set the initial size, costume, and position of the sprite Ball!": "Setze die Anfangsgröße, das Kostüm und die Position der Ball-Figur!",
+  "Move your mouse cursor over the stars to collect them! When you collect all the stars, press the space bar and they will reappear.": "Bewege deinen Mauszeiger über die Sterne, um sie zu sammeln! Wenn du alle Sterne gesammelt hast, drücke die Leertaste, und sie erscheinen wieder.",
+  "A star is hiding": "Ein Stern versteckt sich",
+  "Program the condition \"if the mouse pointer touches the star, it hides.\" To check the condition, always use the \"repeat forever\" command.": "Programmiere die Bedingung \"Wenn der Mauszeiger den Stern berührt, versteckt er sich.\" Um die Bedingung zu überprüfen, verwende immer den Befehl \"wiederhole fortlaufend\".",
+  "A star appears": "Ein Stern erscheint",
+  "When we press the space bar a star appears.": "Wenn wir die Leertaste drücken, erscheint ein Stern.",
+  "At the start, the sprite Star is always visible.": "Zu Beginn ist der Stern-Sprite immer sichtbar.",
+  "Let's program the remaining stars": "Lass uns die restlichen Sterne programmieren",
+  "Program the remaining stars": "Programmiere die restlichen Sterne",
+  "Jellyfish": "Qualle",
+  "Click anywhere on the stage! When you press the mouse button, the background and costume change.": "Klicke irgendwo auf der Bühne! Wenn du die Maustaste drückst, ändern sich der Hintergrund und das Kostüm.",
+  "When you click on the mouse, the sprite changes its costume": "Wenn du auf die Maus klickst, ändert der Sprite sein Kostüm",
+  "Program the condition so that when you click on the mouse pointer, the sprite changes its costume. The script for changing backgrounds is already in the project.": "Programmiere die Bedingung, dass der Sprite sein Kostüm ändert, wenn du auf den Mauszeiger klickst. Das Skript zum Ändern der Hintergründe ist bereits im Projekt enthalten.",
+  "Always check if the mouse is clicked": "Überprüfe immer, ob die Maus geklickt wurde",
+  "This condition must always be checked. We need this command to do so.": "Diese Bedingung muss immer überprüft werden. Wir benötigen diesen Befehl, um dies zu tun.",
+  "The costume must always be the same when starting up.": "Das Kostüm muss beim Start immer gleich sein.",
+  "Bat": "Fledermaus",
+  "Click anywhere on the stage, the Bat sprite will fly to the mouse pointer for 1 second! Let's program it!": "Klicke irgendwo auf der Bühne, der Fledermaus-Sprite fliegt für 1 Sekunde zum Mauszeiger! Lass es uns programmieren!",
+  "Program the condition \"if the mouse is clicked, glide...\"": "Programmiere die Bedingung \"Wenn die Maus geklickt wird, gleite...\"",
+  "Program the rule \"if the mouse is clicked, glide for 1 second to the mouse pointer.\" You already know how to check rules using the \"if ...\" operator. Use this condition!": "Programmiere die Regel \"Wenn die Maus geklickt wird, gleite für 1 Sekunde zum Mauszeiger.\" Du weißt bereits, wie man Regeln mit dem \"Wenn ...\"-Operator überprüft. Verwende diese Bedingung!",
+  "This condition must always be checked. What command do we need?": "Diese Bedingung muss immer überprüft werden. Welchen Befehl benötigen wir?",
+  "Three balls": "Drei Bälle",
+  "After clicking on the green flag, the balls begin to move chaotically.": "Nach dem Klicken auf die grüne Flagge beginnen die Bälle, sich chaotisch zu bewegen.",
+  "Set the position of the sprite Ball at the start and its direction. Any direction can be used!": "Lege die Position des Ball-Sprites am Start und seine Richtung fest. Jede Richtung kann verwendet werden!",
+  "Chaotic ball movement": "Chaotische Ballbewegung",
+  "Program the movement of the ball using the \"move_steps\" and \"repeat forever\" commands.": "Programmiere die Bewegung des Balls mit den Befehlen \"move_steps\" und \"wiederhole fortlaufend\".",
+  "Change of direction": "Richtungsänderung",
+  "Program a change in the direction of the Ball sprite if it reaches the edge. For the command to always work, where should it be placed — in the loop or after?": "Programmiere eine Richtungsänderung des Ball-Sprites, wenn er den Rand erreicht. Damit der Befehl immer funktioniert, wo sollte er platziert werden — in der Schleife oder danach?",
+  "Program 2 more balls": "Programmiere 2 weitere Bälle",
+  "Program the remaining balls by moving the resulting script to the sprite icon. Set for each ball its own starting position.": "Programmiere die restlichen Bälle, indem du das resultierende Skript zum Sprite-Symbol verschiebst. Lege für jeden Ball seine eigene Startposition fest.",
+  "Watch how the balls move: when they touch, they bounce off each other! Modify the program to make the yellow ball fly away from others when it collides.": "Beobachte, wie sich die Bälle bewegen: Wenn sie sich berühren, prallen sie voneinander ab! Ändere das Programm, damit der gelbe Ball bei einer Kollision von den anderen wegfliegt.",
+  "Checking if touching": "Überprüfen, ob sie sich berühren",
+  "Use this condition to program the balls touching.": "Verwende diese Bedingung, um das Berühren der Bälle zu programmieren.",
+  "Bouncing": "Abprallen",
+  "To make them bounce, they need to turn in the opposite direction and move!": "Damit sie abprallen, müssen sie sich in die entgegengesetzte Richtung drehen und sich bewegen!",
+  "Watch how the balls move: when they touch, they bounce off each other! Let's do the same!": "Beobachte, wie sich die Bälle bewegen: Wenn sie sich berühren, prallen sie voneinander ab! Lass uns dasselbe tun!",
+  "Checking if touching and bouncing": "Überprüfen, ob sie sich berühren und abprallen",
+  "Checking if both balls are touching": "Überprüfen, ob sich beide Bälle berühren",
+  "Move the script": "Verschiebe das Skript",
+  "The ball scripts are very similar: they differ only in specifying the sprites they are colliding with. If you assemble a script for one ball, it can then be used as a template for other balls. To do that, transfer the script to the sprite image, as shown in the animation.": "Die Ball-Skripte sind sehr ähnlich: Sie unterscheiden sich nur darin, welche Sprites sie kollidieren. Wenn du ein Skript für einen Ball erstellst, kann es als Vorlage für andere Bälle verwendet werden. Übertrage dazu das Skript auf das Sprite-Bild, wie in der Animation gezeigt.",
+  "The balloons are coming out of the box!": "Die Ballons kommen aus der Kiste!",
+  "Use the mouse cursor to keep the balloons away from the edge!": "Verwende den Mauszeiger, um die Ballons vom Rand fernzuhalten!",
+  "Program touching the edge": "Programmiere das Berühren des Randes",
+  "When the balloons touch the edge, they start coming out of the box again. Use a condition and the \"move\" command!": "Wenn die Ballons den Rand berühren, kommen sie wieder aus der Kiste heraus. Verwende eine Bedingung und den \"move\"-Befehl!",
+  "The balloons touch the mouse cursor": "Die Ballons berühren den Mauszeiger",
+  "When the balloons touch the mouse cursor, they should turn. Use a condition and command with rotation!": "Wenn die Ballons den Mauszeiger berühren, sollten sie sich drehen. Verwende eine Bedingung und einen Befehl mit Rotation!",
+  "The hedgehog is flying to the crab!": "Der Igel fliegt zum Krebs!",
+  "Study the game: you will need to create a similar one. Use the mouse cursor to aim and shoot the crabs by clicking on the mouse. The game consists of 2 stages: aiming and launching. Program the sprite to send messages to itself and split up the execution of the conditions using those messages!": "Studiere das Spiel: Du wirst ein ähnliches erstellen müssen. Verwende den Mauszeiger, um zu zielen und die Krebse zu schießen, indem du auf die Maus klickst. Das Spiel besteht aus 2 Phasen: Zielen und Abschießen. Programmiere den Sprite, um Nachrichten an sich selbst zu senden und die Ausführung der Bedingungen mithilfe dieser Nachrichten aufzuteilen!",
+  "Use the \"if... then...\" command at least 2 times.": "Verwende den Befehl \"Wenn ... dann ...\" mindestens 2 Mal.",
+  "Use the \"if... then...\" command to check the conditions \"mouse clicked?\" and \"touching the edge?\"": "Verwende den Befehl \"Wenn ... dann ...\", um die Bedingungen \"Maus geklickt?\" und \"Rand berührt?\" zu überprüfen.",
+  "Use the \"repeat forever\" command at least 2 times.": "Verwende den Befehl \"wiederhole fortlaufend\" mindestens 2 Mal.",
+  "Use the \"repeat forever\" command to program constant checking of the conditions.": "Verwende den Befehl \"wiederhole fortlaufend\", um die ständige Überprüfung der Bedingungen zu programmieren.",
+  "Use the \"stop other sprite scripts\" command at least 2 times.": "Verwende den Befehl \"stoppe andere Sprite-Skripte\" mindestens 2 Mal.",
+  "Use the \"stop other sprite scripts\" command to prevent the simultaneous execution of scripts.": "Verwende den Befehl \"stoppe andere Sprite-Skripte\", um die gleichzeitige Ausführung von Skripten zu verhindern.",
+  
+
+  "-------------------Game. LEKTION 2_Scratch. Changing coordinates-----------------------?":"-------------------Game. LEKTION 2_Scratch. Changing coordinates-----------------------DEUTSCH?",
+  "Take the apple": "Nimm den Apfel",
+  "Control Kepler so that he finds the apple!": "Steuere Kepler, damit er den Apfel findet!",
+  "The apple moves on its own": "Der Apfel bewegt sich von selbst",
+  "How does the Apple sprite move? Use the example from the demo project or come up with your own method!": "Wie bewegt sich der Apfel-Sprite? Verwende das Beispiel aus dem Demo-Projekt oder denke dir eine eigene Methode aus!",
+  "Controlling Kepler": "Steuerung von Kepler",
+  "Program Kepler control": "Programmiere die Steuerung von Kepler",
+  "Kepler and the apple touching": "Kepler und der Apfel berühren sich",
+  "If Kepler touches the apple, we send a message about it. The apple hides, and Kepler speaks!": "Wenn Kepler den Apfel berührt, senden wir eine Nachricht darüber. Der Apfel versteckt sich, und Kepler spricht!",
+  "Do not forget that in the beginning, you need to return the apple and Kepler to their original places!": "Vergiss nicht, dass du am Anfang den Apfel und Kepler an ihre ursprünglichen Plätze zurückbringen musst!",
+  
+  "Beetle on a tree": "Käfer auf einem Baum",
+  "Let's program it: the sprite Beetle moves up the tree!": "Programmieren wir es: Die Käfer-Figur bewegt sich den Baum hinauf!",
+  "Upward movement": "Aufwärtsbewegung",
+  "To move the Beetle sprite up, use the \"change y by __\" command.": "Um die Käfer-Figur nach oben zu bewegen, benutze den Befehl \"y um __ ändern\".",
+  "Having reached the top of the trunk, the Beetle sprite starts moving from the beginning.": "Sobald er die Spitze des Stammes erreicht hat, beginnt die Käfer-Figur von vorne.",
+  "Use the command \"go to x: __ y: __\" to return the Beetle sprite to the beginning of its journey.": "Benutze den Befehl \"gehe zu x: __ y: __\", um die Käfer-Figur zum Anfang ihrer Reise zurückzubringen.",
+  "Set the direction and size of the Beetle sprite at the very beginning.": "Setze die Richtung und Größe der Käfer-Figur ganz am Anfang.",
+  
+  
+  "Snowflakes": "Schneeflocken",
+  "The Snowflake sprite appears at the top of the stage and falls down.": "Der Schneeflocken-Sprite erscheint oben auf der Bühne und fällt nach unten.",
+  "Set the initial position of the Snowflake sprite.": "Lege die Anfangsposition des Schneeflocken-Sprites fest.",
+  "Falling": "Fallen",
+  "Repeat the coordinate change a few times to simulate falling!": "Wiederhole die Koordinatenänderung einige Male, um das Fallen zu simulieren!",
+  "The snowflake falls constantly": "Die Schneeflocke fällt ständig",
+  "The Snowflake sprite always returns to the top and falls again!": "Der Schneeflocken-Sprite kehrt immer wieder nach oben zurück und fällt erneut!",
+  
+
+
+  "The dragon guards the castle": "Der Drache bewacht das Schloss",
+  "The sprite Dragon flies left and right!": "Der Drache-Sprite fliegt nach links und rechts!",
+  "The dragon moves to the right": "Der Drache bewegt sich nach rechts",
+  "To move to the right, you need to change the X coordinate to a positive number (without the minus sign).": "Um nach rechts zu bewegen, musst du die X-Koordinate in eine positive Zahl ändern (ohne das Minuszeichen).",
+  "The dragon moves to the left": "Der Drache bewegt sich nach links",
+  "To move to the left, you need to change the X coordinate to a negative number that has a minus sign.": "Um nach links zu bewegen, musst du die X-Koordinate in eine negative Zahl ändern, die ein Minuszeichen hat.",
+  "The dragon turns": "Der Drache dreht sich",
+  "The sprite Dragon looks in the direction it is flying in. Use the \"point in direction __\" command.": "Der Drache-Sprite schaut in die Richtung, in die er fliegt. Verwende den Befehl \"zeige in Richtung __\".",
+  "The dragon moves constantly": "Der Drache bewegt sich ständig",
+  "Use the commands \"repeat forever\" and \"go to x: _ y: _\" to make the Dragon sprite move on the same level.": "Verwende die Befehle \"wiederhole fortlaufend\" und \"gehe zu x: _ y: _\", um den Drache-Sprite auf derselben Ebene zu bewegen.",
+  "Set the size and rotation of the Dragon sprite.": "Lege die Größe und Drehung des Drache-Sprites fest.",
+  
+
+
+  "Goalkeeper control right and left": "Torwartsteuerung rechts und links",
+  "Use the right arrow key to move the goalkeeper to the right and the left arrow key to move the goalkeeper to the left.": "Verwende die rechte Pfeiltaste, um den Torwart nach rechts zu bewegen, und die linke Pfeiltaste, um den Torwart nach links zu bewegen.",
+  "Movement to the right": "Bewegung nach rechts",
+  "Program the following rule: if the right arrow key is pressed, the goalkeeper moves to the right.": "Programmiere die folgende Regel: Wenn die rechte Pfeiltaste gedrückt wird, bewegt sich der Torwart nach rechts.",
+  "Movement to the left": "Bewegung nach links",
+  "Program the following rule: if the left arrow key is pressed, the goalkeeper moves to the left.": "Programmiere die folgende Regel: Wenn die linke Pfeiltaste gedrückt wird, bewegt sich der Torwart nach links.",
+  "Constantly checking keystrokes": "Ständige Überprüfung der Tastendrücke",
+  "Use one \"repeat forever\" command to constantly check to see if any keys are pressed.": "Verwende einen \"wiederhole fortlaufend\"-Befehl, um ständig zu überprüfen, ob Tasten gedrückt werden.",
+  "Set the size of the goalkeeper at the very beginning.": "Lege die Größe des Torwarts ganz am Anfang fest.",
+  
+
+  "Goalkeeper control up and down": "Torwartsteuerung oben und unten",
+  "Use the up arrow key to move the goalkeeper up and the down arrow key to move the goalkeeper down.": "Verwende die obere Pfeiltaste, um den Torwart nach oben zu bewegen, und die untere Pfeiltaste, um den Torwart nach unten zu bewegen.",
+  "Program the following rule: if the up arrow key is pressed, the goalkeeper moves up.": "Programmiere die folgende Regel: Wenn die obere Pfeiltaste gedrückt wird, bewegt sich der Torwart nach oben.",
+  "Downward movement": "Abwärtsbewegung",
+  "Program the following rule: if the down arrow key is pressed, the goalkeeper moves down.": "Programmiere die folgende Regel: Wenn die untere Pfeiltaste gedrückt wird, bewegt sich der Torwart nach unten.",
+  "In order for the program to always check if a key is pressed, use the \"repeat forever\" command.": "Damit das Programm ständig überprüft, ob eine Taste gedrückt wird, verwende den Befehl \"wiederhole fortlaufend\".",
+  
+  "Snowflake sprites appear at the top of the stage and fall down. Let's program that!": "Schneeflocken-Sprites erscheinen oben auf der Bühne und fallen nach unten. Lass uns das programmieren!",
+  "Falling snowflakes": "Fallende Schneeflocken",
+  "Program the Snowflake sprites so that they constantly fall. Use the \"wait __ seconds\" command.": "Programmiere die Schneeflocken-Sprites so, dass sie ständig fallen. Verwende den Befehl \"warte __ Sekunden\".",
+  "The snowflakes fall at different speeds": "Die Schneeflocken fallen mit unterschiedlichen Geschwindigkeiten",
+  "Enter different values that change the Y coordinate for different snowflakes — then they will fall differently!": "Gib verschiedene Werte ein, die die Y-Koordinate für verschiedene Schneeflocken ändern — dann fallen sie unterschiedlich!",
+  "* Bonus: spinning snowflakes": "* Bonus: sich drehende Schneeflocken",
+  "Think about how to make the snowflakes spin while they're falling. Which command will turn the snowflakes?": "Überlege, wie du die Schneeflocken beim Fallen drehen kannst. Welcher Befehl wird die Schneeflocken drehen?",
+  
+  "Soccer": "Fußball",
+  "Create a game in which the goalkeeper has to protect their goal. Use the arrow keys on the keyboard to control the movement of the Goalkeeper sprite.": "Erstelle ein Spiel, in dem der Torwart sein Tor schützen muss. Verwende die Pfeiltasten auf der Tastatur, um die Bewegung des Torwart-Sprites zu steuern.",
+  "Goalkeeper control": "Torwartsteuerung",
+  "If the corresponding key is pressed, the sprite moves in that direction.": "Wenn die entsprechende Taste gedrückt wird, bewegt sich der Sprite in diese Richtung.",
+  "Ball movement": "Ballbewegung",
+  "Program the Ball sprite so that it moves randomly using the move_steps, repeat forever, and if on edge, bounce.": "Programmiere den Ball-Sprite so, dass er sich zufällig bewegt, indem du die Befehle \"move_steps\", \"wiederhole fortlaufend\" und \"if on edge, bounce\" verwendest.",
+  
+
+  "The Cat sprite jumps": "Der Katzen-Sprite springt",
+  "Press the space bar!": "Drücke die Leertaste!",
+  "Program the Cat sprite to move up when you press the spacebar. What coordinate are we going to change?": "Programmiere den Katzen-Sprite so, dass er nach oben springt, wenn du die Leertaste drückst. Welche Koordinate werden wir ändern?",
+  "Program downward movement. What coordinate are we going to change? To what number?": "Programmiere die Abwärtsbewegung. Welche Koordinate werden wir ändern? Zu welcher Zahl?",
+  "Use the \"go to x: _ y: _\" command.": "Verwende den Befehl \"gehe zu x: _ y: _\".",
+  
+  "Race": "Rennen",
+  "Use the arrows to control the Car sprite and reach the finish line!": "Verwende die Pfeiltasten, um den Auto-Sprite zu steuern und die Ziellinie zu erreichen!",
+  "Car control": "Autosteuerung",
+  "Another control method is to turn when you click on the arrows instead of moving! Try to program that.": "Eine andere Steuerungsmethode besteht darin, sich zu drehen, wenn du auf die Pfeile klickst, anstatt sich zu bewegen! Versuche, das zu programmieren.",
+  "Touching the grass": "Das Gras berühren",
+  "Program this rule: If the Car sprite touches anything green (i.e. travels off the road), it begins its journey again.": "Programmiere diese Regel: Wenn der Auto-Sprite etwas Grünes berührt (d.h. von der Straße abkommt), beginnt er seine Reise von neuem.",
+  "Touching the finish line sprite": "Die Ziellinie berühren",
+  "Program this rule: If the Car sprite touches the finish line, you win and the project stops.": "Programmiere diese Regel: Wenn der Auto-Sprite die Ziellinie berührt, gewinnst du und das Projekt stoppt.",
+
+  "-------------------Game. LEKTION 4_Scratch. Changing coordinates-----------------------?":"-------------------Game. LEKTION 4_Scratch. Changing coordinates-----------------------DEUTSCH?",
+  "Dog in the maze": "Hund im Labyrinth",
+  "Collect the crystals!": "Sammle die Kristalle!",
+  "Create a project plan": "Erstelle einen Projektplan",
+  "Plan the project using a notebook. Make notes to help you program your project correctly!": "Planen Sie das Projekt mit einem Notizbuch.\n\nEs soll 4 Nachrichten geben: Level 1, Level 2, Gewinn. Statt Verlust soll der Hund immer zum Ausgangsposition kommen.",
+  "Controlling the Dog sprite": "Steuerung des Hund-Sprites erfolgt durch die Prüfungen: z.B. Falls Taste nach oben gedrückt, dann - ändere y um 10",
+  "Touching obstacles": "Berühren von Hindernissen erfolgt durch die Prüfungen: Falls Farbe berührt, dann - Ausgangsposition",
+  "There are two obstacles in this project — the walls of the maze and the lightning.": "In diesem Projekt gibt es zwei Hindernisse – die Wände des Labyrinths und die Blitze.",
+  "Level 1": "Level 1 - Bühnenbild Labyrinth 10",
+  "Program the initial placement for level 1.": "Programmiere die Ausgangsposition für Level 1. Brauchen wir da Koordinaten?",
+  "Level 2": "Level 2 - Bühnenbild Labyrinth 1",
+  "Program the initial placement for level 2.": "Programmiere die Ausgangsposition für Level 2. Brauchen wir da Koordinaten?",
+  "Touching the target": "Berühren des Ziels: Falls Kristalle berührt werden, dann soll die Nachricht Level 2 oder Gewinn geschickt werden",
+  "We have two targets: two different crystals. One of the crystals takes us to the next level, and the other one creates the \"Victory\" event.": "Wir haben zwei Ziele: zwei verschiedene Kristalle. Einer der Kristalle bringt uns zum nächsten Level, und der andere löst das „Sieg“-Ereignis aus.",
+  "MarsBot jumping": "MarsBot springt",
+  "Press the space bar and watch: the MarsBot jumps two times. Create the same project!": "Drücke die Leertaste und schau zu: Der MarsBot springt zweimal. Erstelle das gleiche Projekt!",
+  "Create a new \"Jump\" command": "Erstelle einen neuen „Springen“-Befehl",
+  "The robot changes position gradually. It moves up and then down. Use these commands.": "Der Roboter ändert seine Position schrittweise. Er bewegt sich nach oben und dann nach unten. Verwende diese Befehle.",
+  "Double jump when pressing the space bar": "Doppelsprung bei Drücken der Leertaste",
+  "This command appeared in the \"Other Blocks\" section. Use it.": "Dieser Befehl erschien im Abschnitt „Andere Blöcke“. Verwende ihn.",
+  "The MarsBot does flips!": "Der MarsBot macht Saltos!",
+  "Press the space bar and watch! The initial placement and the appearance of the robot can also be done with a separate command. Look at how it's done.": "Drücke die Leertaste und schau zu!\n\nDie Ausgangsposition und das Aussehen des Roboters können auch mit einem separaten Befehl festgelegt werden. Schau dir an, wie es gemacht wird.",
+  "Create the \"Flip\" procedure": "Erstelle die „Salto“-Prozedur",
+  "Your \"own\" commands are called procedures. Create the script for \"Flip\" procedure.": "Deine „eigenen“ Befehle heißen Prozeduren. Erstelle das Skript für die „Salto“-Prozedur.",
+  "Double flip when pressing the space bar": "Doppelsalto bei Drücken der Leertaste",
+  "Use the \"Flip\" procedure twice when pressing the space bar to make the MarsBot do a double flip": "Verwende die „Salto“-Prozedur zweimal, wenn die Leertaste gedrückt wird, damit der MarsBot einen Doppelsalto macht",
+  "The sprite does somersaults forward and backward": "Das Sprite macht Vorwärts- und Rückwärtssaltos",
+  "To control the MarsBot, use the space bar and numbers 1 and 2.": "Um den MarsBot zu steuern, verwende die Leertaste und die Zahlen 1 und 2.",
+  "The \"Start\" procedure": "Die „Start“-Prozedur",
+  "Use the \"Start\" procedure to set the size, position, and direction of the MarsBot.": "Verwende die „Start“-Prozedur, um die Größe, Position und Richtung des MarsBots festzulegen.",
+  "The \"backward somersault\" procedure": "Die „Rückwärtssalto“-Prozedur",
+  "Create the \"backward somersault\" procedure the same way as the \"forward somersault\" procedure.": "Erstelle die „Rückwärtssalto“-Prozedur genauso wie die „Vorwärtssalto“-Prozedur.",
+  "Pressing the space bar": "Drücken der Leertaste",
+  "The space bar starts a long warm-up and the MarsBot performs somersaults forward and backward.": "Die Leertaste startet ein langes Aufwärmen und der MarsBot führt Vorwärts- und Rückwärtssaltos aus.",
+  "Pressing the number 1": "Drücken der Zahl 1",
+  "When you press the number 1, the MarsBot does a forward somersault.": "Wenn du die Zahl 1 drückst, macht der MarsBot einen Vorwärtssalto.",
+  "Pressing the number 2": "Drücken der Zahl 2",
+  "When you press the number 2, the MarsBot does a backward somersault.": "Wenn du die Zahl 2 drückst, macht der MarsBot einen Rückwärtssalto.",
+  "The MarsBot walks or does flips all the time": "Der MarsBot läuft oder macht die ganze Zeit Saltos",
+  "Click on 1 and 2 and watch the example!": "Klicke auf 1 und 2 und schau dir das Beispiel an!",
+  "Define the \"Start\" procedure": "Definiere die „Start“-Prozedur",
+  "Define the \"Walk\" procedure": "Definiere die „Gehen“-Prozedur",
+  "In this procedure, the MarsBot moves to the right and then returns to its original place.": "In dieser Prozedur bewegt sich der MarsBot nach rechts und kehrt dann an seinen ursprünglichen Platz zurück.",
+  "Define the \"Flip\" procedure": "Definiere die „Salto“-Prozedur",
+  "When you press 1, the MarsBot is constantly walking": "Wenn du 1 drückst, läuft der MarsBot ständig",
+  "Put the procedure in an endless \"repeat forever\" loop!": "Setze die Prozedur in eine Endlosschleife „wiederhole fortlaufend“!",
+  "When you press 2, the MarsBot is constantly doing flips": "Wenn du 2 drückst, macht der MarsBot ständig Saltos",
+  "Put the \"Flip\" procedure in an endless loop. And add a small pause between jumps — after all, real athletes pause to prepare for their next jump!": "Setze die „Salto“-Prozedur in eine Endlosschleife. Und füge eine kleine Pause zwischen den Sprüngen hinzu – schließlich pausieren echte Athleten, um sich auf ihren nächsten Sprung vorzubereiten!",
+  "Stop the previous script": "Stoppe das vorherige Skript",
+  "If the MarsBot is always walking and then we want it to do flips, we must first stop the walking script. To do this, use the command \"stop the sprite's other scripts.\" It is also best if the flipping and walking always start from the starting position, so we will use the “Start” procedure for all events.": "Wenn der MarsBot immer läuft und wir dann wollen, dass er Saltos macht, müssen wir zuerst das Geh-Skript stoppen. Verwende dazu den Befehl „stoppe andere Skripte des Sprites“. Es ist auch am besten, wenn Saltos und Gehen immer von der Startposition aus beginnen, daher verwenden wir die „Start“-Prozedur für alle Ereignisse.",
+  "Find the error": "Finde den Fehler",
+  "Run the project, and press 2 and 1. What is the error?": "Führe das Projekt aus und drücke 2 und 1. Was ist der Fehler?",
+  "Correct the error": "Korrigiere den Fehler",
+  
+  "-------------------Logic. LEKTION 1_Scratch.-----------------------?":"-------------------Logic. LEKTION 1_Scratch.-----------------------DEUTSCH?",
+
+  "The Cat sprite": "Die Katze-Sprite",
+  "Move the Cat sprite with the mouse: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.": "Bewege die Katze-Sprite mit der Maus: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.",
+  "Controlling the Cat sprite": "Steuerung der Katze-Sprite",
+  "Create a script with which you can control the Cat sprite. Rule: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.": "Erstelle ein Skript, mit dem du die Katze-Sprite steuern kannst.\nRegel: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.",
+  "Continuous condition checking": "Ständige Bedingungsprüfung",
+  "Complete the code so that it works correctly. Use the repeat forever command.": "Vervollständige den Code, damit er richtig funktioniert.\nVerwende den Befehl »wiederhole fortlaufend«.",
+  "Move the Cat sprite with the mouse: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse. Let's solve the same task but in a different way, using one condition (using the logical operator \"AND\").": "Bewege die Katze-Sprite mit der Maus: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nLassen wir uns dieselbe Aufgabe auf eine andere Weise lösen, mit nur einer Bedingung (unter Verwendung des logischen Operators »UND«).",
+  "Another way to control the Cat sprite": "Eine andere Möglichkeit, die Katze-Sprite zu steuern",
+  "Use the commands described above and create a script with which you can control the Cat sprite using one condition. Rule: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse. In the free windows of the \"AND\" operator, insert the conditions that the operator checks and processes.": "Verwende die oben beschriebenen Befehle und erstelle ein Skript, mit dem du die Katze-Sprite mit nur einer Bedingung steuern kannst.\nRegel: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nIn die freien Felder des »UND«-Operators fügst du die Bedingungen ein, die der Operator prüft und verarbeitet.",
+  "Call the elevator": "Den Aufzug rufen",
+  "The elevator call button will work if any of the Girl sprites goes up to it! Character control: to control the sprites use the A, D keys and \"right\"-\"left\" arrow keys.": "Der Aufzugknopf funktioniert, wenn eine der Mädchen-Sprites zu ihm geht!\nSteuerung der Figuren: Zur Steuerung der Sprites verwende die A- und D-Tasten sowie die Pfeiltasten rechts-links.",
+  "Button touching": "Knopfberührung",
+  "Use the available commands to program the elevator button. It is important to remember that if at least one Girl sprite touches the button, the button will change color. The button is triggered if at least one sprite touches it. Which logical operator should you use?": "Verwende die verfügbaren Befehle, um den Aufzugknopf zu programmieren. Es ist wichtig zu bedenken, dass der Knopf die Farbe ändert, wenn mindestens eine Mädchen-Sprite ihn berührt.\nDer Knopf wird ausgelöst, wenn mindestens eine Sprite ihn berührt. Welchen logischen Operator solltest du verwenden?",
+  "The A, W, S, D keys.": "Die Tasten A, W, S, D.",
+  "If the control isn't working, don't get upset right away!Check which layout you are using - Russian or English?": "Wenn die Steuerung nicht funktioniert, sei nicht gleich enttäuscht!\nÜberprüfe, welche Tastaturbelegung du verwendest – Russisch oder Englisch?",
+  "Teamwork": "Teamarbeit",
+  "The Giga and Pico sprites should touch the button together.": "Die Giga- und Pico-Sprites sollten den Knopf gleichzeitig berühren.",
+  "Giga says what to do": "Giga sagt, was zu tun ist",
+  "Add this set of commands so that Giga will first say what to do.": "Füge diesen Befehlssatz hinzu, damit Giga zuerst sagt, was zu tun ist.",
+  "Giga sprite control": "Steuerung der Giga-Sprite",
+  "Program the procedure for controlling the Giga sprite.": "Programmiere das Verfahren zur Steuerung der Giga-Sprite.",
+  "Pico sprite control": "Steuerung der Pico-Sprite",
+  "Program the procedure for controlling the Pico sprite": "Programmiere das Verfahren zur Steuerung der Pico-Sprite",
+  "Programming the button": "Programmierung des Knopfes",
+  "Program the button so that it only works if both Pico and Giga touch it.": "Programmiere den Knopf so, dass er nur funktioniert, wenn sowohl Pico als auch Giga ihn berühren.",
+  "The button sends a message that the task has been completed": "Der Knopf sendet eine Nachricht, dass die Aufgabe abgeschlossen wurde",
+  "Use the \"say\" command.": "Verwende den »sage«-Befehl.",
+  "Cat and Hedgehog sprites": "Katze- und Igel-Sprites",
+  "The Cat sprite dodges the hedgehogs! The rule for controlling the Cat sprite: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse. Study the example and we'll create something similar.": "Die Katze-Sprite weicht den Igeln aus!\nRegel zur Steuerung der Katze-Sprite: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.\nStudieren wir das Beispiel und erstellen etwas Ähnliches.",
+  "The rule for controlling the Cat sprite: if the mouse pointer touches the Cat sprite and the mouse is held down, the sprite follows the mouse.": "Regel zur Steuerung der Katze-Sprite: Wenn der Mauszeiger die Katze-Sprite berührt und die Maustaste gedrückt wird, folgt die Sprite der Maus.",
+  "Movement of Hedgehog sprites": "Bewegung der Igel-Sprites",
+  "Think up and program how the Hedgehog sprites will move.": "Überlege dir und programmiere, wie sich die Igel-Sprites bewegen sollen.",
+  "Hedgehog sprite touching": "Berührung mit Igel-Sprite",
+  "If the Cat sprite touches the hedgehog, it says \"Hey!\" Rule: Touching one hedgehog OR another is programmed with these commands.": "Wenn die Katze-Sprite den Igel berührt, sagt sie »Hey!«\nRegel: Die Berührung eines Igels ODER eines anderen wird mit diesen Befehlen programmiert.",
+  "Continuous condition checking and initial placement": "Ständige Bedingungsprüfung und Anfangsplatzierung",
+  "Complete the code so that it works correctly.": "Vervollständige den Code, damit er richtig funktioniert.",
+  "Open the elevator": "Den Aufzug öffnen",
+  "Program the elevator so that the door will open if any of the Girl sprites come up and touch the button!": "Programmiere den Aufzug so, dass die Tür aufgeht, wenn eine der Mädchen-Sprites herankommt und den Knopf berührt!",
+  "Wait until...": "Warte bis...",
+  "The \"wait until...\" command does nothing until the specified condition becomes true. We use it: let the button wait for touches with other sprites.": "Der Befehl »warte bis...« macht nichts, bis die angegebene Bedingung erfüllt ist. Wir verwenden ihn: Der Knopf wartet auf Berührungen mit anderen Sprites.",
+  "Girl sprite touching": "Mädchen-Sprite berührt",
+  "The button is triggered if at least one sprite Girl touches it. Which logical operator should you use?\nThe button then sends the door a message.": "Der Knopf wird ausgelöst, wenn mindestens eine Mädchen-Sprite ihn berührt. Welchen logischen Operator solltest du verwenden?\nDer Knopf sendet dann eine Nachricht an die Tür.",
+  "Opening the elevator door": "Öffnen der Aufzugtür",
+  "The door opens when it receives a message from the button.": "Die Tür öffnet sich, wenn sie eine Nachricht vom Knopf erhält.",
+  "Think about what initial placement you need and program it.": "Überlege dir, welche Anfangsplatzierung du brauchst, und programmiere sie.",
+  "Start the Algorithmics bus": "Starte den Algorithmics-Bus",
+  "The sprites Giga and Pico need to run the Algorithmics bus from the portal. To do this, they need to touch a button together.Study the example and let's create the code!": "Die Sprites Giga und Pico müssen den Algorithmics-Bus aus dem Portal starten. Dazu müssen sie gemeinsam einen Knopf berühren.\nStudieren wir das Beispiel und erstellen den Code!",
+  "Pressing the button": "Den Knopf drücken",
+  "Which operator should be used for the button to work if both Pico and Giga touch it?": "Welcher Operator sollte verwendet werden, damit der Knopf funktioniert, wenn sowohl Pico als auch Giga ihn berühren?",
+  "The appearance of the portal and running the bus": "Das Erscheinen des Portals und das Starten des Busses",
+  "After clicking the button, it sends a message that the portal and the bus receive.": "Nach dem Drücken des Knopfes sendet er eine Nachricht, die das Portal und der Bus erhalten.",
+  "Program the initial placement for all the sprites.": "Programmiere die Anfangsplatzierung für alle Sprites.",
+  "The Crab and Coral sprites": "Die Krabben- und Korallen-Sprites",
+  "The Crab sprite needs to hide behind the coral! Click on the area of the stage where it needs to move to.": "Die Krabben-Sprite muss sich hinter der Koralle verstecken! Klicke auf den Bereich der Bühne, zu dem sie sich bewegen soll.",
+  "Mouse control": "Maussteuerung",
+  "Two \"OR\" logical operators": "Zwei logische Operatoren »ODER«",
+  "There are three Coral sprites on the stage. To check for touching of three colors, logical operators can be inserted into each other!": "Auf der Bühne gibt es drei Korallen-Sprites. Um das Berühren von drei Farben zu prüfen, können logische Operatoren ineinander verschachtelt werden!",
+  "Change color": "Farbe ändern",
+  "Use the “touches color” block to check if the Crab sprite is near the coral. Use the eyedropper tool to select the color you want.": "Verwende den Block »berührt Farbe«, um zu prüfen, ob die Krabben-Sprite in der Nähe der Koralle ist. Verwende das Pipetten-Werkzeug, um die gewünschte Farbe auszuwählen.",
+  "Growth apple": "Wachstumsapfel",
+  "The Cat sprite isn't allowing the Triceratops sprite to reach the volcano. The dinosaur will only leave if the Cat sprite becomes large enough.To do that, it needs to touch the magic apple!": "Die Katze-Sprite lässt die Triceratops-Sprite nicht zum Vulkan gelangen. Der Dinosaurier geht nur weg, wenn die Katze-Sprite groß genug wird.\nDazu muss sie den magischen Apfel berühren!",
+  "The Cat sprite grows in size when it touches the apple": "Die Katze-Sprite wächst, wenn sie den Apfel berührt",
+  "The Cat sprite shouldn't grow immediately": "Die Katze-Sprite sollte nicht sofort wachsen",
+  "When the Cat sprite touches the apple, it immediately becomes huge and cannot go through the wall.To prevent this from happening, use the \"wait until __\" command and a logical operator. Then one touch with the apple will grow the cat by only 20%, and for the next time, you need to move away from the apple and touch it again.": "Wenn die Katze-Sprite den Apfel berührt, wird sie sofort riesig und kann nicht durch die Wand gehen.\nUm das zu verhindern, verwende den Befehl »warte bis __« und einen logischen Operator. Dann wächst die Katze bei einer Berührung mit dem Apfel nur um 20 %, und beim nächsten Mal musst du dich vom Apfel entfernen und ihn erneut berühren.",
+
+  "-------------------Logic. LEKTION 3_Scratch.-----------------------?":"-------------------Logic. LEKTION 3_Scratch.-----------------------DEUTSCH?",
+
+  "The Dice sprite": "Die Würfel-Figur",
+  "If you don't happen to have a dice - you can program one! Click on it.": "Wenn du keinen Würfel hast – du kannst einen programmieren! Klicke darauf.",
+  "Random number of repetitions": "Zufällige Anzahl an Wiederholungen",
+  "The costume change occurs a random number of times when you click on the sprite.": "Der Kostümwechsel erfolgt eine zufällige Anzahl von Malen, wenn du auf die Figur klickst.",
+  "Invisibility and visibility": "Unsichtbarkeit und Sichtbarkeit",
+  "To avoid seeing how the Dice sprite changes costumes, have it hide before changing costumes and appear after.": "Damit man nicht sieht, wie die Würfel-Figur die Kostüme wechselt, soll sie sich vor dem Wechsel verstecken und danach wieder erscheinen.",
+  "Rain": "Regen",
+  "Click on the green flag to start the rain simulation.": "Klicke auf die grüne Fahne, um die Regensimulation zu starten.",
+  "A Raindrop sprite appears at a random position at the top of the stage": "Eine Regentropfen-Figur erscheint an einer zufälligen Position oben auf der Bühne.",
+  "A Raindrop sprite appears at a random position at the top of the stage. Think which coordinate is constant there, and which one changes randomly?": "Eine Regentropfen-Figur erscheint an einer zufälligen Position oben auf der Bühne. Überlege: Welche Koordinate ist konstant, und welche ändert sich zufällig?",
+  "The Raindrop sprite is moving down": "Die Regentropfen-Figur bewegt sich nach unten.",
+  "Program the Raindrop sprite to move downward. What coordinate will change?": "Programmiere die Regentropfen-Figur so, dass sie sich nach unten bewegt. Welche Koordinate ändert sich?",
+  "The Raindrop sprite falls until...": "Die Regentropfen-Figur fällt, bis...",
+  "The Raindrop sprite falls until it touches the ground, i.e. the brown.": "Die Regentropfen-Figur fällt, bis sie den Boden berührt, also das Braun.",
+  "Repeat forever": "Wiederhole fortlaufend",
+  "Program the movement of the Raindrop sprite to repeat itself always": "Programmiere die Bewegung der Regentropfen-Figur so, dass sie sich ständig wiederholt.",
+  "Program 2 more raindrops": "Programmiere 2 weitere Regentropfen",
+  "Duplicate the code for the other raindrops. Use commands \"hide\" and \"show\" only for raindrops 2 and 3, and don't forget about command \"wait__ seconds\" for these two sprites, so that the drops fall at different times. Any amount of time can be used.": "Dupliziere den Code für die anderen Regentropfen. Verwende die Befehle \"verstecke dich\" und \"zeige dich\" nur für Regentropfen 2 und 3 und vergiss den Befehl \"warte__ Sekunden\" für diese beiden Figuren nicht, damit die Tropfen zu unterschiedlichen Zeiten fallen. Jede beliebige Zeit kann verwendet werden.",
+  "Goal": "Tor",
+  "The Cat sprite always scores a goal! The Ball sprite always hits the goal, but each time it flies to a different point. Press the spacebar to run the Ball sprite.": "Die Katzen-Figur schießt immer ein Tor! Die Ball-Figur trifft immer das Tor, aber jedes Mal fliegt er zu einem anderen Punkt. Drücke die Leertaste, um die Ball-Figur zu starten.",
+  "Conversation with the Cat sprite": "Gespräch mit der Katzen-Figur",
+  "Program the sprite Cat's lines": "Programmiere die Sätze der Katzen-Figur.",
+  "When you press the key, the Ball sprite goes toward the goal": "Wenn du die Taste drückst, bewegt sich die Ball-Figur auf das Tor zu.",
+  "When you press the spacebar, the Ball sprite returns to the starting point and then flies into the goal.": "Wenn du die Leertaste drückst, kehrt die Ball-Figur zum Ausgangspunkt zurück und fliegt dann ins Tor.",
+  "The Ball sprite flies to different points": "Die Ball-Figur fliegt zu verschiedenen Punkten.",
+  "We set the coordinate ranges using the \"pick random __ to __\" block. This time we need 2 commands. Study the dimensions of the goal.": "Wir legen die Koordinatenbereiche mit dem Block \"Zufallszahl von __ bis __ wählen\" fest. Dieses Mal brauchen wir 2 Befehle. Untersuche die Maße des Tores.",
+  "Catch the ball": "Fange den Ball",
+  "Drag the platform with your mouse. Program the Ball sprite so that when it collides with the platform, the sprite flies in different directions. Use only the commands available on the canvas.": "Ziehe die Plattform mit der Maus. Programmiere die Ball-Figur so, dass sie, wenn sie mit der Plattform kollidiert, in verschiedene Richtungen fliegt. Verwende nur die auf der Bühne verfügbaren Befehle.",
+  "Set the initial position of the Ball sprite.": "Setze die Anfangsposition der Ball-Figur.",
+  "The Ball sprite starts to move in random directions": "Die Ball-Figur beginnt, sich in zufällige Richtungen zu bewegen.",
+  "The Ball sprite starts to move down, but not always in the direction of 180: sometimes it deflects either to the right or to the left. Program that movement using these commands.": "Die Ball-Figur bewegt sich nach unten, aber nicht immer in Richtung 180: manchmal weicht sie nach rechts oder links ab. Programmiere diese Bewegung mit diesen Befehlen.",
+  "Ball bouncing": "Ball-Abprallen",
+  "The Ball sprite bounces off the platform, turning in a random direction away from the platform.": "Die Ball-Figur prallt von der Plattform ab und dreht sich in eine zufällige Richtung von der Plattform weg.",
+  "Use the left and right arrows to control the platform, hit the Ball sprite, and don't let it fly to the bottom edge! Look, after it's hit, the sprite rotates at different angles!": "Verwende die Pfeiltasten links und rechts, um die Plattform zu steuern, triff die Ball-Figur und lass sie nicht zum unteren Rand fliegen! Schau, nach dem Treffer dreht sich die Figur in unterschiedlichen Winkeln!",
+  "Controlling the platform": "Steuerung der Plattform",
+  "Program the platform controls.": "Programmiere die Steuerung der Plattform.",
+  "Continuous movement of the Ball sprite": "Ständige Bewegung der Ball-Figur",
+  "You're already familiar with this movement! Shall we program it?": "Du kennst diese Bewegung schon! Sollen wir sie programmieren?",
+  "Loss checking": "Überprüfung der Niederlage",
+  "Think about at what point the game ends. How is a loss indicated?": "Überlege, an welchem Punkt das Spiel endet. Wie wird eine Niederlage angezeigt?",
+  "*Bonus: add the ability to choose the difficulty level": "*Bonus: Füge die Möglichkeit hinzu, den Schwierigkeitsgrad zu wählen.",
+  "The difficulty depends, for example, on the size of the platform. Make it so that you can choose the difficulty level.": "Die Schwierigkeit hängt zum Beispiel von der Größe der Plattform ab. Mache es so, dass man den Schwierigkeitsgrad wählen kann.",
+  "*Bonus: add a second player": "*Bonus: Füge einen zweiten Spieler hinzu.",
+  "Redesign the game so that it can be played by two!": "Gestalte das Spiel so um, dass es zu zweit gespielt werden kann!",
+  "Rockfall": "Steinschlag",
+  "When you click on the green flag, all the sprites take their starting positions": "Wenn du auf die grüne Fahne klickst, nehmen alle Figuren ihre Startposition ein.",
+  "The MarsBot is keyboard controlled": "Der MarsBot wird mit der Tastatur gesteuert.",
+  "Rocks appear randomly at the top of the stage and move downward": "Felsen erscheinen zufällig oben auf der Bühne und bewegen sich nach unten.",
+  "After touching the edge, the rock disappears and reappears at a random point at the top": "Nachdem er den Rand berührt hat, verschwindet der Felsen und erscheint wieder an einem zufälligen Punkt oben.",
+  "It's a win if the MarsBot lasts 20 seconds": "Es ist ein Sieg, wenn der MarsBot 20 Sekunden überlebt.",
+  "When the MarsBot and a rock touch, the loss event occurs": "Wenn der MarsBot und ein Felsen sich berühren, tritt eine Niederlage ein.",
+  "Shooting": "Schießen",
+  "Enemy appears 1": "Gegner erscheint 1",
+  "The enemy appears at the top of the stage.": "Der Gegner erscheint oben auf der Bühne.",
+  "Second and third enemy": "Zweiter und dritter Gegner",
+  "Duplicate the enemy sprite and for each enemy set the movement speed and coordinate area where it appears.": "Dupliziere die Gegner-Figur und lege für jeden Gegner die Bewegungsgeschwindigkeit und den Koordinatenbereich fest, in dem er erscheint.",
+  "Losing": "Niederlage",
+  "For the \"Rocket\" sprite, describe the conditions under which a loss occurs.": "Beschreibe für die \"Raketen\"-Figur die Bedingungen, unter denen eine Niederlage eintritt.",
+  "Fire movement": "Bewegung des Schusses",
+  "Program the fire starting upon the click of the mouse button. The fire flies until it touches the edge or one of the enemies. When it touches something, it sends the message \"hit.\"": "Programmiere den Schuss so, dass er beim Klicken der Maustaste startet. Der Schuss fliegt, bis er den Rand oder einen der Gegner berührt. Wenn er etwas berührt, sendet er die Nachricht \"getroffen\".",
+  "Enemies react to fire hitting": "Gegner reagieren auf Treffer",
+  "The enemies receive the message \"hit,\" and if they touch fire, they start again.": "Die Gegner erhalten die Nachricht \"getroffen\", und wenn sie vom Schuss getroffen werden, beginnen sie von neuem.",
+  "*Bonus: add a main enemy": "*Bonus: Füge einen Hauptgegner hinzu.",
+  "Modify the game as you like. Add enemies and change their appearance. Add a main enemy.": "Ändere das Spiel, wie du möchtest. Füge Gegner hinzu und ändere ihr Aussehen. Füge einen Hauptgegner hinzu.",
+  "*Bonus: The main enemy changes size": "*Bonus: Der Hauptgegner ändert seine Größe.",
+  "If you hit the main enemy, it gets smaller. If it is less than a certain value, you win.": "Wenn du den Hauptgegner triffst, wird er kleiner. Wenn er kleiner als ein bestimmter Wert ist, gewinnst du.",
+
+
+
+
+
+
+
+    "-------------------Logic. LEKTION 4_Scratch.-----------------------?":"-------------------Logic. LEKTION 4_Scratch.-----------------------DEUTSCH?",
+  "Run the program on the flag": "Starte das Programm mit der Flagge",
+  "This is the Frank sprite. He can jump over rocks. Control him using the arrows and don't let him get stuck in the swamp!": "Das ist die Figur Frank. Er kann über Felsen springen. Steuere ihn mit den Pfeiltasten und lass ihn nicht im Sumpf stecken!",
+  "The Frank sprite got stuck in the swamp": "Die Figur Frank ist im Sumpf stecken geblieben",
+  "Modify the program so that the Frank sprite says he got stuck in the swamp if he drops down too low.": "Ändere das Programm so, dass die Figur Frank sagt, dass sie im Sumpf stecken geblieben ist, wenn sie zu tief fällt.",
+  "Set the original position of the Frank sprite.": "Lege die Ausgangsposition der Figur Frank fest.",
+  "Less than symbol": "Kleiner-als-Zeichen",
+  "This is the less than symbol. The number to the left of the symbol is less than the other one. The acute angle always points to the smaller number.": "Das ist das Kleiner-als-Zeichen. Die Zahl links vom Zeichen ist kleiner als die andere. Der spitze Winkel zeigt immer auf die kleinere Zahl.",
+  "Going around walls": "Um Wände herumgehen",
+  "Arrow control. Please note that the Andy sprite does not walk on walls. Just like in reality!": "Pfeilsteuerung. Beachte, dass die Figur Andy nicht auf Wänden läuft. Genau wie in der Realität!",
+  "We don't move along walls": "Wir bewegen uns nicht entlang der Wände",
+  "Complete the code that is triggered when you press the up arrow key. If the up arrow is pressed but the Y coordinate is greater than 25, no movement occurs.": "Vervollständige den Code, der ausgelöst wird, wenn die Pfeiltaste nach oben gedrückt wird. Wenn die Pfeiltaste gedrückt wird, aber die Y-Koordinate größer als 25 ist, erfolgt keine Bewegung.",
+  "Greater than symbol": "Größer-als-Zeichen",
+  "This is the greater than symbol. The number to the left of the symbol is greater than the other one. The acute angle always points to the smaller number.": "Das ist das Größer-als-Zeichen. Die Zahl links vom Zeichen ist größer als die andere. Der spitze Winkel zeigt immer auf die kleinere Zahl.",
+  "The Goalkeeper sprite": "Die Figur Torwart",
+  "The Goalkeeper sprite moves left and right in front of the goal, without going past it. It also starts moving from wherever it stopped last. Run it several times to check.": "Die Figur Torwart bewegt sich links und rechts vor dem Tor, ohne es zu überqueren. Sie beginnt ihre Bewegung immer dort, wo sie zuletzt aufgehört hat. Starte das Programm mehrmals, um es zu überprüfen.",
+  "Left movement": "Bewegung nach links",
+  "Program the movement of the Goalkeeper sprite to the left. It must not go past the goal.": "Programmiere die Bewegung der Figur Torwart nach links. Sie darf das Tor nicht überschreiten.",
+  "Right movement": "Bewegung nach rechts",
+  "Program the movement to the right.": "Programmiere die Bewegung nach rechts.",
+  "Left and right control": "Steuerung nach links und rechts",
+  "Program the Frank sprite controls!": "Programmiere die Steuerung der Figur Frank!",
+  "Jump": "Sprung",
+  "Program the Frank sprite so that when you press the up arrow, he will jump only if he is standing on a rock.": "Programmiere die Figur Frank so, dass sie springt, wenn du die Pfeiltaste nach oben drückst – aber nur, wenn sie auf einem Felsen steht.",
+  "Gravity": "Schwerkraft",
+  "If the Frank sprite does not touch the rock, it falls, which means it moves down and the Y coordinate changes.": "Wenn die Figur Frank den Felsen nicht berührt, fällt sie – das bedeutet, sie bewegt sich nach unten und die Y-Koordinate ändert sich.",
+  "If the Frank sprite drops down too low, he says that he is stuck in the swamp.": "Wenn die Figur Frank zu tief fällt, sagt sie, dass sie im Sumpf stecken geblieben ist.",
+  "This is a real platformer game! Here gravity affects the player and you can only jump by pushing off the platform. You need to reach the goal by jumping over obstacles.": "Das ist ein echtes Plattformspiel! Hier wirkt die Schwerkraft auf den Spieler, und man kann nur springen, wenn man sich von einer Plattform abstößt. Du musst das Ziel erreichen, indem du Hindernisse überspringst.",
+  "Rule: if the player is at the bottom of the stage, you lose": "Regel: Wenn der Spieler sich am unteren Rand der Bühne befindet, verlierst du",
+  "Other rules": "Andere Regeln",
+  "Don't forget about the rest of the rules: how do enemies and obstacles work?": "Vergiss die restlichen Regeln nicht: Wie funktionieren Gegner und Hindernisse?",
+  "Enemy movement in levels 1 and 2": "Bewegung der Gegner in den Leveln 1 und 2",
+  "Adds enemies and program their movement!": "Füge Gegner hinzu und programmiere ihre Bewegung!",
+  "Transitions between levels": "Übergänge zwischen den Leveln",
+  "Don't forget about transitions between game levels: how do all the participants react to level changes?": "Vergiss die Übergänge zwischen den Spielstufen nicht: Wie reagieren alle Beteiligten auf den Levelwechsel?",
+  "*Bonus: add new features": "*Bonus: Neue Funktionen hinzufügen",
+  "Add new features like shooting, leverage, or superpowers for the main character. See an example in the next level marked with the letter \"D\"!": "Füge neue Funktionen wie Schießen, Hebelwirkung oder Superkräfte für die Hauptfigur hinzu. Sieh dir ein Beispiel im nächsten Level mit dem Buchstaben „D“ an!",
+  "Key control. Up to jump. Reach the goal!": "Tastensteuerung. Hoch zum Springen. Erreiche das Ziel!",
+
+
+
+
+  "MODUL5___VARIABLEN":"MODUL5___VARIABLEN_DE",
+  "Cat bot 1": "Katze bot 1",
+  "Study the project. The cat asks for the username and greets them. Let's program it.": "Studiere das Projekt.\nDie Katze fragt nach dem Benutzernamen und begrüßt sie. Programmieren wir es.",
+  "The cat asks for a name and remembers it.": "Die Katze fragt nach einem Namen und merkt ihn sich.",
+  "The cat asks for a name and remembers it. To program that, use the following commands.": "Die Katze fragt nach einem Namen und merkt ihn sich.\nUm das zu programmieren, verwende die folgenden Befehle.",
+  "The cat calls the user by name": "Die Katze ruft den Benutzer beim Namen",
+  "The cat refers to the user by name. To program that, use the following commands.": "Die Katze spricht den Benutzer mit Namen an.\nUm das zu programmieren, verwende die folgenden Befehle.",
+  "Cat bot 2": "Katze bot 2",
+  "Study how the cat bot works. It asks the user's age and responds. Let's program it.": "Studiere, wie der Cat bot funktioniert.\nEr fragt nach dem Alter des Benutzers und antwortet. Programmieren wir es.",
+  "The cat asks for an age": "Die Katze fragt nach einem Alter",
+  "The cat asks the user's age and remembers it. To program that, use the following commands.": "Die Katze fragt nach dem Alter des Benutzers und merkt es sich.\nUm das zu programmieren, verwende die folgenden Befehle.",
+  "The cat communicates": "Die Katze kommuniziert",
+  "The cat uses the age value to refer to the user. To program that, use the following commands.": "Die Katze verwendet den Alterswert, um den Benutzer anzusprechen.\nUm das zu programmieren, verwende die folgenden Befehle.",
+  "Greeting": "Begrüßung",
+  "Run the project and answer the questions.": "Führe das Projekt aus und beantworte die Fragen.",
+  "Create variables": "Erstelle Variablen",
+  "How many variables do you need? How should they be named?": "Wie viele Variablen benötigst du? Wie sollten sie benannt werden?",
+  "The cat's age": "Das Alter der Katze",
+  "The cat's age is a random variable.": "Das Alter der Katze ist eine Zufallsvariable.",
+  "Record the values you need in variables": "Notiere die benötigten Werte in Variablen",
+  "The player enters a name and age.": "Der Spieler gibt einen Namen und ein Alter ein.",
+  "Use variable values": "Verwende Variablenwerte",
+  "Let the cat call you by name and compare ages!": "Lass die Katze dich beim Namen nennen und Alter vergleichen!",
+  "The cat asks for a password and remembers it": "Die Katze fragt nach einem Passwort und merkt es sich",
+  "To remember the password, you need to write it in a variable.": "Um sich das Passwort zu merken, musst du es in eine Variable schreiben.",
+  "The cat asks for the password and checks it": "Die Katze fragt nach dem Passwort und überprüft es",
+  "If the answer and the \"Password\" variable match, the appearance of the cat changes or it performs an action.": "Wenn die Antwort und die \"Password\"-Variable übereinstimmen, ändert sich das Aussehen der Katze oder sie führt eine Aktion aus.",
+ 
+  "Octopus": "Oktopus",
+  "The counter keeps track of how many times the octopus catches its prey.": "Der Zähler verfolgt, wie oft der Oktopus seine Beute fängt.",
+  "The score is set to zero": "Der Punktestand wird auf Null gesetzt",
+  "At the start, the score is 0.": "Am Anfang ist der Punktestand 0.",
+  "Controlling the octopus": "Steuerung des Oktopus",
+  "Add the \"Control\" block and the \"Repeat forever\" command.": "Füge den \"Steuerung\"-Block und den \"Wiederhole fortlaufend\"-Befehl hinzu.",
+  "The score goes up": "Der Punktestand steigt",
+  "Add the next set of commands after the control block. Note that the condition must be checked constantly.": "Füge den nächsten Befehlssatz nach dem Steuerungsblock hinzu. Beachte, dass die Bedingung ständig überprüft werden muss.",
+  "Guess the number": "Errate die Zahl",
+  "The MarsBot chooses a number from 1 to 10. Try to guess what the number is.": "Der MarsBot wählt eine Zahl von 1 bis 10. Versuche zu erraten, welche Zahl es ist.",
+  "Rules of the game": "Spielregeln",
+  "Program the \"Game Rules\" block so that the MarsBot explains the rules.": "Programmiere den \"Spielregeln\"-Block, damit der MarsBot die Regeln erklärt.",
+  "The MarsBot thinks of a number": "Der MarsBot denkt sich eine Zahl aus",
+  "Program the Question-Answer block. Set the \"Secret number\" variable to a random value.": "Programmiere den Frage-Antwort-Block. Setze die Variable \"Geheime Zahl\" auf einen zufälligen Wert.",
+  "The user enters a number": "Der Benutzer gibt eine Zahl ein",
+  "The MarsBot asks the user.": "Der MarsBot fragt den Benutzer.",
+  "Condition checking": "Bedingungsüberprüfung",
+  "The MarsBot says whether the user guessed the number or not. If not, it says the secret number. Используй команду «объединить».": "Der MarsBot sagt, ob der Benutzer die Zahl erraten hat oder nicht. Wenn nicht, sagt er die geheime Zahl. Verwende den \"verbinde\"-Befehl.",
+  "Play the game. Write the same!": "Spiele das Spiel. Schreibe das Gleiche!",
+  "The sprite explains the rules of the game.": "Das Sprite erklärt die Regeln des Spiels.",
+  "Number input and comparing it with the secret one": "Zahleneingabe und Vergleich mit der geheimen Zahl",
+  "The sprite asks for a number until it is guessed.": "Das Sprite fragt nach einer Zahl, bis sie erraten wird.",
+  "Tips": "Tipps",
+  "The sprite says whether the secret number is higher or lower than the entered one.": "Das Sprite sagt, ob die geheime Zahl höher oder niedriger als die eingegebene ist.",
+  "The program calculates how many attempts the player took to guess the secret number.": "Das Programm berechnet, wie viele Versuche der Spieler benötigt hat, um die geheime Zahl zu erraten.",
+
+
+
+  
+  "Apple picking season": "Apfelerntezeit",
+  "It's time to pick apples. They are already falling from the tree themselves. There's a basket under the apple tree and you can find out how many apples have fallen into the basket, and how many missed it. Let's program it.": "Es ist Zeit, Äpfel zu pflücken. Sie fallen bereits von selbst vom Baum.\nUnter dem Apfelbaum steht ein Korb und du kannst herausfinden, wie viele Äpfel in den Korb gefallen sind und wie viele ihn verfehlt haben.\nProgrammieren wir es.",
+  "Variables": "Variablen",
+  "In order to keep score of the apples, you need \"Collected\" and \"Missed\" variables. These variables should be set to 0 when starting the project to avoid confusion.": "Um die Äpfel zu zählen, benötigst du \"Gesammelte\" und \"Verfehlte\" Variablen.\nDiese Variablen sollten beim Start des Projekts auf 0 gesetzt werden, um Verwirrung zu vermeiden.",
+  "Set the initial placement so that the apples fall from the apple tree and are of the correct size.": "Lege die Ausgangsposition so fest, dass die Äpfel vom Apfelbaum fallen und die richtige Größe haben.",
+  "Falling apples": "Fallende Äpfel",
+  "We program the apples to fall down, and to make it more realistic, we make the apples rotate.": "Wir programmieren die Äpfel so, dass sie nach unten fallen, und um es realistischer zu machen, lassen wir die Äpfel rotieren.",
+  "Counting missed apples": "Zählen der verfehlten Äpfel",
+  "Within a \"repeat forever\" command, create a condition check for missing the basket.": "Erstelle innerhalb eines \"wiederhole fortlaufend\"-Befehls eine Bedingungsprüfung für das Verfehlen des Korbes.",
+  "Counting the apples that make it into the basket": "Zählen der Äpfel, die in den Korb gelangen",
+  "Create a condition that checks if an apple makes it into the basket or not. The condition should always be checked.": "Erstelle eine Bedingung, die prüft, ob ein Apfel in den Korb gelangt oder nicht.\nDie Bedingung sollte immer geprüft werden.",
+  "Catch the balls": "Fange die Bälle",
+  "Catch the ball 5 times. To do that, control the basket using the arrows on the keyboard.": "Fange den Ball 5 Mal. Steuere dazu den Korb mit den Pfeiltasten auf der Tastatur.",
+  "When you click on the green flag, all the sprites take their starting positions.": "Wenn du auf die grüne Flagge klickst, nehmen alle Sprites ihre Ausgangspositionen ein.",
+  "Basket control": "Korbsteuerung",
+  "Program the basket so that it can be controlled from the keyboard.": "Programmiere den Korb so, dass er von der Tastatur aus gesteuert werden kann.",
+  "Ball falling": "Ball fällt",
+  "Program the ball to always fall down": "Programmiere den Ball so, dass er immer nach unten fällt",
+  "Moving the ball up the screen": "Bewegen des Balls nach oben auf dem Bildschirm",
+  "After reaching the bottom edge, the ball disappears and reappears at a random point at the top. Program that.": "Nach Erreichen des unteren Randes verschwindet der Ball und erscheint an einem zufälligen Punkt oben wieder. Programmiere das.",
+  "Counting missed balls": "Zählen der verfehlten Bälle",
+  "Within a \"repeat forever\" command, create a condition check for the ball missing the basket.": "Erstelle innerhalb eines \"wiederhole fortlaufend\"-Befehls eine Bedingungsprüfung dafür, dass der Ball den Korb verfehlt.",
+  "Counting the balls that make it into the basket": "Zählen der Bälle, die in den Korb gelangen",
+  "Create a condition that checks if a ball makes it into the basket or not. The condition should always be checked.": "Erstelle eine Bedingung, die prüft, ob ein Ball in den Korb gelangt oder nicht.\nDie Bedingung sollte immer geprüft werden.",
+  "*Bonus: winning and losing": "*Bonus: Gewinnen und Verlieren",
+  "Add a check and victory announcement.": "Füge eine Prüfung und Gewinnansage hinzu.",
+  "*Bonus: announcing captured points": "*Bonus: Ankündigung der gefangenen Punkte",
+  "*The ball moves in a random direction": "*Der Ball bewegt sich in eine zufällige Richtung",
+  "The ball turns in a random direction and starts moving. If it reaches the right or left edge, it bounces off.": "Der Ball dreht sich in eine zufällige Richtung und beginnt sich zu bewegen. Wenn er den rechten oder linken Rand erreicht, prallt er ab.",
+  "*Bonus: modify the game as you see fit": "*Bonus: Modifiziere das Spiel nach deinem Geschmack",
+  "This is a 2 player game. Who will win? The first player can control their racket using the W and S keys, and the second player can control theirs using the up and down arrows.": "Dies ist ein 2-Spieler-Spiel. Wer wird gewinnen?\nDer erste Spieler kann seinen Schläger mit den Tasten W und S steuern, und der zweite Spieler kann seinen mit den Auf- und Ab-Pfeiltasten steuern.",
+  "Program the greeting and introduction with the referee": "Programmiere die Begrüßung und Vorstellung mit dem Schiedsrichter",
+  "The referee asks for the names of the players before the game and announces them. How do we program this?": "Der Schiedsrichter fragt vor dem Spiel nach den Namen der Spieler und kündigt sie an. Wie programmieren wir das?",
+  "Program the racket controls": "Programmiere die Schlägersteuerung",
+  "The first player can control their racket using the W and S keys, and the second player can control theirs using the up and down arrows.": "Der erste Spieler kann seinen Schläger mit den Tasten W und S steuern, und der zweite Spieler kann seinen mit den Auf- und Ab-Pfeiltasten steuern.",
+  "Find the Goal Check procedure and program it.": "Finde die Goal Check-Prozedur und programmiere sie.",
+  "Describe the victory check": "Beschreibe die Siegesprüfung",
+  "Find the Win Check procedure and program it.": "Finde die Win Check-Prozedur und programmiere sie.",
+  "Kaleidoscope": "Kaleidoskop",
+  "Run the project. When you press the space bar, a new drawing appears. Let's program it": "Führe das Projekt aus.\nWenn du die Leertaste drückst, erscheint eine neue Zeichnung.\nProgrammieren wir es",
+  "Procedure with a parameter": "Prozedur mit einem Parameter",
+  "Create a procedure with a parameter and attach it to the script that draws the pattern. Be sure to call this procedure \"Flower with __ petals.\"": "Erstelle eine Prozedur mit einem Parameter und hänge sie an das Skript an, das das Muster zeichnet.\nNenne diese Prozedur unbedingt \"Flower with __ petals.\"",
+  "Number of petals": "Anzahl der Blütenblätter",
+  "Add the \"number of petals\" parameter to the script.": "Füge den \"number of petals\"-Parameter zum Skript hinzu.",
+  "When you press the space bar, the procedure \"Flower with __ petals\" is performed, and the number of petals is randomly determined from 5 to 25.": "Wenn du die Leertaste drückst, wird die Prozedur \"Flower with __ petals\" ausgeführt, und die Anzahl der Blütenblätter wird zufällig von 5 bis 25 bestimmt.",
+  "Kaleidoscope 2": "Kaleidoskop 2",
+  "Run the project. When you press a key from 3 to 9, a new pattern appears and the number of petals is equal to that number. Let's program it.": "Führe das Projekt aus.\nWenn du eine Taste von 3 bis 9 drückst, erscheint ein neues Muster und die Anzahl der Blütenblätter entspricht dieser Zahl.\nProgrammieren wir es.",
+  "Add the Pen extension": "Füge die Pen-Erweiterung hinzu",
+  "Create a procedure with a parameter for drawing a flower": "Erstelle eine Prozedur mit einem Parameter zum Zeichnen einer Blume",
+  "Program the drawing of the flower": "Programmiere das Zeichnen der Blume",
+  "You will need to choose a costume, color, and rotate by the number of petals by the following number of degrees: 360/(number of petals).": "Du musst ein Kostüm, eine Farbe auswählen und um folgende Gradzahl drehen: 360/(Anzahl der Blütenblätter).",
+  "Program the choice of the number of petals": "Programmiere die Auswahl der Anzahl der Blütenblätter",
+  "Make it so that when you click on the number 3, a flower with 3 petals is drawn, or when you click on 4, it has four petals.": "Stelle sicher, dass beim Klicken auf die Zahl 3 eine Blume mit 3 Blütenblättern gezeichnet wird oder beim Klicken auf 4 vier Blütenblätter hat.",
+  "Chat with the Cat-bot!": "Plaudere mit dem Cat-bot!",
+  "Add your bot that will perform actions": "Füge deinen Bot hinzu, der Aktionen ausführt",
+  "At startup, the bot asks for a name and age": "Beim Start fragt der Bot nach einem Namen und Alter",
+  "Choose at least 2 functions for your bot and program them!": "Wähle mindestens 2 Funktionen für deinen Bot und programmiere sie!",
+  "What can your bot do? It could compare your ages, play the guitar, call a friend, or tell a story.": "Was kann dein Bot tun? Er könnte eure Alter vergleichen, Gitarre spielen, einen Freund anrufen oder eine Geschichte erzählen."
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
